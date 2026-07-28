@@ -1,0 +1,423 @@
+{
+  "identifier": "58F2A1THREADGRIDCREDITS",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "0.99",
+      "familyShareable": false,
+      "internalID": "BF4435F7-21BA-4712-A89B-76BBE06514EE",
+      "localizations": [
+        {
+          "description": "110 Export Credits for printable stitch charts.",
+          "displayName": "110 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473900",
+      "referenceName": "110 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "1.99",
+      "familyShareable": false,
+      "internalID": "6E9BD5AC-4077-4753-A1DB-CEE0735043C2",
+      "localizations": [
+        {
+          "description": "210 Export Credits for printable stitch charts.",
+          "displayName": "210 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473901",
+      "referenceName": "210 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "9BD92782-3A07-40B9-B8CB-2F1299C60EE9",
+      "localizations": [
+        {
+          "description": "310 Export Credits for printable stitch charts.",
+          "displayName": "310 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473902",
+      "referenceName": "310 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "B96EB95F-8B26-46B6-B287-734CBD9DAEB8",
+      "localizations": [
+        {
+          "description": "400 Export Credits for printable stitch charts.",
+          "displayName": "400 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473903",
+      "referenceName": "400 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "0A1FFA69-6108-4AE5-9997-ED8B861AD364",
+      "localizations": [
+        {
+          "description": "520 Export Credits for printable stitch charts.",
+          "displayName": "520 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473904",
+      "referenceName": "520 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "5.99",
+      "familyShareable": false,
+      "internalID": "90939A46-035F-42A4-AFFD-71493A2A2FAB",
+      "localizations": [
+        {
+          "description": "630 Export Credits for printable stitch charts.",
+          "displayName": "630 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473905",
+      "referenceName": "630 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "6.99",
+      "familyShareable": false,
+      "internalID": "C408CA15-527C-4377-8E8D-C15DBD1C1828",
+      "localizations": [
+        {
+          "description": "740 Export Credits for printable stitch charts.",
+          "displayName": "740 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473906",
+      "referenceName": "740 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "8.99",
+      "familyShareable": false,
+      "internalID": "11139349-A03A-469C-95AF-FC6A3F9AB06D",
+      "localizations": [
+        {
+          "description": "1000 Export Credits for printable stitch charts.",
+          "displayName": "1000 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473907",
+      "referenceName": "1000 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "9.99",
+      "familyShareable": false,
+      "internalID": "B9318ABF-0DB0-44C4-8C9A-A68FDD635464",
+      "localizations": [
+        {
+          "description": "1200 Export Credits for printable stitch charts.",
+          "displayName": "1200 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473908",
+      "referenceName": "1200 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "12.99",
+      "familyShareable": false,
+      "internalID": "5DB2A73C-708B-4F27-B440-8EED9AD20912",
+      "localizations": [
+        {
+          "description": "1600 Export Credits for printable stitch charts.",
+          "displayName": "1600 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473909",
+      "referenceName": "1600 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "15.99",
+      "familyShareable": false,
+      "internalID": "CB729611-E5E0-4224-890F-F9817E260B55",
+      "localizations": [
+        {
+          "description": "2000 Export Credits for printable stitch charts.",
+          "displayName": "2000 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473910",
+      "referenceName": "2000 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "19.99",
+      "familyShareable": false,
+      "internalID": "9E44C679-D271-4CF0-B25C-7422D84C2AE7",
+      "localizations": [
+        {
+          "description": "2600 Export Credits for printable stitch charts.",
+          "displayName": "2600 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473911",
+      "referenceName": "2600 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "24.99",
+      "familyShareable": false,
+      "internalID": "1299A7C7-1AFC-469E-BDC6-F5883BFFBE13",
+      "localizations": [
+        {
+          "description": "3300 Export Credits for printable stitch charts.",
+          "displayName": "3300 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473912",
+      "referenceName": "3300 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "29.99",
+      "familyShareable": false,
+      "internalID": "31D0CF84-FD6D-4F7D-BE23-1DBBA52AB409",
+      "localizations": [
+        {
+          "description": "4200 Export Credits for printable stitch charts.",
+          "displayName": "4200 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473913",
+      "referenceName": "4200 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "34.99",
+      "familyShareable": false,
+      "internalID": "545B29C9-F359-484C-9BBE-53EA135A0332",
+      "localizations": [
+        {
+          "description": "4900 Export Credits for printable stitch charts.",
+          "displayName": "4900 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473914",
+      "referenceName": "4900 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "39.99",
+      "familyShareable": false,
+      "internalID": "AA9E8571-7272-4596-A04E-F44373C172C0",
+      "localizations": [
+        {
+          "description": "6000 Export Credits for printable stitch charts.",
+          "displayName": "6000 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473915",
+      "referenceName": "6000 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "49.99",
+      "familyShareable": false,
+      "internalID": "31F83039-0F4A-44DC-9346-5C05CF0BABEE",
+      "localizations": [
+        {
+          "description": "8000 Export Credits for printable stitch charts.",
+          "displayName": "8000 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473916",
+      "referenceName": "8000 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "79.99",
+      "familyShareable": false,
+      "internalID": "BE99D854-23C0-4C2B-834C-1D83CFE4778F",
+      "localizations": [
+        {
+          "description": "14000 Export Credits for printable stitch charts.",
+          "displayName": "14000 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473917",
+      "referenceName": "14000 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "99.99",
+      "familyShareable": false,
+      "internalID": "E81ED8B5-E1B8-4076-B69B-2EC5DEC5C73A",
+      "localizations": [
+        {
+          "description": "14998 Export Credits for printable stitch charts.",
+          "displayName": "14998 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473918",
+      "referenceName": "14998 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "1.99",
+      "familyShareable": false,
+      "internalID": "9D8B2F23-14FB-4250-AA7E-09DDDE68C63A",
+      "localizations": [
+        {
+          "description": "520 Export Credits for printable stitch charts.",
+          "displayName": "520 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473919",
+      "referenceName": "520 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "990A8497-9222-47D7-86D2-E3A85DAA62F6",
+      "localizations": [
+        {
+          "description": "800 Export Credits for printable stitch charts.",
+          "displayName": "800 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473920",
+      "referenceName": "800 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "41E10D3F-A1EA-4F27-A49F-87FE054FA4FA",
+      "localizations": [
+        {
+          "description": "1300 Export Credits for printable stitch charts.",
+          "displayName": "1300 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473921",
+      "referenceName": "1300 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "5.99",
+      "familyShareable": false,
+      "internalID": "BC1E8772-2CFC-4829-9FF8-C09870FAFE71",
+      "localizations": [
+        {
+          "description": "1500 Export Credits for printable stitch charts.",
+          "displayName": "1500 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473922",
+      "referenceName": "1500 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "11.99",
+      "familyShareable": false,
+      "internalID": "7E1548BC-15E8-47A3-905A-1CCDF911FD98",
+      "localizations": [
+        {
+          "description": "2700 Export Credits for printable stitch charts.",
+          "displayName": "2700 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473923",
+      "referenceName": "2700 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "12.99",
+      "familyShareable": false,
+      "internalID": "D1859D8F-76EE-41E7-B2B4-1467AC69FFB7",
+      "localizations": [
+        {
+          "description": "2900 Export Credits for printable stitch charts.",
+          "displayName": "2900 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473924",
+      "referenceName": "2900 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "34.99",
+      "familyShareable": false,
+      "internalID": "69FF0779-D8F2-4729-8BFA-A7689EF2120E",
+      "localizations": [
+        {
+          "description": "7200 Export Credits for printable stitch charts.",
+          "displayName": "7200 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473925",
+      "referenceName": "7200 Export Credits",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "79.99",
+      "familyShareable": false,
+      "internalID": "3D30752D-4046-465F-AFE3-E726A3AFF8B9",
+      "localizations": [
+        {
+          "description": "17000 Export Credits for printable stitch charts.",
+          "displayName": "17000 Export Credits",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "473926",
+      "referenceName": "17000 Export Credits",
+      "type": "Consumable"
+    }
+  ],
+  "settings": {
+    "_applicationInternalID": "1A424BC2-699B-4103-9991-002F5FB0204C",
+    "_askToBuyEnabled": false,
+    "_developerTeamID": "",
+    "_failTransactionsEnabled": false,
+    "_lastSynchronizedDate": 786000000.0
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 4,
+    "minor": 0
+  }
+}
