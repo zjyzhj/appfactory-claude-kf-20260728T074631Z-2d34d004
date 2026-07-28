@@ -31,10 +31,30 @@ enum ExportKind: String, Codable, Hashable {
     case printablePDF = "printable_pdf"
 }
 
+extension CreditLedger {
+    /// Attributes the next credit deduction to the StoreKit purchase that
+    /// funds it. Purchased credits are spent before granted ones: while
+    /// unspent purchased balance remains, the next spend is funded by the
+    /// most recent purchase. Returns nil when the spend is covered by granted
+    /// credits only (grants carry no StoreKit transaction).
+    var fundingStorekitTransactionIdForNextSpend: String? {
+        let purchased = transactions.filter { $0.kind == .purchase }.reduce(0) { $0 + $1.amount }
+        let consumed = transactions.filter { $0.kind == .consume }.reduce(0) { $0 - $1.amount }
+        guard purchased > consumed else { return nil }
+        return transactions.last(where: { $0.kind == .purchase })?.storekitTransactionId
+    }
+}
+
 struct ExportRecord: Codable, Identifiable, Hashable {
     var id: UUID = UUID()
     var chartId: UUID
     var kind: ExportKind
+    /// StoreKit transaction that funded the credits spent on this export
+    /// (checklist §9: exports must be traceable to their funding purchase).
+    /// Nil for free exports and for spend covered by granted (non-purchased)
+    /// credits, which carry no StoreKit transaction. Optional so records
+    /// persisted before this field existed still decode.
+    var storekitTransactionId: String?
     var createdAt: Date = Date()
 }
 

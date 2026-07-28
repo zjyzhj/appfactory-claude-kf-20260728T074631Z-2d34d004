@@ -247,8 +247,11 @@ struct ChartExportView: View {
             let pdfData = ExportEngine.makePrintablePDF(chart: chart)
             await MainActor.run {
                 // Deduction only after a successful render (checklist §9).
+                // Capture the funding purchase first so the export record can
+                // trace back to the StoreKit transaction that paid for it.
+                let fundingTransactionId = store.fundingStorekitTransactionIdForNextSpend
                 store.consumeCredits(CreditCatalog.printablePDFCost, note: "Printable PDF · \(chart.title)")
-                store.recordExport(chartId: chart.id, kind: .printablePDF)
+                store.recordExport(chartId: chart.id, kind: .printablePDF, storekitTransactionId: fundingTransactionId)
                 let tempURL = FileManager.default.temporaryDirectory
                     .appendingPathComponent("ThreadGrid-\(chart.title.replacingOccurrences(of: " ", with: "-")).pdf")
                 try? pdfData.write(to: tempURL)

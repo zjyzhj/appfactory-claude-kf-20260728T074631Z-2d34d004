@@ -216,8 +216,19 @@ final class AppStore: ObservableObject {
         persist(immediately: true)
     }
 
-    func recordExport(chartId: UUID, kind: ExportKind) {
-        exportRecords.append(ExportRecord(chartId: chartId, kind: kind))
+    /// StoreKit transaction funding the next deduction — read this immediately
+    /// BEFORE `consumeCredits` so the exported record can trace back to the
+    /// purchase that paid for it (nil when grant-funded; see CreditLedger).
+    var fundingStorekitTransactionIdForNextSpend: String? {
+        ledger.fundingStorekitTransactionIdForNextSpend
+    }
+
+    func recordExport(chartId: UUID, kind: ExportKind, storekitTransactionId: String? = nil) {
+        exportRecords.append(ExportRecord(
+            chartId: chartId,
+            kind: kind,
+            storekitTransactionId: storekitTransactionId
+        ))
         persist()
     }
 
