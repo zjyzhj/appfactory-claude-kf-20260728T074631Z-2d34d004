@@ -1,0 +1,862 @@
+{
+  "schema_version": "appfactory.itunes_search_raw.v1",
+  "status": "ok",
+  "country": "us",
+  "seeds": [
+    "rubiks cube solver camera",
+    "cube scanner solver",
+    "rubik cube trainer",
+    "cube timer algorithms",
+    "camera cube state scan, step-by-step solve guidance, algorithm drills, solve timer"
+  ],
+  "limit_per_seed": 25,
+  "cap": 30,
+  "per_seed": [
+    {
+      "term": "rubiks cube solver camera",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "cube scanner solver",
+      "result_count": 24,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "rubik cube trainer",
+      "result_count": 21,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "cube timer algorithms",
+      "result_count": 24,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "camera cube state scan, step-by-step solve guidance, algorithm drills, solve timer",
+      "result_count": 24,
+      "http_status": 200,
+      "error": null
+    }
+  ],
+  "results": [
+    {
+      "trackId": 1604603007,
+      "trackName": "Cube Solver - Solve any Cube",
+      "bundleId": "com.rubik.cube.solver",
+      "sellerName": "Dai Nguyen",
+      "description": "Knowing how to solve the cube is an amazing skill and it's not so hard to learn if you are patient. You'll realize that you don't have to be a genius to get it done. Now you can learn to solve your cube with the cube solver app! You can also solve a virtual cube and time your solves using our in-built timer! The cube solver challenges your mind and problem-solving skills. It is incredibly addictive and has fascinated fans for decades. A great mental challenge to solve at home or on the move, and now on your phone!. Turn, twist and repeat – the free cube app lets you experience the classic puzzle in a completely new way on your phone! These twisty puzzles help in developing concentration, logic, and patience. Features: * Realistic 3D graphics and animation * Simple and handy controls * Free cube rotation in all axis * Helpful tutorial to solve the cube * Cube timer * Record achievements and leaderboards. Share your time with the whole world! * Solve multiple types of cube 2x2, 3x3, 4x4 * It's free! Have fun solving these world-famous addictive puzzles!",
+      "averageUserRating": 4.2134,
+      "userRatingCount": 52090,
+      "currentVersionReleaseDate": "2025-08-18T07:42:21Z",
+      "releaseDate": "2022-01-14T08:00:00Z",
+      "genres": [
+        "Games",
+        "Simulation",
+        "Puzzle",
+        "Education"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7015",
+        "7012",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-solver-solve-any-cube/id1604603007?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 1673039373,
+      "trackName": "Cube Solver 3D",
+      "bundleId": "lolagre.cubesolver",
+      "sellerName": "LOLAGRE",
+      "description": "Stuck on a cube? Get the 3D solution in seconds. THE ONLY APP IN THE WORLD THAT SOLVES THE 2x2 MIRROR CUBE Simply describe your puzzle - the app does the rest. - 2x2 family (Pocket, Mirror & Tower Cube): solved in 14 moves or fewer - 3x3 Cube: solved in about 27 moves - 4x4 Cube: solved in about 63 moves - 5x5 Cube: solved in about 260 moves - Skewb: solved in 11 moves maximum - Skewb Diamond: solved in 10 moves maximum - Pyraminx: solved in 11 moves - Ivy Cube: solved in 8 moves maximum SPEEDCUBING MODE Challenge yourself with random scrambles, a built-in timer, and detailed statistics. Track your best times and improve your performance session after session. LEARN, CREATE & EXPLORE PATTERNS Follow step-by-step lessons to learn solving techniques from scratch. Then go further: create your own patterns or reproduce iconic designs - country flags and classics included. An original way to turn your cube into a canvas. MULTIPLE CUBE DESIGNS Choose from several visual styles, including a colorblind-friendly design - so everyone can enjoy cubing, whatever their vision. Download now and solve smarter. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.81654,
+      "userRatingCount": 241450,
+      "currentVersionReleaseDate": "2026-07-03T20:26:44Z",
+      "releaseDate": "2023-02-22T08:00:00Z",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-solver-3d/id1673039373?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.6",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6446096806,
+      "trackName": "Cube Solver for Rubik's Puzzle",
+      "bundleId": "pbf.rubiks-cube-solver",
+      "sellerName": "Optional Chaining Technologies Ltda",
+      "description": "Solve your Cube with the world's most powerful app! Cube Solver empowers you with clear, step-by-step instructions to solve 16 cube sizes with ease. Crafted by experts and loved by players worldwide, Cube Solver not only cracks your cube's code but also teaches you how to solve it. Dive into the joy of solving cubes anytime, anywhere, without needing your physical Cube, with our Digital Cube. → Why Choose Cube Solver? • Reliable results: With an 89.4% solve rate and over 100,000 cubes solved monthly, the app ensures accuracy. • Engaging and effective: Enjoy fast solutions and easy-to-follow instructions to stay on track. • Interactive learning: Dive into the world of cube-solving with engaging tutorials and step-by-step guidance, mastering the art at your own pace. • Wide range of cube sizes: from 2x2 up to 17x17. (2x2, 3x3, 4x4, 5x5, 6x6, 7x7, 8x8, 9x9, 10x10, 11x11, 12x12, 13x13, 14x14, 15x15, 16x16, 17x17). → Want to explore unlimited solves? Try Cube Solver Pro for 3 days, absolutely free! Unlock cube-solving, pattern creation, learn how to solve, and enjoy endless digital cube entertainment, with unlimited solves and no ads. Should you opt for Cube Solver Pro, payment will be charged to your Apple account, and your account will be charged for renewal within 24-hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. → Legal Note • Rubik's is a trademark of Spin Master Toys UK Limited. Cube Solver is in no way affiliated with Spin Master Toys UK Limited. • GAN CUBE a trademark of Guangzhou Ganyuan Intelligent Technology Co., Ltd. Cube Solver is in no way affiliated with Guangzhou Ganyuan Intelligent Technology Co., Ltd. → For more details on privacy and terms of use, visit: Privacy Policy: https://www.cube-solver.app/privacy-policy Terms of Use: https://www.cube-solver.app/terms-and-conditions",
+      "averageUserRating": 4.60117,
+      "userRatingCount": 5491,
+      "currentVersionReleaseDate": "2025-11-21T10:34:40Z",
+      "releaseDate": "2023-04-01T07:00:00Z",
+      "genres": [
+        "Games",
+        "Simulation",
+        "Puzzle",
+        "Education"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7015",
+        "7012",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-solver-for-rubiks-puzzle/id6446096806?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 1505663005,
+      "trackName": "ASolver>I'll solve your puzzle",
+      "bundleId": "ru.bnice.asolver-ios",
+      "sellerName": "B-NICE SOFT LTD EOOD",
+      "description": "Take a photo of your Magic Cube with the camera and see how to solve the puzzle. The 100 patterns on the Magic Cube will not leave you indifferent. Incredible Feature! Some puzzles have been broken - disassembled and reassembled incorrectly. Such puzzles are impossible to solve. ASolver knows how to solve and fix such a puzzle. The app uses the camera to recognize and solve puzzles: - 3x3x3 Magic Cube (Speed Cube, Puzzle Cube) - 2x2x2 Pocket Cube (Mini Cube) - 4x4x4 Rubik's Revenge (Master Cube) - 5x5x5 Professor's Cube - 6x6x6 V-Cube 6 - Pyraminx (Meffet's Pyramid) - Megaminx - Void Cube - Skewb - 1x2x3 Puzzle 123 - 2x3x3 Domino - Ivy Cube - Kilominx without centers - Kilominx with centers - Dino Cube - 2x2x3 Tower new puzzles will be ready soon. Scan the puzzle with your camera and ASolver will walk you through the steps to solve it in minutes! You can solve the puzzle by looking at the interactive model. Or see a list of moves that solve the puzzle. The camera is not always able to recognize the puzzle, for example in poor lighting or due to glare. This is not a problem - the puzzle can easily be entered in manual mode. For simple puzzles (2x2x2, 2x2x3, 2x3x3, 1x2x3, Skewb, Ivy, Pyraminx, Dino) ASolver finds the optimal solution with the minimum possible number of moves. The solution of the 3x3x3 Magic Cube and the 3x3x3 Void Cube is very close to optimal. For a well tangled puzzle, that's about 19 moves. For 4x4x4, 5x5x5, Kilominx with and without centers, and Megaminx the optimal solution is unknown, so nobody knows :) A well-tangled: - 4x4x4 on average is solved in 48 moves - 5x5x5 in 83 moves - Kilominx with centers in 35 moves - Kilominx without centers in 33 moves. ASolver is the solution to any puzzle. Terms of use https://bnice.xyz/asolver/terms.html",
+      "averageUserRating": 4.67892,
+      "userRatingCount": 278417,
+      "currentVersionReleaseDate": "2025-10-05T13:55:05Z",
+      "releaseDate": "2020-04-04T07:00:00Z",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Education"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/asolver-ill-solve-your-puzzle/id1505663005?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 784085951,
+      "trackName": "Rubix Cube Solver",
+      "bundleId": "felipe.valio.solve-it",
+      "sellerName": "Felipe Braunger Valio Desenvolvimento de Sistemas Ltda",
+      "description": "More than 8 million cubes solved!!! More than 3 million people satisfied!!! You've spent hours trying to solve your cube, but so far without success? Do not give up and accept a little help! This app will help you to solve your cube 3x3. The best algorithms will find the optimal solution, with 22 moves or less! We also offer solvers for cubes of size 2x2, 4x4, Void Cube, Tower and Domino (Only the solver 3x3 is free). Want to join the millions of people around the world who know how to solve their cubes? We teaches the algorithm details along with step-by-step showing each movement. Privacy policy: https://www.dropbox.com/s/w59hfexj5xczf77/cube.md Terms of use: https://www.dropbox.com/scl/fi/bdw5mpnqdaypq8t8sa4ja/cube.md?rlkey=prxic5reiy2ujlrg365blfrhz",
+      "averageUserRating": 4.44555,
+      "userRatingCount": 50865,
+      "currentVersionReleaseDate": "2025-10-24T10:56:26Z",
+      "releaseDate": "2014-01-03T16:57:33Z",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Puzzle",
+        "Strategy"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "6016",
+        "7012",
+        "7017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/rubix-cube-solver/id784085951?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6747109536,
+      "trackName": "Cube Solver - 3D Cube Timer",
+      "bundleId": "com.solve.cube.vision",
+      "sellerName": "Shenzhen Yiken Technology Co., Ltd",
+      "description": "Every day, thousands of users rely on our app to transform their jumbled rubik's cubes into perfectly aligned masterpieces. Our Rubiks Cube Solver app has amassed a vast user base, with enthusiasts from all corners of the globe flocking to experience its unparalleled rubiks cube solving capabilities. Do you envy those who can effortlessly twist and turn the cube, transforming a jumbled mess into a perfectly aligned masterpiece in mere seconds? No more cube stress—toss the tangle and solve easy with Rubiks Cube Solver! This app’s your go-to buddy, mixing AI tech with a no-fuss design that’s as easy as swiping. Whether you’re a total newbie or a cubing whiz, it’s like having a pro friend who turns messy cubes into wins—fast and fun. HOW IT WORKS Using Rubiks Cube Solver is incredibly simple. Just follow these easy steps: - Open the app: Launch Rubiks Cube Solver on your mobile device and tap the \"Scan Cube\" button. - Scan your cube: Hold your device's camera over the Rubik's Cube and rotate it slowly to capture all six sides. Our app will automatically detect the colors and positions of each cubelet, analyzing the cube's state in real-time. - Get your solution: Once the scan is complete, Rubiks Cube Solver will generate a detailed step-by-step solution tailored to your cube's specific configuration. You can choose to view the solution as a series of text instructions, a 3D animation, or a combination of both. - Solve your cube: Follow the instructions provided by the app, turning the cube according to the suggested moves. Our app will guide you through each step of the process, providing helpful hints and tips along the way. Key Features and Benefits - Advanced Computer Vision Technology: Rubiks Cube Solver uses state-of-the-art computer vision algorithms to accurately detect the colors and positions of each cubelet, ensuring a precise and reliable solution every time. - Step-by-Step Instructions: Our app provides detailed, easy-to-follow instructions that are tailored to your skill level and learning style. Whether you prefer text, images, or 3D animations, Rubiks Cube Solver has you covered. - Real-Time Feedback: As you solve your cube, Rubiks Cube Solver provides real-time feedback, highlighting the moves you've made and the ones you still need to complete. - Progress Tracking: Our app keeps track of your cube-solving progress, allowing you to monitor your improvement over time. You can view your solve times, move counts, and other statistics, and compare your results with other users around the world. - User-Friendly Interface: Our app features a clean, intuitive interface that is easy to navigate and use. Why Choose Rubiks Cube Solver? - Accuracy: Our app uses advanced computer vision technology to ensure a precise and reliable solution every time. You can trust Rubiks Cube Solver to guide you to a successful cube solve, no matter how complex the cube's configuration. - Speed: Rubiks Cube Solver generates solutions in seconds, allowing you to solve your cube quickly and efficiently. - Ease of Use: Our app is designed with the user in mind, featuring a simple, intuitive interface that is easy to navigate and use. You don't need to be a computer expert or a cube-solving master to use Rubiks Cube Solver – just download the app, scan your cube, and let the magic happen. - Versatility: Rubiks Cube Solver supports a variety of Rubik's Cube sizes and types, including the classic 3x3x3 cube, the 2x2x2 cube, the 4x4x4 cube, the 5x5x5 cube, the 6x6x6 cube, the 7x7x7 cube, the 8x8x8 cube, the 9x9x9 cube, the 10x10x10 cube, the 11x11x11 cube, and more. Email: macflamedev@outlook.com Privacy Policy: https://gocubesolver.com/privacy-policy Terms of use: https://gocubesolver.com/Service_Terms",
+      "averageUserRating": 4.37061,
+      "userRatingCount": 1708,
+      "currentVersionReleaseDate": "2026-07-21T01:15:01Z",
+      "releaseDate": "2025-06-19T07:00:00Z",
+      "genres": [
+        "Games",
+        "Simulation",
+        "Puzzle",
+        "Education"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7015",
+        "7012",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-solver-3d-cube-timer/id6747109536?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.6",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6446157329,
+      "trackName": "CubeSolver AI - Magic Cube 3D",
+      "bundleId": "com.delta.cube.solver",
+      "sellerName": "Hainan Delta Software Co., Ltd",
+      "description": "CubeSolver AI - Magic Cube 3D is an easy yet powerful cube solving utility app specifically designed for magic cube enthusiasts. This AI-powered magic cube solver app offers a seamless and enjoyable experience for users to crack complex cube puzzles. Whether you prefer manually inputting the colors or using your phone camera to scan all sides of the cube, this all-in-one puzzle solver provides a quick 3D solution for 2x2, 3x3, and even 4x4 cubes. CubeSolver AI acts as your intelligent cube master, offering support for a wide range of puzzles, including 2x2 cube solver, 3x3 magic cube, and 4x4 cube solver challenges. This versatile cube app is ideal for beginners and speedcubers alike, helping you tackle the magic cube puzzle 3D with ease. This app speeds up your solving time with AI assistance, and elevate your skills to become a true master of the 3x3 magic cube and other cube variations. Key Features: 1. Unique AI recognition. Our magic cube solver app uses cutting-edge AI to auto-recognize various cube sizes, from 2x2 to 4x4. 2. Camera Input. Scan all sides using your camera, and the puzzle solver AI will detect and analyze the cube’s colors automatically. 3. Manual Input. Prefer precision? Use our intuitive color picker UI to manually set up your cube. 4. Fast AI Solving. Let our advanced algorithms and real-time cube timer solve your cube efficiently — ideal for practicing or learning step-by-step. 5. Realistic 3D Interface. Visualize each rotation and twist with stunning 3D cube graphics and animations. 6. Video Tutorials. Follow step-by-step guides via our YouTube channel. Learn how to become a cube master with our in-depth tutorials. Plus, you can enhance your puzzle-solving journey by combining CubeSolver AI with the CubeSmart mobile app, expanding your toolkit for cube practice, timing, and tutorials. If you’re into speedcubing or casual solving, tools like cube cipher, cube app integrations, and a responsive magic cube interface make CubeSolver AI the ideal companion. Download CubeSolver AI today and unlock the secrets of magic cube puzzle 3D solving! Whether it's a 2x2, 3x3, or 4x4 cube, this AI-powered solver is your all-in-one solution. Watch our latest tutorials and become a magic cube expert: YouTube@CubeSolver-gzlig：https://bit.ly/4n3k9DV TikTok@ai_cubesolver：https://bit.ly/4jTjiD0 If you have any thoughts, questions or suggestions, please feel free to contact CubeSolver AI at feedback@deltasoftware.com.cn Terms of Use: https://cubesolver.ai/term-of-use Privacy Policy: https://cubesolver.ai/privacy-policy",
+      "averageUserRating": 4.45913,
+      "userRatingCount": 6789,
+      "currentVersionReleaseDate": "2026-05-08T14:03:49Z",
+      "releaseDate": "2024-03-05T08:00:00Z",
+      "genres": [
+        "Utilities",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cubesolver-ai-magic-cube-3d/id6446157329?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6499205938,
+      "trackName": "RGB Cube Solver &Timer",
+      "bundleId": "com.play.cube.solv",
+      "sellerName": "Yikens Technology HK Limited",
+      "description": "RGB Cube Solver &Timer, the ultimate application designed to transform you into a Cube solving expert. Mastering this iconic puzzle is a rare skill, but with Cube Solver, it's within your reach. Gone are the days of struggling with complex algorithms – now, your trusty Cube solver fits right in your pocket. With Cube Solver, solving the Cube becomes a breeze. Choose between manual input for precise control or advanced camera input, allowing you to effortlessly capture each side of the cube. Once all sides are inputted, our powerful algorithm springs into action, delivering a solution to even the most challenging configurations. Follow the step-by-step guidance of our magical puzzle solver and conquer any combination with ease. Plus, explore a range of cube sizes, from 2x2, 3x3, 4x4, 5x5 and 6x6, and enjoy customizable options to suit your preferences. Join over 3 million cubers who have used RGB Cube Solver to develop top problem-solving and pattern recognition skills. Save hours of frustration with simple instructions guiding you to solve your cube in a matter of minutes. Improve your concentration and speed over time to show off your Rubik’s cube solving skills to the world. In addition to solving your favorite puzzles, our app also offers a variety of additional features to enhance your solving experience. With our Rubiks Cube Timer, you can track your solving times and compete with friends. We also have a One vs One Rubiks Cube Timer feature, allowing you to race against another person to see who can solve the puzzle faster. *Intuitive Interface: Welcome to Cube Solver, where user-friendly design meets effortless navigation. Whether you're a novice or a seasoned solver, our intuitive interface ensures smooth sailing throughout your cube-solving journey. *Solver Algorithms: Powered by a robust solving engine equipped with a diverse array of algorithms, Cube Solver tackles everything from the classic 3x3 cube to the intricate variations of magic cubes. Expect nothing but efficient and effective solutions tailored to your cube's unique configuration. *Step-by-Step Guidance: Embark on your solving quest with confidence as Cube Solver 3D breaks down the process into digestible steps. With clear and concise instructions, our app not only guides your moves but also enhances your understanding of the Cube logic, transforming you into a solving virtuoso with each progression. *Multi Cube Support: From the compact 2x2 to the challenging 4x4 and beyond, Cube Solver adapts to your cube preferences. Explore an array of configurations and hone your skills across various challenges without limitations. *Camera Input: Experience a seamless solving experience by scanning your cube's sides through our unique camera input feature. Say goodbye to manual input and embrace the convenience of effortless cube recognition. * Cube Timer: Track your solving speed with precision using our Cube Timer. Whether you prefer physical cubes or the virtual 3D experience, our timer runs in parallel, allowing you to measure your progress and enhance your skills with every solve. *Customization Options: Take control of your solving experience with Cube Solver's customization features. Adjust solver speed, explore different solving methods, and personalize the app to match your unique solving style for an unparalleled solving experience. SUPPORTED CUBES * 2x2 cube solver * 3x3 rubik's cube solver * 4x4 cube solver * 5x5: Professor's Cube * 6x6: V-Cube 6 * 7x7: V-Cube 7 * 8x8: V-Cube 8 * 9x9: V-Cube 9 * 10x10: V-Cube 10 * 11x11: V-Cube 11 Email: yikenyonggang@gmail.com. Terms: http://cubesolv.com/terms-conditions/terms-conditions-2 Privacy policy: http://cubesolv.com/terms-conditions/privacy-policy-2",
+      "averageUserRating": 4.63481,
+      "userRatingCount": 26597,
+      "currentVersionReleaseDate": "2026-07-21T20:14:20Z",
+      "releaseDate": "2024-05-24T07:00:00Z",
+      "genres": [
+        "Games",
+        "Productivity",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "6007",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/rgb-cube-solver-timer/id6499205938?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.3",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 1660925812,
+      "trackName": "Solviks: Cube Solver",
+      "bundleId": "com.cassaigne.yohan.solviks",
+      "sellerName": "Yohan Cassaigne",
+      "description": "This app consists of a cube solver, tutorials and a game. The solver allows you to solve cubes of sizes 2 and 3. You put your colors on a 3D virtual cube, then you can watch an animation of the shortest sequence of moves to solve your cube. The tutorials teach you how to solve cubes of sizes 2 and 3 with detailed explanations, images and animations. The game lets you practice solving cubes of different sizes and designs. Your scores appear in a global leaderboard where you can compare yourself to other players. There are also achievements to complete. This app contains ads and a subscription called Pro that unlocks advanced features: removal of ads, ability to scan your cube with your camera, solver and tutorial for cubes of size 4, more game features... Terms of Service: https://yc-apps.github.io/terms-of-service Privacy Policy: https://yc-apps.github.io/privacy-policy",
+      "averageUserRating": 4.70296,
+      "userRatingCount": 6097,
+      "currentVersionReleaseDate": "2026-06-10T20:55:02Z",
+      "releaseDate": "2023-01-16T08:00:00Z",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Simulation",
+        "Education"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012",
+        "7015",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/solviks-cube-solver/id1660925812?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 1497283315,
+      "trackName": "CubeSolver AR",
+      "bundleId": "com.appstudio.CubeSolver",
+      "sellerName": "Andrei Ciobanu",
+      "description": "The CubeSolver app helps you solve a 3x3 cube in a few easy steps: - Scan your cube using the device's camera (or input your cube configuration manually). - The app tries to detects each cubie color from the cube images (it may need a bit of your help along the way). - After you verify that the detection has been made correctly, you'll get a 3D visualisation of the solving process. CubeSolver is completely free, it works offline and no account is needed. Questions? Feedback? If you'd like to see a certain feature, let me know by using the integrated \"Contact\" option.",
+      "averageUserRating": 4.62992,
+      "userRatingCount": 5642,
+      "currentVersionReleaseDate": "2022-11-01T20:16:11Z",
+      "releaseDate": "2020-02-10T08:00:00Z",
+      "genres": [
+        "Games",
+        "Strategy",
+        "Utilities",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7017",
+        "6002",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cubesolver-ar/id1497283315?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6757499100,
+      "trackName": "Cube Solver for Rubiks 3x3 2x2",
+      "bundleId": "com.tarasovladislav.rubiksCubeSolver",
+      "sellerName": "VLADISLAVS TARASOVS",
+      "description": "Solve 2×2 and 3×3 magic cubes quickly with a clear, step-by-step guide. Just scan your cube with the camera or enter the colors manually, then follow an animated 3D solution. Built for beginners and experienced solvers alike. Features: • Supports 2×2 and 3×3 magic cubes • Camera-based cube scanning for fast setup • Manual color input • Interactive 3D solution playback • Step-by-step moves you can follow at your own pace • Clean, fast, and easy-to-use interface How it works: • Choose your cube size • Scan your Rubik’s Cube with the camera or enter colors manually • Get a clear solution with animated steps Perfect for learning, practicing, or checking a solution anytime. Premium • Unlock unlimited daily solutions. • Support ongoing development and future improvements. Disclaimer This app is an independent tool and is not affiliated with, endorsed by, or sponsored by Rubik’s Brand Ltd. All trademarks are the property of their respective owners. https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.78182,
+      "userRatingCount": 275,
+      "currentVersionReleaseDate": "2026-06-16T15:11:11Z",
+      "releaseDate": "2026-01-15T08:00:00Z",
+      "genres": [
+        "Games",
+        "Simulation",
+        "Puzzle",
+        "Utilities"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7015",
+        "7012",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-solver-for-rubiks-3x3-2x2/id6757499100?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 1533263247,
+      "trackName": "21Moves | Cube Puzzle Solver",
+      "bundleId": "Opitas.21-Moves",
+      "sellerName": "Opitas Inc.",
+      "description": "Stuck on how to solve your Rubik's Cube? 21Moves has your back. Solve your magic cube in under 3-minutes with visual step-by-step instructions to help you become a puzzle solving pro. 21Moves provides you with a visual guide on how to solve your cube in under, you guessed it, 21 moves! Dive into the easiest, most efficient way to solve one of the most popular puzzles enjoyed by millions. Join over 3 million cubers who have used 21Moves to develop top problem-solving and pattern recognition skills. Save hours of frustration with simple instructions guiding you to solve your cube in a matter of minutes. Improve your concentration and speed over time to show off your Rubik’s cube solving skills to the world. Getting started with 21Moves is simple. Simply scan a 3D model of your cube and get step-by-step directions on how to solve it. You get a personalized guide for solving your magic cube no matter its current state. 21Moves also recommends fixes for your cube if a piece is missing or placed incorrectly. Download the ultimate Rubik’s cube solver and get easy to follow visual instructions that are sure to turn you into a magic cube master. 21MOVES FEATURES CUBE SCANNER - Getting started on your magic cube solution is easy with in-app scanning tools - Simply perform a 3D scan of your current cube using your camera and get started - 21Moves provides simple and clear instructions on how to approach your cube - You can also manually input your existing cube on 21Moves blank template for custom combinations QUICK CUBE SOLVER - 21Moves provides you with detailed instructions to solve your cube in just a few minutes - Test your problem solving skills as you reorganize your magic cube in under 21 moves - Easily reset a cube to solve it again - Avoid the hours of frustration that come with manually learning to solve a cube thanks to 21Moves CUBE FIXER - Solve puzzles and maintain your cube by identifying missing pieces or misplaced blocks - Fix your cube in minutes and get back to solving PUZZLE SKILL BUILDING - Become a problem-solving pro as you learn the ins and outs of solving different Rubik’s cube formats - Identify patterns after resolving puzzles to make it easier to tackle the next one - Memorize solutions and increase your speed as you progress through different combinations See what users are saying: • \"My cube was pretty messed up yet this app managed to solve it in just 20 moves”. • \"OMG It actually works! I thought it would be a gimmick… I’m SHOCKED! Thank you so much!” • \"My cube was pretty messed up yet this app managed to solve it in just 20 moves”. • \"It fixes ur Rubik’s cube in less than two minutes”. • \"[...] I’ve tried this app and guess what happened it worked I always doubted on all these other fake rubiks apps solvers but this specific app is the best one”. • \"[...] Simple, elegant, and user friendly for quite literally any age. Plus it makes you feel like a genius!” ------------ Questions or feedback? We read every single email and review. Get five-star customer service directly from the developer at nico@opitas.io or at https://bit.ly/3hoFQkN. Disclaimer: All company names (Rubik’s Brand Ltd) are trademarks or registered trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.72177,
+      "userRatingCount": 59105,
+      "currentVersionReleaseDate": "2025-01-14T09:23:14Z",
+      "releaseDate": "2021-01-10T08:00:00Z",
+      "genres": [
+        "Utilities",
+        "Education"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/21moves-cube-puzzle-solver/id1533263247?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6740141601,
+      "trackName": "Rubiks Cube Solver AI - SolveQ",
+      "bundleId": "com.solveq.app",
+      "sellerName": "No WiFi Games",
+      "description": "SolveQ is the easiest and smartest way to solve, learn, and master the Rubik’s Cube. Whether you're a beginner or an advanced solver, this app is designed to make your cube-solving journey seamless and enjoyable. Key Features: Solve 3x3 Cube with AI Simply scan your cube, and our powerful AI will generate step-by-step instructions to solve it in no time. It’s fast, accurate, and works like magic! Easy-to-Follow Steps Get clear and concise instructions that guide you through every twist and turn. No prior experience is needed – just follow along and watch your cube transform! Built-In Cube Timer Test your skills and track your speed with the integrated cube timer. Challenge yourself to improve with every solve and become a speedcubing pro. Learn to Solve the Cube Unlock easy tutorials and tips designed to teach you how to solve the Rubik’s Cube from scratch. Master advanced techniques and patterns to impress your friends. Why Choose SolveQ? Quick and Convenient: Scanning and solving your cube is as easy as taking a picture. For All Skill Levels: Perfect for beginners learning the basics and pros improving their speed. Interactive and Fun: Combines play and learning to create an enjoyable experience for everyone. Play, Solve, Improve SolveQ isn’t just a tool – it’s your Rubik’s Cube coach. Whether you’re stuck on a tough scramble, racing against the clock, or learning for the first time, SolveQ is here to help. Download SolveQ today and take your cube-solving skills to the next level! privacy-policy - https://sites.google.com/view/solveq/privacy-policy terms-conditions - https://sites.google.com/view/solveq/terms-conditions",
+      "averageUserRating": 4.5751,
+      "userRatingCount": 1478,
+      "currentVersionReleaseDate": "2026-03-25T17:38:01Z",
+      "releaseDate": "2025-01-12T08:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/rubiks-cube-solver-ai-solveq/id6740141601?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6764259845,
+      "trackName": "Cube Solver - Camera & Manual",
+      "bundleId": "xtra.cube.solver.cubeSolver",
+      "sellerName": "Muneeb Rana",
+      "description": "Cuber Solver – Scan, Solve & Master Any Cube Solve Rubik's Cubes faster than ever with Cuber Solver, the ultimate cube-solving companion for beginners and speedcubers alike. Simply scan your cube with your device camera and get an instant, step-by-step solution in real time. Whether you're learning your first cube or improving your solving skills, Cuber Solver makes every move easy to understand. With advanced cube recognition, interactive 3D visualization, detailed tutorials, and support for multiple cube types, you'll always have the guidance you need to solve any puzzle confidently. Key Features - Real-Time Camera Scanner Scan your cube using your phone camera Instant cube state recognition Fast and accurate solving algorithms Real-time solution generation - Manual Cube Input Enter cube colors manually Perfect for cubes that cannot be scanned Validate cube configurations automatically - Step-by-Step Solver Detailed move-by-move instructions Easy-to-follow notation system Pause, replay, and review each move Beginner-friendly guidance - Interactive 3D Cube Visualization Rotate and inspect the cube from any angle Watch solution moves in 3D Visual learning for faster understanding Smooth animations for every algorithm - Cube Knowledge Base Learn cube notation and terminology Understand solving methods and algorithms Speedcubing tips and techniques Common cube patterns and cases -Multiple Cube Types Supported 3x3 Rubik's Cube 4x4 Revenge Cube 5x5 Professor Cube More puzzle types coming soon - Complete Learning Guide Beginner tutorials Advanced solving techniques Speedcubing fundamentals Algorithm explanations Practice modes and learning resources -Fast & Accurate Solutions Optimized solving engine Reliable cube detection Minimal move solutions Offline solving support (where available) Whether you're a beginner learning your first solve or an experienced cuber looking for a powerful solving assistant, Cuber Solver provides everything you need to scan, solve, learn, and master cube puzzles. Download Cuber Solver today and solve any cube with confidence!",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-07-15T13:31:30Z",
+      "releaseDate": "2026-07-15T07:00:00Z",
+      "genres": [
+        "Education",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-solver-camera-manual/id6764259845?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "18.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 911550133,
+      "trackName": "Magic Cube Puzzle 3D",
+      "bundleId": "com.maximko.cube",
+      "sellerName": "QURAI SOFTWARE - FZCO",
+      "description": "Famous puzzle is on your phone! The objective is to return each face of the cube to its initial state. It trains logic, concentration and patience. App features: * Most popular puzzles are available: cube, pyramid and dodecahedron * Multiple puzzle sizes: from 2х2х2 to 20х20х20 * Built-in puzzle solver. Get hints and learn the solving algorithms! (available for 3x3x3 cube) * Realistic 3D graphics and animation * Simple and handy controls * Free cube rotation in all axes * Achievements and leaderboards. Share your time with the whole world! * It's FREE! Images from https://icons8.com were used. Sound effects from https://www.zapsplat.com were used.",
+      "averageUserRating": 4.6574,
+      "userRatingCount": 44612,
+      "currentVersionReleaseDate": "2026-01-27T23:49:44Z",
+      "releaseDate": "2014-09-04T01:12:08Z",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Entertainment",
+        "Board"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012",
+        "6016",
+        "7004"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/magic-cube-puzzle-3d/id911550133?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6761478351,
+      "trackName": "Rubiks Cube Solver 3x3",
+      "bundleId": "com.tarasovladislav.rubixSolver",
+      "sellerName": "VLADISLAVS TARASOVS",
+      "description": "Solve Any Rubik’s Cube with Ease Looking for a fast and beginner-friendly way to solve your cube? Our app helps you solve both 2x2 and 3x3 Rubik’s Cubes step by step — whether you’re just starting or already practicing speedcubing. Simply enter your cube colors manually and get an instant solution with easy-to-follow moves. Features Solve 2x2 and 3x3 cubes Beginner-friendly step-by-step solutions Manual cube color input Fast and accurate solving algorithm Clean and simple interface Great for learning and practicing Premium Features Upgrade to Premium to unlock: - Remove all ads - Unlimited cube solves Whether your cube is scrambled for the first time or you’re improving your solving skills, this app makes solving simple, fast, and fun. Download now and start solving your cube today! Disclaimer: This app is not affiliated with or endorsed by Rubik's Brand Ltd. or the official Rubik’s Cube brand. https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.2,
+      "userRatingCount": 5,
+      "currentVersionReleaseDate": "2026-06-20T19:17:14Z",
+      "releaseDate": "2026-05-22T07:00:00Z",
+      "genres": [
+        "Games",
+        "Utilities",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "6002",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/rubiks-cube-solver-3x3/id6761478351?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6443786140,
+      "trackName": "Rubix Cube Solver and Guide",
+      "bundleId": "com.ezhub.rubikcube",
+      "sellerName": "Vu Duong",
+      "description": "Stuck on a Rubik's Cube? Get it Solved in Seconds with our powerful AI !!!! Just scan or input its colors, and our Solver will instantly find the absolute shortest solution. - 2x2x2: 9 moves - 3x3x3: 20 moves - 4x4x4: 50 moves - 5x5x5: 77 moves - 6x6x6: 136 moves The stats above are just an average for random scrambles - your solution is often even shorter! Download now to conquer any cube and leave your friends amazed! Other features: - Interactive 3D Cube: Multiple cube sizes from 2x2 to 10x10 - Smooth 3D graphics and animation - Easy and handy controls - Design your unique cube using powerful Theme Editor - Complete Step-by-step Guide from Zero to Hero - Enjoys your cube with Amazing Patterns - Track Your Progress - Pro Cube Solving Timer with built-in scrambler for competition - Support all WCA notations - It's FREE! Happy solving! You can find Terms and privacy links in here: https://rubik-cube.net/privacy-policy/ https://rubik-cube.net/terms-of-service/",
+      "averageUserRating": 4.67647,
+      "userRatingCount": 680,
+      "currentVersionReleaseDate": "2026-02-24T13:36:32Z",
+      "releaseDate": "2022-10-12T07:00:00Z",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Puzzle",
+        "Casual"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "6016",
+        "7012",
+        "7003"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/rubix-cube-solver-and-guide/id6443786140?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6744529044,
+      "trackName": "Cube Solver – 2x2 & 3x3",
+      "bundleId": "com.tarasovladislav.cubeSolver",
+      "sellerName": "VLADISLAVS TARASOVS",
+      "description": "Cube Solver 2x2 & 3x3 is the fastest and most efficient way to solve your 2x2 and 3x3 Rubix Cube. Whether you're a beginner or an expert, this app provides you with the quickest solutions in under 20 moves. Simply input the stickers of your cube, and the app will calculate the optimal solution to solve it fast! Key Features: Fast Cube Solutions: Get a solution for your 2x2 or 3x3 cube in less than 20 moves. Simple Interface: Input your cube’s stickers and get a solution instantly. No need to remember complex algorithms. Optimized Algorithms: Our app uses the fastest algorithms to help you solve your cubes with minimal moves. Beginner and Advanced Friendly: Whether you're new to cubing or an experienced solver, Cube Solver 2x2 & 3x3 will help you solve faster. Time-Saving: Solve your cubes efficiently and save time with quick solutions. Why Choose Cube Solver 2x2 & 3x3? Cube Solver for 2x2 & 3x3: Perfect for solving standard 2x2 and 3x3 cubes. Get optimal solutions without the complexity. Quick Results: Whether you need a solution for a 2x2 or 3x3 puzzle, this app gets you the answer in no time. Improve Your Skills: Use this app to practice solving your cubes quickly and master the art of speed solving. No Complicated Methods: Forget memorizing algorithms. Just input the stickers, and the app solves it instantly. Perfect for Everyone: Beginner Solvers: If you're just starting out, Cube Solver 2x2 & 3x3 offers quick solutions to help you learn and improve your solving skills. Advanced Solvers: Experienced solvers can use this app to get fast, efficient solutions for their cubes, saving valuable time. Cube Enthusiasts: Whether you’re solving cubes as a hobby or preparing for competitions, this app is an essential tool for fast cube-solving. Download Cube Solver 2x2 & 3x3 today and start solving your cubes in under 20 moves with ease! https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.61416,
+      "userRatingCount": 508,
+      "currentVersionReleaseDate": "2026-06-15T14:45:10Z",
+      "releaseDate": "2025-04-17T07:00:00Z",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-solver-2x2-3x3/id6744529044?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6475606189,
+      "trackName": "Rubix Cube Solver CubeXpert",
+      "bundleId": "com.tarasovladislav.CubeXpert",
+      "sellerName": "VLADISLAVS TARASOVS",
+      "description": "CubeXpert - The Ultimate Rubix Cube Solver and Timer Whether you're a beginner solving your first Rubix Cube or an experienced cuber perfecting your speed, CubeXpert is the ideal Rubix Cube Solver and Cube Timer for you. Unlock the secrets of the Rubix Cube, track your solving times, and master advanced algorithms with our all-in-one app. Master the Rubix Cube with CubeXpert: Comprehensive Rubix Cube Solver: Easily solve Rubix Cube 2x2 or Rubix Cube 3x3 configuration with our advanced solver. Input the current facelet configuration, and CubeXpert will provide a step-by-step solution tailored for your specific cube. Virtual Rubix Cubes 2x2 to 7x7: Practice solving on a range of virtual Rubix Cubes, from the classic Rubix Cube 3x3 to more challenging cubes like the Rubix Cube 7x7. CubeXpert offers a realistic, interactive experience to sharpen your skills across different cube sizes. Rubix Cube Timer: Track your solving times with our built-in Cube Timer. Whether you're practicing or competing, CubeXpert helps you monitor your progress and improve your speed. Extensive Algorithm Library: Access a vast collection of Rubix Cube algorithms, complete with detailed instructions and animations. Learn the best moves for Rubix Cube Solver 2x2, Rubix Cube Solver 3x3, and beyond. Beginner-Friendly Tutorials: How to solve Rubik’s Cube? CubeXpert offers easy-to-follow tutorials that break down the fundamentals step by step, empowering you to solve the cube with confidence. Personalized Cube Solver Experience: Customize your Rubik’s Cube with color changes and adjustable rotation speed. Save your favorite algorithms for quick access, making your solving process faster and more enjoyable. Rubik’s Cube Patterns: Add creativity to your cubing with CubeXpert’s collection of entertaining Rubix Cube patterns. Discover unique sequences and designs to impress your friends. Why Choose CubeXpert? All in One Tool: CubeXpert combines a Rubix Cube Solver, Cube Timer, and a comprehensive algorithm library into one easy-to-use app. For All Skill Levels: Whether you're solving your first Rubix Cube 2x2 or perfecting your Rubix Cube 7x7 technique, CubeXpert is designed to help you improve and enjoy your Rubix Cube journey. Continuous Improvement: Track your progress with the Cube Timer and refine your solving techniques with our extensive algorithm collection. Ready to Elevate Your Rubik’s Cube Game? Download CubeXpert now and start mastering the Rubik’s Cube with the ultimate solver and timer in your pocket. From solving Rubix Cube 2x2 to Rubix Cube 7x7, CubeXpert is your go-to app for all things Rubix Cube. https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.72757,
+      "userRatingCount": 1505,
+      "currentVersionReleaseDate": "2026-06-15T18:34:19Z",
+      "releaseDate": "2024-01-06T08:00:00Z",
+      "genres": [
+        "Games",
+        "Simulation",
+        "Education",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7015",
+        "6017",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/rubix-cube-solver-cubexpert/id6475606189?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6753282149,
+      "trackName": "3x3 Cube: Rubik's Cube Solver",
+      "bundleId": "com.rubikscubesolver.aiscanner",
+      "sellerName": "IOBits Technologies LLC",
+      "description": "Rubik’s Cube Solver – Smart Cube Assistant Solve your Rubik’s Cube instantly with AI precision. Just scan your real cube using your camera, and the intelligent solver will guide you step-by-step until every color is in place. Whether you’re a beginner or a cube master, this app helps you learn, practice, and solve faster than ever before. Features Instant Scan & Solve – Capture your cube with your phone’s camera and get an instant solving guide. Color Fill Tool – Manually fill colors and solve custom cubes. Step-by-Step Guide – Follow easy solving instructions with clear visuals. Learn New Patterns – Explore creative cube patterns and improve your solving skills. Fast & Accurate – AI-based cube detection ensures perfect results every time. Premium Subscription Upgrade to the premium version to: Remove all ads Unlock “Fill and Solve Cube” Access all cube patterns Get unlimited cube solutions Enjoy future premium features Subscription Info: Payment will be charged to your Apple ID account at the time of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. You can manage or cancel your subscription in your App Store account settings after purchase. Privacy Policy: https://iobitsllc.blogspot.com/2025/10/rubiks-cube-solver-privacy-policy.html Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 3.78571,
+      "userRatingCount": 28,
+      "currentVersionReleaseDate": "2026-07-21T22:14:59Z",
+      "releaseDate": "2025-10-08T07:00:00Z",
+      "genres": [
+        "Productivity",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/3x3-cube-rubiks-cube-solver/id6753282149?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 1462586503,
+      "trackName": "Rubik's Cube Solver & Tutorial",
+      "bundleId": "com.sociallix.tfrc",
+      "sellerName": "Itiel Maimon",
+      "description": "Finally solve the Rubik's Cube, and actually understand how. This app turns the world's most iconic puzzle into something you can master in a single afternoon. No memorizing 50-page PDFs. No pausing and rewinding YouTube videos. Just clear, interactive 3D lessons that walk you through every move. FROM YOUR FIRST SOLVE TO YOUR FASTEST Pick up the cube for the first time and solve it today. Already solving? Sharpen your technique and crush your personal best. WHAT'S INSIDE • Step-by-Step 3D Tutorials. 7 stages from \"what's a Rubik's Cube?\" to a full solve, every move animated in 3D. Zero guesswork. • Instant Auto-Solver. Stuck? Paint your cube's colors on screen and get the exact solution, move by move, in seconds. • 3D Practice Mode. Spin a virtual cube with auto-scrambles and build real muscle memory without wearing out your physical cube. • Speedcubing Timer. Official scrambles, full solve history, and Personal Best tracking. See yourself get faster. • 15+ Cube Patterns. Checkerboard, Superflip, Tetris, and more. Learn to create show-stopping designs. • Notation Guide. F, B, U, D, R, L finally make sense, with animated demos for every move and combo. STAY MOTIVATED • Meet Cubey, your animated coach who celebrates every milestone • Level up, earn badges, and complete daily challenges • Build a solving streak and watch your stats climb • Share beautiful achievement cards with friends WORKS EVERYWHERE • 36 languages with full RTL support • 100% offline. Practice on a plane, in the subway, anywhere • Free to download, no account required Stop staring at a scrambled cube. Start solving it. Download now. Your first solve is closer than you think.",
+      "averageUserRating": 4.5575,
+      "userRatingCount": 3313,
+      "currentVersionReleaseDate": "2026-06-23T09:44:45Z",
+      "releaseDate": "2019-05-17T09:47:31Z",
+      "genres": [
+        "Education",
+        "Simulation",
+        "Puzzle",
+        "Games"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "7015",
+        "7012",
+        "6014"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/rubiks-cube-solver-tutorial/id1462586503?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 1537131696,
+      "trackName": "3D Magic Cube Solver",
+      "bundleId": "com.whitewhalesoft.game-RubiksCube",
+      "sellerName": "小健 赵",
+      "description": "Solve 3x3, 2x2 and 4x4 cubes with your iPhone's camera. Play with virtual 3D Magic Cube. Spent hours solving the cube, but still can't solve it? Try this app! 1. SOLVE REAL CUBE Place the cube in front of the camera, follow the prompts to scan the 6 cube facets in turn, and then this app will show you the steps to solve the Magic Cube in 3D step by step! Input colors of magic cube manually. The camera is not always able to recognize the magic cube, e.g. in poor lighting or due to glare. Do not worry - you can easily input colors of cube manually. 2. PLAY 3D CUBE Playing 3D cube on your iPhone. Realistic 3D graphics make you feel like you're playing with a real Magic Cube! KEY FEATURES: ◦ Play Magic Cubes of 2x2, 3x3, 4x4, 5x5, 6x6, and 7x7. ◦ Swipe the cube with your finger to rotate the layer of the cube. Swipe through the blank area to rotate the cube. ◦ Tilt the phone to change the viewing angle of the Magic Cube. ◦ AI hints. You can use it, and it will make some moves for you that will bring you closer to solving the cube. ◦ Cube in 2D (3D cube shown in 2D) ◦ You can also tap the Undo button to undo the last action. ◦ Auto-save game - the game will be automatically saved and restored, so you don't have to worry about losing your ongoing game if the application quits unexpectedly. - Please note that auto-saving the game will only happen if the cube is scrambled and at least 10 moves have been made. ◦ Wide move for cubes of 4x4, 5x5, 6x6, and 7x7. ◦ Double-tap on the face of the cube to mark the face; double-tap again to remove it. After marking the face, subsequent rotations will generate guide lines to show the rotation action. About In-app Purchase & Subscription: Subscriptions will automatically renew unless canceled within 24 hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. Privacy Policy: https://whitewhalesoft.com/apps/3DMagicCubeSolver/Privacy.html Terms & Conditions: https://whitewhalesoft.com/apps/3DMagicCubeSolver/Terms.html Suggestions or questions? Feel free to email me at zhaoxiaojian@hotmail.com",
+      "averageUserRating": 4.44262,
+      "userRatingCount": 793,
+      "currentVersionReleaseDate": "2024-12-21T10:20:52Z",
+      "releaseDate": "2020-10-24T07:00:00Z",
+      "genres": [
+        "Education",
+        "Utilities"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/3d-magic-cube-solver/id1537131696?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 1500120768,
+      "trackName": "Cube Solver & Timer",
+      "bundleId": "com.chen.magic",
+      "sellerName": "ZeroPlay Ltd.",
+      "description": "Cube Solver – Your Ultimate Cube Companion CAMERA SCAN & INSTANT SOLVE Point your camera at any scrambled 3x3 cube and get step-by-step solving instructions in seconds. Our advanced recognition technology reads your cube's colors accurately, even in low light. 100+ VIRTUAL PUZZLES TO MASTER From classic 2x2 and 3x3 cubes to challenging 4x4, 5x5, Pyraminx, Megaminx, and shape mods – explore an incredible variety of twisty puzzles. Practice anytime without carrying physical cubes. LEARN & IMPROVE Follow intuitive 3D animations that guide you through each move. Track your solve times, set personal records, and climb global leaderboards. Perfect for beginners learning their first solve or speedcubers training for competition. FEATURES YOU'LL LOVE • Works offline – practice anywhere • Global, local & friends leaderboards • Daily challenges with rewards • Scramble generator for fair practice • Clean, intuitive interface Download now and solve any cube like a pro! Terms of Use: https://zeroplay.io/docs/legal/terms-of-service Privacy Policy: https://zeroplay.io/docs/legal/privacy-policy",
+      "averageUserRating": 4.02414,
+      "userRatingCount": 414,
+      "currentVersionReleaseDate": "2026-06-09T16:47:43Z",
+      "releaseDate": "2020-02-23T08:00:00Z",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Entertainment",
+        "Casual"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012",
+        "6016",
+        "7003"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-solver-timer/id1500120768?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6451275921,
+      "trackName": "Rubiks Cube Solver-Puzzle App",
+      "bundleId": "com.gpapplica.rubikcubesolver",
+      "sellerName": "Josue Montano",
+      "description": "Discover the fascinating skill of solving the Rubik's Cube with our incredible Rubik's Cube Solver App. Learning has never been so easy and enjoyable, even if you are patient and willing to practice. You'll realize that you don't need to be a genius to get it done. Our app will guide you step-by-step to learn how to solve your Rubik's Cube with ease. From beginners to advanced enthusiasts, everyone will find helpful resources and intuitive methods to enhance their cube-solving abilities. But that's not all! Not only will you learn to solve your physical cube, but you can also enjoy a challenging virtual experience. Solve the virtual Rubik's Cube with our interactive interface and track your times using our built-in timer. Challenge your friends or beat your own records as you immerse yourself in the addictive fun of cube-solving. Download the Rubik's Cube Solver App now and explore the exciting world of efficient and enjoyable cube-solving. Begin your journey to becoming a Rubik's Cube solving expert!",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2023-07-18T12:36:32Z",
+      "releaseDate": "2023-07-18T07:00:00Z",
+      "genres": [
+        "Education",
+        "Puzzle",
+        "Games",
+        "Simulation"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "7012",
+        "6014",
+        "7015"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/rubiks-cube-solver-puzzle-app/id6451275921?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 1269336347,
+      "trackName": "Cube AR",
+      "bundleId": "io.github.tobyliu-sw.CubeAR",
+      "sellerName": "Pin-Chou Liu",
+      "description": "Struggling to crack the cube code? Baffled by cryptic book guides or confusing websites? Say hello to your new best friend – this app makes solving a cube a breeze! Just follow the clever arrows overlaid right on your cube, and you’ll be a cube-conquering champ in no time! Free Features That Rock: • Auto Cube Detection: Simply flash your cube at the camera, and voilà – it’s recognized instantly! • Effortless Scanning: Rotate your cube, and let the app do the heavy lifting – no tedious manual input required. • Guiding Arrows: Watch as arrows magically appear on your cube, pointing you exactly where to twist – whether it’s a single face or the whole puzzle! • Camera Flexibility: Use your front or back camera – whatever vibe you’re feeling. Unlock the Pro Move (Paid Feature): • Final Layer Mastery: Nail that tricky last layer with expert precision and swagger. Download now and turn cube chaos into cube coolness! Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 2.05734,
+      "userRatingCount": 2982,
+      "currentVersionReleaseDate": "2025-03-31T07:42:52Z",
+      "releaseDate": "2017-12-22T00:20:18Z",
+      "genres": [
+        "Games",
+        "Utilities",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "6002",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-ar/id1269336347?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.6",
+      "matched_seed": "rubiks cube solver camera"
+    },
+    {
+      "trackId": 6781433595,
+      "trackName": "Cube Solver: Scan & Solve",
+      "bundleId": "com.braden.rubikscubesolver",
+      "sellerName": "Braden Brown",
+      "description": "Solve any cube from 2x2 to 7x7 in seconds. Enter your scramble by hand or scan it with your camera, and watch a clean, animated 3D solution play out move by move, at your own pace. WHAT YOU CAN DO • Instant solver — 2x2 and 3x3 solved right on your device • Big-cube solving — 4x4, 5x5, 6x6 and 7x7 solutions in seconds (Premium) • Camera scan — point, capture, solve any size (3 free scans to try it out) • Animated 3D playback — step forward and back, adjust the speed • Learn to solve — a guided beginner method, explained step by step • CFOP reference — F2L, OLL & PLL for speedcubers • Algorithm training — drill the cases until they're muscle memory • Big-cube parity — the 4x4–7x7 parity cases, explained and animated • Pattern gallery — 80+ patterns from checkerboards to nested cubes, a heart, a smiley and more, with animated guides for every size • Speedcubing timer — scrambles and your ao5/ao12 averages 2x2 and 3x3 solving runs entirely on your device. Big-cube solutions come from our solver service, so even a scrambled 7x7 comes back in seconds. No account, no ads. PREMIUM A one-time purchase unlocks big-cube solving (4x4–7x7), unlimited camera scans, the full CFOP reference, algorithm training, and the complete pattern gallery. Buy once - yours forever.",
+      "averageUserRating": 5.0,
+      "userRatingCount": 3,
+      "currentVersionReleaseDate": "2026-07-08T18:54:44Z",
+      "releaseDate": "2026-07-01T07:00:00Z",
+      "genres": [
+        "Education",
+        "Utilities"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-solver-scan-solve/id6781433595?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "cube scanner solver"
+    },
+    {
+      "trackId": 6785329951,
+      "trackName": "Cube Solver AI: Scan & Solve",
+      "bundleId": "com.twofreshstudio.cubesolverai",
+      "sellerName": "2 fresh studio",
+      "description": "Solve any Rubik's cube in seconds — just scan it. Cube Solver AI uses your camera to read your scrambled cube, then guides you to the solution move by move in smooth 3D. Whether you've never solved a cube or you're chasing a new personal best, everything you need is in one beautifully simple app. SCAN & SOLVE • Point your camera — the app detects every sticker colour automatically • Get the solution and follow it step by step with fluid 3D animations • Replay, pause and go at your own pace EVERY CUBE • 2×2, 3×3 and 4×4 are fully auto-solvable • 5×5 and bigger to play and learn (5×5 solver coming soon) LEARN FROM SCRATCH • Guided tutorials from absolute beginner to expert • Clear lessons, verified algorithms and illustrated 3D cases SPEEDCUBING TIMER • WCA-style timer with averages (ao5), personal bests and full history PLAY MODE • Scramble and turn a real virtual cube, from 2×2 up to giant sizes WHY YOU'LL LOVE IT • Free, with no ads • Works entirely on your device — no account, nothing leaves your phone • Premium, distraction-free design Built with care by an independent developer. Your feedback shapes every update — thank you for your support. Cube Solver AI is not affiliated with, endorsed by or sponsored by the Rubik's brand.",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-07-14T07:00:17Z",
+      "releaseDate": "2026-07-02T07:00:00Z",
+      "genres": [
+        "Education",
+        "Utilities"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-solver-ai-scan-solve/id6785329951?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "cube scanner solver"
+    },
+    {
+      "trackId": 6770369409,
+      "trackName": "Cubist – Rubik's Cube Solver",
+      "bundleId": "com.cheez.cubist",
+      "sellerName": "Chi Zhang",
+      "description": "Cubist is a free Rubik's Cube solver and tutor that fits in your pocket. Stuck on a scramble? Paint your cube's colors onto the 2D unfolded net (or snap a photo with the camera) and Cubist gives you a step-by-step solution in seconds. Watch the 3D cube rotate move by move, or step through it yourself at your own pace. WHAT'S INSIDE • 3×3 solver — Kociemba two-phase, solutions in ≤22 moves • 2×2 solver — full state, every scramble solved • Live 3D cube viewer — rotate, zoom, watch each turn animate • Camera scanning — point at each face, Cubist reads the colors • Color painter — tap stickers on a 2D net if you'd rather enter manually • Beginner tutorial — learn the layer-by-layer method for 3×3 (cross, F2L, OLL, PLL) and Ortega for 2×2 • Practice mode — try a tutorial case yourself, the app validates when you've solved it • Two solver modes — \"Fast\" (shortest solution) and \"Beginner\" (grouped into Cross → First layer → Middle → Last layer with phase labels) • Multi-language — English and 简体中文 • Works offline — install once, use anywhere NO TRACKING Cubist does not collect personal data and shows no analytics on device. Cube scans stay on your phone; nothing is uploaded.",
+      "averageUserRating": 4.0,
+      "userRatingCount": 1,
+      "currentVersionReleaseDate": "2026-05-29T02:14:46Z",
+      "releaseDate": "2026-05-28T07:00:00Z",
+      "genres": [
+        "Education",
+        "Utilities"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cubist-rubiks-cube-solver/id6770369409?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "cube scanner solver"
+    },
+    {
+      "trackId": 6475071246,
+      "trackName": "Cube Solver: Scan, Learn, Play",
+      "bundleId": "com.toanstt.cuberesolver",
+      "sellerName": "Toan Nguyen",
+      "description": "Empower your Cube journey! Our app offers a step-by-step solver, using both camera and manual input methods. Whether you call it a cube, magic-cube, robix cube, you can solve it in minutes with 18 Moves! We can handle all cubes! Effortlessly follow along for a satisfying solve every time. Whether you're a beginner or a seasoned cuber, conquer the cube with ease! Terms of Uses (EULA): https://sites.google.com/view/rubik-cube-solver-tos/home",
+      "averageUserRating": 3.8,
+      "userRatingCount": 25,
+      "currentVersionReleaseDate": "2025-06-10T06:33:19Z",
+      "releaseDate": "2023-12-31T08:00:00Z",
+      "genres": [
+        "Education",
+        "Productivity"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cube-solver-scan-learn-play/id6475071246?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "cube scanner solver"
+    },
+    {
+      "trackId": 6764661183,
+      "trackName": "The Cube Solver",
+      "bundleId": "io.bondInnovations.cube",
+      "sellerName": "Bond Innovations LTD",
+      "description": "Stuck with a scrambled cube and no idea where to start? Scan it with your camera, and you'll have the full solution in under five seconds, followed step by step until your cube is back to perfect. No memorization. No algorithms. No YouTube tutorials. Just point your phone at each side, tap, and follow along with clear visual instructions. Whether you've never touched a cube before or you've owned one for years and forgotten the technique, you'll get to a finished cube without learning a single move. How it works: - Scan - show your phone each side of the scrambled cube - Solve - get the shortest path to a finished cube, instantly - Follow - turn-by-turn guidance with animated cube visuals Why people use it: - Solves your cube in seconds, every time - No prior experience needed - Beginner-friendly visual instructions - Works offline once installed - Clean design, no clutter - Free to try Whether your cube has been sitting on a shelf for ten years, you got one as a gift and gave up after five minutes, or you just want to settle a bet with a friend, this is the fastest way from scrambled to solved. Scan it. Solve it. Done. Privacy Policy: https://docs.google.com/document/d/e/2PACX-1vTJG2W9MFrTs_3mwPfCXBchMwmDEadr5jQHLtyWArmTuCv6ugmwdAIiDVXs4Ox06w/pub Terms of Use: https://docs.google.com/document/d/e/2PACX-1vQjXFzmYznfkl9lDs39Ffj2mQ_fFjZjpqPbb8pNWrSJPLAnWtEDd8AErG-coHluGg/pub",
+      "averageUserRating": 4.34999,
+      "userRatingCount": 20,
+      "currentVersionReleaseDate": "2026-07-24T22:08:22Z",
+      "releaseDate": "2026-05-27T07:00:00Z",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/the-cube-solver/id6764661183?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "cube scanner solver"
+    }
+  ],
+  "errors": [],
+  "fetched_at": "2026-07-28T15:53:13+08:00",
+  "cache_hit": false,
+  "cache_path": "/Users/zhoujinyu/.claude/app-factory/itunes_cache/4c117169a050d9b245f87e0a.json"
+}

@@ -1,0 +1,9 @@
+Whole-screen iPhone 17 Pro portrait UI mockup (640x1392) of a cross-stitch pattern studio app called ThreadGrid. Screen: "Charts" home tab, the stitcher's atelier. Visual language: warm linen background (#F5EFE4) with a subtle 8%-opacity Aida cloth grid texture; white floating cards; rounded serif display headings, clean SF-style body text, monospaced thread codes. Primary thread-red #C0453E, indigo #3E5F8A, sage green #5F8A4C.
+
+Layout skeleton, top to bottom:
+1. Top hero illustration area (~35% of screen): a hand-drawn feeling illustration of a needle and red thread passing through a gridded embroidery hoop, with "ThreadGrid" title overlay in rounded serif and a small monospaced subtitle "My stitching atelier".
+2. A status grouping row: small chips "In progress · 3" and "Finished · 1" in indigo outline.
+3. Pattern card list: two cards visible. Each card has a square pixel-grid cross-stitch pattern thumbnail (one a red fox pixel pattern, one a blue whale pixel pattern rendered as real colored stitch cells), pattern name in serif ("Foxy Friend", "Deep Sea Whale"), a monospaced DMC count line "12 colors · 80x100", and a circular progress ring showing 62% and 18% respectively in thread-red.
+4. Bottom tab bar with 4 semantic SF-style icons: Charts (grid), Create (plus in circle), Stash (spool), Settings (gear), active tab tinted thread-red.
+
+Density: medium. AVOID: plain white background, bare table list, App Store marketing chrome, device bezel, lorem ipsum, Chinese text.

@@ -1,0 +1,10 @@
+Whole-screen iPhone 17 Pro portrait UI mockup (640x1392) of a cross-stitch pattern studio app called ThreadGrid. Screen: Create wizard, photo-to-chart preview comparison step. Visual language: warm linen background (#F5EFE4) with subtle Aida grid texture, white cards, rounded serif headings, thread-red #C0453E, indigo #3E5F8A.
+
+Layout skeleton, top to bottom, medium-high density:
+1. Top navigation bar: back chevron, serif title "Preview chart", monospaced step label "Step 2 of 3".
+2. Upper half: a real source photo of a red fox curled on grass inside a rounded white card, with a small "Source" caption chip.
+3. A downward arrow divider with thread-stitch motif connecting to the lower preview.
+4. Lower half: the same fox converted into a cross-stitch pixel grid preview (visible stitch cells with subtle symbols in cells, realistic DMC thread colors), in a white card labeled "Chart preview" with a monospaced caption "80 x 100 · 12 colors".
+5. Bottom control panel on a linen-tinted card: two sliders ("Size" with tick marks 40-160, "Colors" 4-24) and a segmented control "Symbols | Color | Both", then a full-width thread-red button "Looks good, continue".
+
+AVOID: empty placeholder screen without photo, stock camera UI, device bezel, Chinese text, marketing copy.

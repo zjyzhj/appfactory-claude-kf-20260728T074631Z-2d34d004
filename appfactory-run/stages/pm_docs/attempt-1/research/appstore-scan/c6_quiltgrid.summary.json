@@ -1,0 +1,92 @@
+{
+  "candidate_id": "c6_quiltgrid",
+  "verdict": "reject_saturated_clone",
+  "axes": {
+    "collision": {
+      "level": "high",
+      "notes": "active L2=6 L3=6 L1=2; zombies=3",
+      "nearest_clones": [
+        {
+          "name": "CREATIVATE",
+          "trackId": 1548312728,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/creativate/id1548312728?uo=4",
+          "ratingCount": 380
+        },
+        {
+          "name": "Quilt Geek Quilting Calculator",
+          "trackId": 6499062474,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/quilt-geek-quilting-calculator/id6499062474?uo=4",
+          "ratingCount": 105
+        },
+        {
+          "name": "Quiltler 3 – Quilt Design",
+          "trackId": 6755831082,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/quiltler-3-quilt-design/id6755831082?uo=4",
+          "ratingCount": 37
+        },
+        {
+          "name": "QuiltPaper",
+          "trackId": 1139385294,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/quiltpaper/id1139385294?uo=4",
+          "ratingCount": 28
+        },
+        {
+          "name": "QuiltFit: Quilt Design Planner",
+          "trackId": 6776541705,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/quiltfit-quilt-design-planner/id6776541705?uo=4",
+          "ratingCount": 5
+        }
+      ]
+    },
+    "heat": {
+      "band": "yellow",
+      "head_structure": "concentrated",
+      "moat_types": [
+        "network",
+        "ugc"
+      ],
+      "zombie_ratio": 0.1,
+      "top1_rating_count": 5966,
+      "active_recent_count": 7,
+      "notes": "pool=14 top1=5966 top3_sum=6565"
+    },
+    "survivability": {
+      "band": "low",
+      "needs_network_for_aha": false,
+      "underserved_moment": "quilt design tools are web/desktop or abandoned; a modern mobile block+layout studio is underserved",
+      "wedge_vs_top_n": [
+        {
+          "name": "CREATIVATE",
+          "trackId": 1548312728,
+          "url": "https://apps.apple.com/us/app/creativate/id1548312728?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        },
+        {
+          "name": "Quilt Geek Quilting Calculator",
+          "trackId": 6499062474,
+          "url": "https://apps.apple.com/us/app/quilt-geek-quilting-calculator/id6499062474?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        },
+        {
+          "name": "Quiltler 3 – Quilt Design",
+          "trackId": 6755831082,
+          "url": "https://apps.apple.com/us/app/quiltler-3-quilt-design/id6755831082?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        }
+      ],
+      "notes": "factory v0 is local zero-account; network moats are hostile"
+    },
+    "verdict": "reject_saturated_clone",
+    "required_actions": [
+      "Drop this candidate; pick next shortlist item"
+    ],
+    "blockers": []
+  },
+  "evidence_count": 30,
+  "markdown_path": "runs/kf-20260728T074631Z-2d34d004/stages/pm_docs/attempt-1/research/appstore-scan/c6_quiltgrid.md"
+}

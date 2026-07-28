@@ -1,0 +1,162 @@
+{
+  "acceptance_policy": {
+    "acceptance_policy": {
+      "authorization": {
+        "id": "appfactory-runtime-verification-v1",
+        "type": "system_default"
+      },
+      "mode": "runtime_verification_required",
+      "required_source_proofs": [
+        "xcode_source_build",
+        "source_unit_tests",
+        "source_artifact"
+      ],
+      "schema_version": "appfactory.acceptance-policy.v1",
+      "simulator_runtime": {
+        "accepted": false,
+        "claimed_pass": false,
+        "evidence_skill": "ios_runtime_acceptance",
+        "must_not_claim_pass": false,
+        "required": true,
+        "status": "REQUIRED"
+      }
+    },
+    "acceptance_policy_ref": "/Volumes/zjySD/claude-app-factory/runs/kf-20260728T074631Z-2d34d004/acceptance_policy.v1.json",
+    "acceptance_policy_sha256": "cb56b5d7daa90d2173a7d2eb10d6b10329b123f1b668f599ee933660c911651e",
+    "mode": "runtime_verification_required"
+  },
+  "app_name": "",
+  "blockers": [],
+  "created_at": "2026-07-28T07:46:31Z",
+  "factory_version": "1.3.0",
+  "goal_version": 1,
+  "identity_source": "pm_docs_pending",
+  "milestones": {
+    "checklist": {
+      "attempts": 1,
+      "blockers": [],
+      "evidence_refs": {
+        "result_ref": "runs/kf-20260728T074631Z-2d34d004/stages/checklist/attempt-1/MAP.md",
+        "result_sha256": "a9e32d52dfba18418ab27f6a2d2ef16b41954e5c340adf05358eee2563c62d45"
+      },
+      "status": "validated",
+      "updated_at": "2026-07-28T09:25:12Z"
+    },
+    "delivery": {
+      "attempts": 0,
+      "blockers": [],
+      "evidence_refs": {},
+      "status": "pending"
+    },
+    "full_rewrite": {
+      "attempts": 0,
+      "blockers": [],
+      "evidence_refs": {},
+      "status": "pending"
+    },
+    "goal": {
+      "attempts": 1,
+      "blockers": [],
+      "evidence_refs": {
+        "goal_ref": "/Volumes/zjySD/claude-app-factory/runs/kf-20260728T074631Z-2d34d004/goal/goal.json",
+        "goal_sha256": "96542eacec3f395e130e7881743c392acbe0e39197e19ddc4a035ff71a4a16be"
+      },
+      "status": "validated",
+      "updated_at": "2026-07-28T07:46:31Z"
+    },
+    "patch": {
+      "attempts": 0,
+      "blockers": [],
+      "evidence_refs": {},
+      "status": "pending"
+    },
+    "pm_docs": {
+      "attempts": 1,
+      "blockers": [],
+      "evidence_refs": {
+        "dedupe_candidate_ref": "/Volumes/zjySD/claude-app-factory/runs/kf-20260728T074631Z-2d34d004/factory/pm_dedupe/pm_docs_candidate.json",
+        "dedupe_commit_receipt_refs": "[\"/Volumes/zjySD/claude-app-factory/runs/kf-20260728T074631Z-2d34d004/factory/pm_dedupe/pm_docs_candidate.dedupe_receipt.v1.commit.v1.json\"]",
+        "dedupe_receipt_refs": "[\"/Volumes/zjySD/claude-app-factory/runs/kf-20260728T074631Z-2d34d004/factory/pm_dedupe/pm_docs_candidate.dedupe_receipt.v1.json\"]",
+        "dedupe_store": "/Users/zhoujinyu/.claude/app-factory/pmagent_global_dedupe.sqlite",
+        "result_ref": "runs/kf-20260728T074631Z-2d34d004/stages/pm_docs/attempt-1/MAP.md",
+        "result_sha256": "5ef7a56807c165807ab38404757e29b61dadcac2f4b46e560f715f3fc8b5fa8e"
+      },
+      "status": "validated",
+      "updated_at": "2026-07-28T08:28:00Z"
+    },
+    "pm_visuals": {
+      "attempts": 1,
+      "blockers": [],
+      "evidence_refs": {
+        "result_ref": "runs/kf-20260728T074631Z-2d34d004/stages/pm_visuals/attempt-1/MAP.md",
+        "result_sha256": "c83fb02f6317abfb25edbd3b2804f59d622b28c7a555ddbef3521acbc098213c"
+      },
+      "status": "validated",
+      "updated_at": "2026-07-28T09:15:23Z"
+    },
+    "rough_app": {
+      "attempts": 1,
+      "blockers": [],
+      "evidence_refs": {
+        "result_ref": "runs/kf-20260728T074631Z-2d34d004/stages/rough_app/attempt-1/MAP.md",
+        "result_sha256": "4c063247f78c8a01dd11e5401bc89728268bcefb0b6fe516dc5ee0cefa43cd2c"
+      },
+      "status": "validated",
+      "updated_at": "2026-07-28T11:17:57Z"
+    },
+    "verification": {
+      "attempts": 0,
+      "blockers": [],
+      "evidence_refs": {},
+      "status": "pending"
+    }
+  },
+  "objective": "由 PMAgent 基于真实市场证据自主选定有差异化机会的 iOS 本地零账号 App 产品方向",
+  "project_name": "",
+  "requested_count": 1,
+  "run_id": "kf-20260728T074631Z-2d34d004",
+  "run_status": "active",
+  "schema_version": "claude-app-factory.run-state.v1",
+  "self_evolution_cases": [],
+  "state_version": 9,
+  "visual_policy": {
+    "allowed_primary_examples": [
+      "coral",
+      "terracotta",
+      "warm red",
+      "orange",
+      "amber",
+      "rose",
+      "warm brown",
+      "warm cream"
+    ],
+    "blocker": "visual_policy_primary_cool_tone",
+    "forbidden_primary_tones": [
+      "blue",
+      "cyan",
+      "teal",
+      "aqua",
+      "turquoise",
+      "green",
+      "mint",
+      "azure",
+      "indigo",
+      "violet",
+      "purple",
+      "cool gray",
+      "blue-green",
+      "蓝色",
+      "青色",
+      "蓝绿色",
+      "绿色",
+      "薄荷绿",
+      "湖蓝",
+      "靛蓝",
+      "紫色",
+      "冷灰"
+    ],
+    "hard_requirement": "The app primary palette must be warm or warm-neutral. Explicitly reject blue, teal, blue-green, green, purple, and other cool primary palettes.",
+    "primary_tone": "warm_or_warm_neutral_only",
+    "secondary_tone_rule": "Cool hues may appear only as non-primary status/data accents when the product needs them; they must not define the brand or main surface."
+  }
+}

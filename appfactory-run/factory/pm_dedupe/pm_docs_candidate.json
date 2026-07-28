@@ -1,0 +1,28 @@
+{
+  "access_model": "none",
+  "bundle_id": "pm_docs_map:attempt-1",
+  "core_flows": [],
+  "differentiation": {
+    "summary": "三段一体:可靠创建(显式尺寸/色数控制)+ 可信进度(格子是一等数据,不依赖 PDF 符号识别)+ 按幅付费的打印导出。iOS 上没有一家同时在场。\n本地零账号:照片与图样不出设备;无注册、无云、无订阅。\nDMC 真色对照:量化目标色域是真实 DMC 绣线色卡,预览即所得。"
+  },
+  "diversity_key": "threadgrid pmdocs map 一句话 threadgrid 是本地优先 零账号的 iphone 十字绣图样工作室 导入照片生成可编辑的 dmc 线色格点图 逐格标记绣制进度 导出可打印图解存档",
+  "feature_blocks": [
+    "全部功能离线可用;无推送、无账号、无分析 SDK(v0)。",
+    "F2 的量化算法为端上确定性实现(中位切分或等价),不调远程服务。"
+  ],
+  "pattern_id": "none",
+  "presentation_key": "none n a 无 ai 界面 n a n a",
+  "primary_cta": "n/a",
+  "product_fingerprint": "8c33a277b18eae01c83ed0328b19e711e5736f64921d5f2a45bbb47a1e5833fc",
+  "product_name": "ThreadGrid · pmdocs MAP",
+  "reference_app": {
+    "name": "",
+    "url": ""
+  },
+  "remote_ai": "no",
+  "result_ui": "n/a",
+  "surface": "n/a(无 AI 界面)",
+  "target_user": "",
+  "user_problem": "",
+  "value_proposition": "一句话:ThreadGrid 是本地优先、零账号的 iPhone 十字绣图样工作室——导入照片生成可编辑的 DMC 线色格点图,逐格标记绣制进度,导出可打印图解存档。"
+}

@@ -1,0 +1,91 @@
+{
+  "candidate_id": "c1_stitchgrid",
+  "verdict": "reject_saturated_clone",
+  "axes": {
+    "collision": {
+      "level": "high",
+      "notes": "active L2=3 L3=17 L1=9; zombies=0",
+      "nearest_clones": [
+        {
+          "name": "Cross-Stitch: Coloring Book",
+          "trackId": 1499339385,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/cross-stitch-coloring-book/id1499339385?uo=4",
+          "ratingCount": 11610
+        },
+        {
+          "name": "Cross Stitch: Coloring Art",
+          "trackId": 1413137373,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/cross-stitch-coloring-art/id1413137373?uo=4",
+          "ratingCount": 4511
+        },
+        {
+          "name": "Markup R-XP",
+          "trackId": 1559524491,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/markup-r-xp/id1559524491?uo=4",
+          "ratingCount": 2733
+        },
+        {
+          "name": "Stitchly: Cross stitch",
+          "trackId": 1467867656,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/stitchly-cross-stitch/id1467867656?uo=4",
+          "ratingCount": 2052
+        },
+        {
+          "name": "Knitting Chart",
+          "trackId": 1251317736,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/knitting-chart/id1251317736?uo=4",
+          "ratingCount": 1269
+        }
+      ]
+    },
+    "heat": {
+      "band": "yellow",
+      "head_structure": "fragmented",
+      "moat_types": [
+        "network"
+      ],
+      "zombie_ratio": 0.0,
+      "top1_rating_count": 34590,
+      "active_recent_count": 15,
+      "notes": "pool=29 top1=34590 top3_sum=61993"
+    },
+    "survivability": {
+      "band": "low",
+      "needs_network_for_aha": false,
+      "underserved_moment": "pattern-making tools are abandoned or PC-only; mobile photo-to-chart with stitch progress is underserved",
+      "wedge_vs_top_n": [
+        {
+          "name": "Cross-Stitch: Coloring Book",
+          "trackId": 1499339385,
+          "url": "https://apps.apple.com/us/app/cross-stitch-coloring-book/id1499339385?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        },
+        {
+          "name": "Cross Stitch: Coloring Art",
+          "trackId": 1413137373,
+          "url": "https://apps.apple.com/us/app/cross-stitch-coloring-art/id1413137373?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        },
+        {
+          "name": "Markup R-XP",
+          "trackId": 1559524491,
+          "url": "https://apps.apple.com/us/app/markup-r-xp/id1559524491?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        }
+      ],
+      "notes": "factory v0 is local zero-account; network moats are hostile"
+    },
+    "verdict": "reject_saturated_clone",
+    "required_actions": [
+      "Drop this candidate; pick next shortlist item"
+    ],
+    "blockers": []
+  },
+  "evidence_count": 30,
+  "markdown_path": "runs/kf-20260728T074631Z-2d34d004/stages/pm_docs/attempt-1/research/appstore-scan/c1_stitchgrid.md"
+}

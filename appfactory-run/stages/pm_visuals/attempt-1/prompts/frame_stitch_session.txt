@@ -1,0 +1,8 @@
+Whole-screen iPhone 17 Pro portrait UI mockup (640x1392) of a cross-stitch pattern studio app called ThreadGrid. Screen: Stitch session (active stitching tracker). Visual language: warm linen background (#F5EFE4), thread-red #C0453E, sage green #5F8A4C for completed stitches, monospaced thread codes.
+
+Layout skeleton, high density, visually distinct from the editor (this is a calmer tracking mode):
+1. Top area: a large circular progress ring in thread-red showing "48%" with serif label "Foxy Friend" and monospaced "3,840 / 8,000 stitches" beneath.
+2. Middle canvas (~55% of screen): cross-stitch grid of the fox pattern in tracking mode — completed cells filled with solid saturated thread colors; remaining cells shown as pale outlines with only stitch symbols visible; the current working color's cells highlighted with a soft indigo halo; one cell mid-tap with a subtle enlarged state.
+3. Bottom current-thread chip bar: a prominent pill chip with a deep red swatch, monospaced "DMC 321", and "214 left" counter; next to it smaller queued chips (740 orange, 310 charcoal); a sage checkmark button "Mark stitched" on the trailing edge.
+
+AVOID: identical look to the editing screen, spreadsheet aesthetic, device bezel, Chinese text, celebratory confetti (this is mid-session, not finish).

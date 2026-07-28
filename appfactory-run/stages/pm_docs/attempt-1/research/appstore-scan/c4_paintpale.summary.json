@@ -1,0 +1,92 @@
+{
+  "candidate_id": "c4_paintpale",
+  "verdict": "reject_saturated_clone",
+  "axes": {
+    "collision": {
+      "level": "high",
+      "notes": "active L2=7 L3=2 L1=14; zombies=2",
+      "nearest_clones": [
+        {
+          "name": "Datacolor ColorReader",
+          "trackId": 1217566816,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/datacolor-colorreader/id1217566816?uo=4",
+          "ratingCount": 692
+        },
+        {
+          "name": "Color Identifier: Paint Match",
+          "trackId": 6738211457,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/color-identifier-paint-match/id6738211457?uo=4",
+          "ratingCount": 152
+        },
+        {
+          "name": "Sherwin-Williams Color Expert™",
+          "trackId": 6466933712,
+          "layer": "L2",
+          "url": "https://apps.apple.com/us/app/sherwin-williams-color-expert/id6466933712?uo=4",
+          "ratingCount": 7025
+        },
+        {
+          "name": "Color Collect - Palette Studio",
+          "trackId": 1439521846,
+          "layer": "L2",
+          "url": "https://apps.apple.com/us/app/color-collect-palette-studio/id1439521846?uo=4",
+          "ratingCount": 860
+        },
+        {
+          "name": "Paint my Room: Wall Visualizer",
+          "trackId": 1583486842,
+          "layer": "L2",
+          "url": "https://apps.apple.com/us/app/paint-my-room-wall-visualizer/id1583486842?uo=4",
+          "ratingCount": 665
+        }
+      ]
+    },
+    "heat": {
+      "band": "yellow",
+      "head_structure": "fragmented",
+      "moat_types": [
+        "hardware",
+        "network"
+      ],
+      "zombie_ratio": 0.0667,
+      "top1_rating_count": 112512,
+      "active_recent_count": 17,
+      "notes": "pool=23 top1=112512 top3_sum=222719"
+    },
+    "survivability": {
+      "band": "low",
+      "needs_network_for_aha": false,
+      "underserved_moment": "paint brand apps lock to their catalog; brand-agnostic capture + harmony studio for DIY is narrow but open",
+      "wedge_vs_top_n": [
+        {
+          "name": "Datacolor ColorReader",
+          "trackId": 1217566816,
+          "url": "https://apps.apple.com/us/app/datacolor-colorreader/id1217566816?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        },
+        {
+          "name": "Color Identifier: Paint Match",
+          "trackId": 6738211457,
+          "url": "https://apps.apple.com/us/app/color-identifier-paint-match/id6738211457?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        },
+        {
+          "name": "Sherwin-Williams Color Expert™",
+          "trackId": 6466933712,
+          "url": "https://apps.apple.com/us/app/sherwin-williams-color-expert/id6466933712?uo=4",
+          "note": "wedge moment not evident in listing"
+        }
+      ],
+      "notes": "factory v0 is local zero-account; network moats are hostile"
+    },
+    "verdict": "reject_saturated_clone",
+    "required_actions": [
+      "Drop this candidate; pick next shortlist item"
+    ],
+    "blockers": []
+  },
+  "evidence_count": 30,
+  "markdown_path": "runs/kf-20260728T074631Z-2d34d004/stages/pm_docs/attempt-1/research/appstore-scan/c4_paintpale.md"
+}

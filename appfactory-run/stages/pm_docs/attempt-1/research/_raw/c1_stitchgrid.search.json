@@ -1,0 +1,832 @@
+{
+  "schema_version": "appfactory.itunes_search_raw.v1",
+  "status": "ok",
+  "country": "us",
+  "seeds": [
+    "cross stitch pattern maker",
+    "cross stitch chart photo",
+    "cross stitch tracker",
+    "stitch pattern creator",
+    "photo to cross-stitch pattern conversion, grid editing, thread palette, progress tracking, chart export"
+  ],
+  "limit_per_seed": 25,
+  "cap": 30,
+  "per_seed": [
+    {
+      "term": "cross stitch pattern maker",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "cross stitch chart photo",
+      "result_count": 24,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "cross stitch tracker",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "stitch pattern creator",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "photo to cross-stitch pattern conversion, grid editing, thread palette, progress tracking, chart export",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    }
+  ],
+  "results": [
+    {
+      "trackId": 1467867656,
+      "trackName": "Stitchly: Cross stitch",
+      "bundleId": "com.subtlabs.Stitchly",
+      "sellerName": "Subtlabs Ltd",
+      "description": "Stitchly is the best cross stitch pattern maker app on iPhone and iPad. Easily create your own cross stitch patterns with this simple yet powerful app. • Perfect for beginners and professionals • Convert your photos or draw your own designs • Use DMC and Anchor thread, plus lots more • Use 1/4, 1/2, 3/4, backstitches, and French knots • Export your work as a printable PDF • Track your progress in the app • No subscriptions (pay once, enjoy forever) IT WORKS LIKE MAGIC When converting a photo, use our custom-built wizard tool to effortlessly choose the best settings for your image and see the results instantly. TRACE OVER IMAGES When drawing your own designs, you can show an image in the background. This can be super helpful as a reference to trace over. You can also show the original image after converting a photo, which makes tidying up your patterns even easier. MAKE YOUR MASTERPIECE Once your pattern is finished and you’re ready to get stitching, simply press play. You can view your pattern in the app, highlight symbols, and mark stitches as completed using the progress tracker. JOIN THOUSANDS OF HAPPY CUSTOMERS... \"I can’t overstate my love for Stitchly. Every time I don’t see it on a top 10 softwares for cross stitch I’m shook. I‘ve been making and selling patterns for 5 years and have tried 3 other programs but Stitchly’s aesthetics, simplicity, and constant feature updates make it my number one favorite of all time.\" - By Nic806 on the App Store \"This app is exactly what I’ve been looking for! I had been eyeing a few desktop apps but this app provides all the features I need in a cheaper, convenient, portable app- even better! I love how easy it is to make patterns and export them, even including the number of skeins needed in the export is so helpful.\" - By reydiant on the App Store \"The best app for anyone that likes cross stitch. I’ve saved so much money on buying patterns and it’s also so much fun to be able to design my own. Love it. I never spend money on apps but this one was definitely worth it.\" - By TJ_172940 on the App Store BECOME AN AMAZING DESIGNER Our mission is to make it easier and more fun to create your own cross stitch designs. Why? Because being creative makes you happier and healthier. AS FEATURED BY APPLE Stitchly has been featured as App of the Day on the App Store. We are incredibly proud of this milestone and wish to thank all our wonderful customers for their continued support. FAQ Is the full version a one-time purchase? Yes. There are no subscriptions. You can create and export as many patterns as you like with the one-time purchase. Can I unlock my other devices using the same purchase? Yes. You can unlock the full version on your iPhone, iPad and Mac (M1 chip or later) with just one purchase. Can I share the purchase with my family? Yes. Family Sharing is enabled. Can I sell my patterns? Yes. You can also add your store details to your PDF exports. Do I have to buy the materials separately? Yes. The app is only for creating patterns. Can I use Stitchly for needlepoint? Yes. Many of our customers use the Stitchly app to create both cross stitch and needlepoint patterns. When using the app for needlepoint, just treat each square as one canvas intersection. Is Stitchly an alternative to Stitch Fiddle? Yes. Stitchly is an app, whereas Stitch Fiddle is an online platform. Stitchly is not affiliated with Stitch Fiddle. Where is my data stored? Your data is stored on your device. All processing is done locally on your device. Your data is never transmitted to third parties. TRY IT NOW Try Stitchly now on your iPhone, iPad or Mac. The full version is a one-time purchase. Find out more at stitchly.com Stitchly® is a registered trademark of Subtlabs Ltd",
+      "averageUserRating": 4.78118,
+      "userRatingCount": 2052,
+      "currentVersionReleaseDate": "2026-05-26T17:49:57Z",
+      "releaseDate": "2019-06-15T01:55:11Z",
+      "genres": [
+        "Lifestyle",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/stitchly-cross-stitch/id1467867656?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 6479785282,
+      "trackName": "Cross Stitch Pattern Maker",
+      "bundleId": "fr.whatsup-design.crossStitch",
+      "sellerName": "Sylvain Huon",
+      "description": "Cross Stitch Pattern Maker is your new app to create and design x-stitch, needlepoint, or patterns and canvas. Its minimalist design and user-friendly interface make the cross stitch pattern creation very easy. Import an image or start from scratch to design your first pattern. At any point, you can resize the pattern, change the background color, replace a color, or edit the background image. With our image effect slider, you can directly transform a background image to make it easier to reproduce as a cross-stitch model. The app contains more than 400 colors to choose from. Once finished, use the mark-up tool to keep track of your progress when stitching your new pattern. You can also export your pattern to your phone images to share it easily. Help and tutorials will guide you in your first steps within the cross stitch Pattern Maker app. What are you waiting for... let's create your first pattern! Happy stitching! Cross Stitch Pattern Maker key points: --------------------------------------- x - Dark and Light modes x - 400+ Colors to create amazing cross stitch patterns x - Cross Stitch Mark-up tool x - Image importer with opacity and cross stitch effect converter x - Color Replacement x - Background color picker x - Help and tutorial to learn how to use the app x - Export to your phone photo library x - Folders to organize your pattern by in-progress / finished x - Create patterns up to 200x200 stitches x - Ideal for x-stitch, needlepoint or crossstitch / cross stitch",
+      "averageUserRating": 3.46154,
+      "userRatingCount": 13,
+      "currentVersionReleaseDate": "2026-06-11T17:23:24Z",
+      "releaseDate": "2024-04-03T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-pattern-maker/id6479785282?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.5",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1559524491,
+      "trackName": "Markup R-XP",
+      "bundleId": "uk.co.kewinlawsonsmith.markup",
+      "sellerName": "KewinLawsonSmith Limited",
+      "description": "Welcome to Markup R-XP, the premier app for marking up any stitch chart. The Only Choice for Marking Up with iOS Devices Markup R-XP does everything other markup apps do and a whole lot more! Why not switch to Markup R-XP and see what it can do for you – you won’t be disappointed. No need to check for “Supported Designers” as Markup R-XP loads all charts from all designers. Markup R-XP is recommended and approved by many leading chart designers and producers making it far and away the leading markup app available Markup Made Simple Markup R-XP allows stitchers to load any chart in PDF or image form and will magically locate the grids, symbols and colours and then allow them to be marked up on screen. You can even take a photo of a chart and Markup R-XP will find the grid and symbols and allow you to mark it up. If your chart consists of multiple pages, Markup R-XP will stitch the pages together to make one large chart. This means you can easily see your full markup progress and won’t be held up at page edges. There are even tools to let you quickly find those final few unmarked symbols across the whole chart. Extra Help with Tricky Charts If you have a chart picture which is not completely clear or slightly rotated, you can still use Markup R-XP. The integrated editing tools can be used to assist Markup R-XP to create the perfect grid to fit over your chart and then detect the symbols and colours for you. Automatic Symbol & Thread Colour Detection Markup R-XP recognises the symbols in your chart and can tell you how many are stitched and left to stitch. If you chart has a key, Markup R-XP can also automatically determine the thread colour for each symbol. If there is no key, no problem, you can also simply assign up to four thread colours to a symbol. Built In Shade Cards Markup your chart using thread colours from DMC, Anchor and Madeira selected from the built-in shade cards. Keys, Finished Samples and Notes Multiple Keys can be captured separately and are stored alongside each project for easy referral as you stitch. Likewise, pictures can be captured from your uploaded chart for quick reference whilst markup is underway. There is even a notes section to keep a track of any important details for each project. Comprehensive Progress & Statistics Projects can be organised into different categories to help track the progress of your stitching. Markup R-XP can also estimate the number of stitches in your chart and keep you updated on progress. Markup Your Way Markup R-XP allows you to customize the way Markup R-XP works and looks. Options include grid settings, centre lines, diagonal grid lines, colours, sizes and much more. Helpful Assistance, Active Usergroups & Regular Updates Help is available throughout Markup R-XP which give detailed information on how to use each feature. Why not join our thriving Facebook Users group for handy hints and tips, see https://www.facebook.com/groups/markuprxpusers We listen to our users and regularly update the app with new features and suggestions to constantly make Markup R-XP the leading app on the market. Free to Try You can enjoy the full features of Markup R-XP for free during an initial two week trial period.",
+      "averageUserRating": 4.77351,
+      "userRatingCount": 2733,
+      "currentVersionReleaseDate": "2024-04-18T09:30:20Z",
+      "releaseDate": "2021-05-24T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Productivity"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/markup-r-xp/id1559524491?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "10.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 6470660972,
+      "trackName": "Stitch Creator",
+      "bundleId": "com.mixaimaging.Stitch-Creator",
+      "sellerName": "Mikhail Kuznetsov",
+      "description": "Turn your photos and ideas into beautiful stitch patterns with Stitch Creator. Whether you are designing for cross-stitch, needlepoint, or pixel-style projects, Stitch Creator helps you create clean, customizable patterns right from your iPhone or iPad. Import an image, adjust colors and details, and preview your design before you start stitching. Features: - Convert photos into stitch-friendly patterns - Edit and refine pattern details with intuitive tools - Adjust colors and simplify palettes for cleaner results - Zoom and pan for precise editing and pattern checking - Save and organize your patterns in your personal library - Designed for both beginners and experienced stitchers From quick inspiration to detailed projects, Stitch Creator gives you the control you need to craft patterns you will love to stitch.",
+      "averageUserRating": 4.82353,
+      "userRatingCount": 17,
+      "currentVersionReleaseDate": "2026-07-18T03:50:26Z",
+      "releaseDate": "2023-10-28T07:00:00Z",
+      "genres": [
+        "Productivity",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/stitch-creator/id6470660972?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.6",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 6476002744,
+      "trackName": "Cross Stitch Pattern Creator",
+      "bundleId": "com.crochetdesigns.crossstitchcreator",
+      "sellerName": "Sand Castle Designs, Inc",
+      "description": "Cross Stitch Pattern Creator No ads ever. Comes with 4 sample cross stitch patterns. Download is free. To activate is $2.99. Create your own cross stitch patterns using Cross Stitch Pattern Creator Highly recommended to use a tablet because of cross stitch pattern size. To create cross stitch patterns, select Create a Cross Stitch Pattern button. The Cross Stitch Pattern Editor will appear. Fill in the squares with DMS floss colors. You can even add your own colors if you want. To get started - Use the pencil to fill in squares to your cross stitch pattern. Use the Eraser to clear filled squares from your cross stitch pattern. You also can select from over 80 stamps and borders to apply to your cross stitch pattern. Buttons from left to right in the button bar are: DMC Floss Color button - use to select the floss color you want to use Save - button to save your pattern Pencil - button to fill in squares on your cross stitch pattern Eraser - use to erase filled squares and backstitch lines from your pattern Backstitch - First select the color button to select the color for the backstitch. Now select Backstitch button to add backstitch lines on your cross stitch pattern Backstitch move - Select a backstitch and drag it to a new location Backstitch move stitch end - Select a backstitch. Blue boxes will appear over each end of the backstitch. Now move either end to new location. Stamps - selectable little stamps (little cross stitch designs) to add to your cross stitch pattern Borders - selectable borders to add to your pattern. Borders automatically wrap around your cross stitch pattern. Dropper - lets you extract a color from your pattern and add more of that color to your cross stitch pattern Bucket - use to fill selected area with the current selected color Bucket+ - used to replace a color with the currently selected color Undo - undo each last change you made to the pattern Redo - redo each changes you undid Selection box - select the area of the pattern to cut/copy/rotate/flip Cut- First select the \"Selection box\" button to select an area of the pattern. Now select the cut button to remove select area of your cross stitch pattern Copy - First select the \"Selection box\" button to select an area of the pattern. Now select the copy button to copy the selected area of your cross stitch pattern to the clipboard. Paste - Paste copied area to your cross stitch pattern. Now drag the pasted box to the location you want. Rotate - rotated selected area of the pattern or whole pattern Flip right/left - flip selected area of the pattern or whole pattern Flip top/bottom - flip selected area of your cross stitch pattern or whole pattern Zoom in - magnify the pattern Zoom out - minify the pattern Symbols - displays a unique symbol on each color to indicate it's color value Picture - select a picture from your device and convert to a pattern Print pattern - select to print your pattern Social media - use social media to share your pattern (email, text etc.) Resize bars - resize bars are display at the bottom right corner of your pattern. Drag them to resize your cross stitch pattern Option settings - change the grid color, change fill style from Solid to X's, select not to display the row/column counter. Instruction page - displays the DMC colors used and finished sizes for different Aida Cloth sizes Finished Product page - displays what your pattern looks like after cross stitched. You can also change the fabric color.",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-07-09T05:04:11Z",
+      "releaseDate": "2024-01-18T08:00:00Z",
+      "genres": [
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-pattern-creator/id6476002744?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1610306306,
+      "trackName": "Cross Stitch Chart",
+      "bundleId": "nl.phneutraal.cross-stitch-chart",
+      "sellerName": "Piet Hein van Cleef",
+      "description": "With Cross Stitch Chart you design your own embroidery charts, or follow your progress of existing designs. - Draw you own designs - Use the Working Mode to highlight or mark finished stitches - Convert any image to a color chart - Cutout a chart from a PDF and mark stitches - Draw notes on top of a PDF pattern - Add your own colors - Change used symbols - Tap and hold on a PDF stitch symbol and select 'Highlight Symbol' to find matching stitches. - Store frequently used designs - Manually mark stitches without first converting a cutout - Sync your files with with iCloud - Export a PDF for your design This version is free to try out and limited in the number of files you can create. Upgrade to the Cross Stitch Chart Pro to unlock all features and create as many files as you like! No subscriptions, you only pay once.",
+      "averageUserRating": 3.73333,
+      "userRatingCount": 60,
+      "currentVersionReleaseDate": "2022-09-16T14:40:27Z",
+      "releaseDate": "2022-03-10T08:00:00Z",
+      "genres": [
+        "Utilities",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-chart/id1610306306?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1505362289,
+      "trackName": "Silk: Cross Stitch Patterns",
+      "bundleId": "com.kandzi.Cross",
+      "sellerName": "CSP Embroidery Digital UG haftungsbeschrankt",
+      "description": "Are you looking for new cross stitch designs to express your creativity? Silk – Cross Stitch Patterns app is here for you. Step foot into a world of endless creativity, breathtaking cross stitching art, useful resources and more with this exciting app dedicated to cross stitching enthusiasts. Whether you are beginner seeking inspiration and help on what to stitch next or you are a pro at cross stitching who needs to explore new designs, the Silk app is here to help you in countless ways. Try Silk – Cross Stitch Patterns now! Explore New Cross Stitch Patterns Are you getting bored of the pattern monotony in your cross stitching routine? Make things simpler, easier and more exciting with this app. Seek new creative inspiration, counter your art block and be your best creative self with the help of this amazing cross stitching app. Delicate, Traditional Cross Stitching Skill No need to waste your time watching long tutorials to find new patterns for cross stitching. We know just how much embroidery art means to you and we are here to help you by providing an amazing reserve of traditional, delicate cross stitching patterns. Features of Silk – Cross Stitch Patterns • Huge collection of beautiful, delicate cross stitch charts • Three formats of the cross stitching charts are available • Easily view the color palette while stitching the artwork • Zoom in to enlarge the blocks and zoom out to bring the whole design in appropriate perspective • Vertical and horizontal ruler is available to underline your stitching pattern • Complete material list by the mains of cross stitching such as Soied´Alger and DMC Are you ready to cross stitch and express your creativity? Download and use Silk – Cross Stitch Patterns today!",
+      "averageUserRating": 4.79115,
+      "userRatingCount": 498,
+      "currentVersionReleaseDate": "2023-02-28T18:53:09Z",
+      "releaseDate": "2020-04-30T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Shopping"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6024"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/silk-cross-stitch-patterns/id1505362289?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.4",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1323730066,
+      "trackName": "Magic Needle: Cross-Stitch",
+      "bundleId": "occash.MagicNeedle",
+      "sellerName": "Artem Shal",
+      "description": "Create unique cross-stitch patterns from your favorite photos using the best mobile converter on the App Store. Perfect for both novice and expert cross-stitchers. Magic Needle is a great opportunity to make a memorable gift for your family, friends or yourself! UPLOAD PHOTO, ADJUST SETTINGS, START EMBROIDERING. That’s it, nothing to add. TOP FEATURES CREATE - Adjust scheme size and number of colors - Choose from global fabric and floss brands - Control advanced settings, like stitch type and number of strands to stitch with EMBROIDER - Select floss to focus on embroidering a particular color - Quick access to color palette with floss IDs - Mark stitched area and track your progress - Use color picker to find floss in the palette - Double-tap on color in the palette to find unmarked stitches - Tap and hold on color to see how many stitches left to embroider - Get summary with a list of flosses and number of skeins to buy EXTRA - Export pattern to PDF - Dark and light mode to help you embroidering with comfort for your eyes - Organize and track your floss in the catalog - Create patterns with your custom floss list - Stitches automatically deducted from the catalog when your mark them - Choose manually crafted cross-stitch patterns in our shop Magic Needle is designed for you to enjoy your favorite hobby. Terms of Use: https://magic-needle.io/terms Privacy Policy: https://magic-needle.io/privacy Search powered by Algolia",
+      "averageUserRating": 4.38213,
+      "userRatingCount": 1120,
+      "currentVersionReleaseDate": "2026-03-02T19:42:38Z",
+      "releaseDate": "2017-12-14T14:06:35Z",
+      "genres": [
+        "Lifestyle",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/magic-needle-cross-stitch/id1323730066?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.6",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 6757927393,
+      "trackName": "Pattern Maker for Cross Stitch",
+      "bundleId": "com.vandele.CrossStitch",
+      "sellerName": "Havard Tryman",
+      "description": "Pattern Maker is a cross stitch app that lets you draw patterns from scratch or generate patterns from photos. Draw Patterns: Create your own patterns with useful editing tools. Generate Patterns: Choose a photo and generate a cross stitch pattern automatically. Highlight Colors: Highlight a specific color to easily see where it's used. Keep Track of Progress: Tap a stitch to mark it as completed. Export & Print: Save or print the pattern template. Data Is Backed Up: Patterns and palettes are backed up securely in your iCloud and synchronized across your devices. No sign-in is required. If you have any suggestions on how to improve Pattern Maker, feel free to contact us via the App Support email. The app is sustained by optional subscriptions, while keeping core functionality freely available. A Pro subscription is required to enable all editing tools, unlimited patterns, marking completed stitches, exporting patterns and custom palettes. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.3,
+      "userRatingCount": 10,
+      "currentVersionReleaseDate": "2026-06-25T23:00:27Z",
+      "releaseDate": "2026-02-20T08:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/pattern-maker-for-cross-stitch/id6757927393?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.6",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1034256780,
+      "trackName": "Cross-Stitch World",
+      "bundleId": "com.inertiasoftware.crossstitchworld",
+      "sellerName": "InertiaSoft ltd",
+      "description": "Enjoy the soothing fun of cross-stitch on your phone or tablet — no threading needles or tangled threads to worry about. Cross-Stitch World includes over 10,000 beautiful patterns to stitch, from cute animals and stunning landscapes to inspiring artwork and seasonal designs. Simply choose a color and tap to place stitches as your picture comes to life, one square at a time. With realistic visuals and simple, relaxing gameplay, it’s the perfect way to unwind, slow down, and get creative. FEATURES • 10,000+ stunning cross-stitch patterns • Create your own patterns from any photo or image • Relaxing, easy-to-play stitching at your own pace • Suitable for all ages • New patterns added regularly Start your next cross-stitch masterpiece today.",
+      "averageUserRating": 4.71742,
+      "userRatingCount": 6253,
+      "currentVersionReleaseDate": "2026-07-14T04:30:29Z",
+      "releaseDate": "2016-04-01T20:34:12Z",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Casual"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012",
+        "7003"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-world/id1034256780?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1246165006,
+      "trackName": "Cross-Stitch: Color by Number",
+      "bundleId": "com.inapp.cross.stitch",
+      "sellerName": "炳甲 梁",
+      "description": "Enjoy doing Cross-Stitch patterns on your Tablet or Mobile device without threading a needle or hurting your finger! 100000+ different style patterns for you to choose. Cross Stitch helps practice concentration and also have a great time! Drop all the colored cross stitches in the correct place and watch your embroidery. \"This is a great activity to practice your drawing and coloring skills. It's also fun for any age to try to finish the drawing and coloring.\" Turn your own photos into cross-stitch patterns! New patterns released weekly! Different categories: Animals, Art, Flowers, Landscape, People, Comic, Pets and more Exquisite Tools for you. Easy way to play with taps for stitches! color by numbers game! Sandbox coloring book! Cross Stitch can be played anytime and anywhere! It's time to relax! DOWNLOAD NOW! Subscription information Premium Membership Crossstitch Monthly subscription and Crossstitch Yearly subscription for unlimited access to all premium patterns, photo-to-stitch conversion, and removing ads. Prices vary by region. (i) $9.99 / Month (ii) $59.99 / Year Pricing in countries may vary, and actual charges may be converted to your local currency depending on the country of residence. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. The account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user, and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. You can turn off the auto-renew for the subscription whenever you want to through iTunes. Check https://support.apple.com/HT202039. When your current trial/subscription period expires, you will be unsubscribed. The current active subscription period can not be canceled. After your subscription expires, you will no longer be able to use sticker packs marked as Premium. If you have any questions or comments, feel free to contact us at creative.feedback@hotmail.com. Terms of use: http://incolor.cc/en/nodraw_termsofservice.html privacy policy:http://incolor.cc/en/nodraw_privacy.html",
+      "averageUserRating": 4.65244,
+      "userRatingCount": 15793,
+      "currentVersionReleaseDate": "2026-05-01T16:02:31Z",
+      "releaseDate": "2017-08-25T23:59:07Z",
+      "genres": [
+        "Entertainment",
+        "Puzzle",
+        "Simulation",
+        "Games"
+      ],
+      "primaryGenreName": "Entertainment",
+      "genreIds": [
+        "6016",
+        "7012",
+        "7015",
+        "6014"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-color-by-number/id1246165006?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 6758528237,
+      "trackName": "Cross Stitch Pattern Maker Pro",
+      "bundleId": "com.eles.crossstitch",
+      "sellerName": "Ramazan Eles",
+      "description": "Cross Stitch Pattern Maker Pro is the ultimate design tool for iPhone and iPad. Turn your photos and ideas into professional cross stitch patterns in seconds. As the most advanced cross stitch pattern maker on the App Store, we provide everything you need to create, edit, and sell your own designs. • AI Wizard: Convert photos into charts instantly with smart color matching. • AlphaText: Type any text and generate unique stitch patterns automatically. • Thread Support: Full palettes for DMC, Anchor, and CXC. • PDF Export: Create high-quality, printable PDF booklets for your shop or personal use. • Pro Editor: Draw, edit, and perfect your designs with advanced tools. • Track Progress: Mark stitches as completed directly in the app. IT WORKS LIKE MAGIC When looking for a cross stitch pattern maker that handles complex images, our AI Wizard stands out. Simply upload a photo, choose your preferred thread brand (DMC, Anchor, CXC), and let the app create a perfectly optimized chart for you instantly. ALPHA PATTERN GENERATOR: TEXT TO PATTERN Unique to our app! Want to stitch a name, a special date, or a quote? Just type your text, choose a font style, and watch it transform into a stitch-ready pattern. This feature makes us more than just a standard cross stitch pattern maker; it makes us a complete design studio. MAKE YOUR MASTERPIECE Whether you are editing a converted photo or drawing from scratch, you have full control. Use professional tools to adjust colors, add backstitches, and refine every detail. EXPORT PROFESSIONAL PDFS Ready to share or sell? Export your designs as professional PDF booklets. The export includes a cover page, symbol legend, thread usage estimates, and clear charts—ready to be sold on digital marketplaces. FAQ Can I sell the patterns I create? Yes. You own 100% of the rights to your designs. Since you are using a professional cross stitch pattern maker, your PDF exports are commercial-grade and perfect for selling in your own shop or online marketplaces. Which thread brands are supported? We support the world's most popular brands including DMC, Anchor, and CXC to ensure your digital design matches your real-world supplies. Is there a subscription? We offer flexible options to suit your needs, including a Lifetime License (one-time purchase) for those who dislike subscriptions. https://crossstitchpatternsmaker.com/privacy-policy https://crossstitchpatternsmaker.com/terms-of-use",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-07-03T15:53:42Z",
+      "releaseDate": "2026-02-09T08:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-pattern-maker-pro/id6758528237?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1461096984,
+      "trackName": "Magic Cross-Stitch: Pixel Art",
+      "bundleId": "com.zimad.magicpixelart",
+      "sellerName": "XIMAD, Inc.",
+      "description": "Brighten up your weekdays and enjoy a wide collection of colorful pixel pictures! Start painting right now without paper and pencils! There’s no need to bother choosing colors - just paint by numbers and create your own masterpiece! In Magic Cross-Stitch you can: - Choose among an extensive variety of pictures for both adults and kids! - Enjoy easy gameplay - just color by numbers! - Use Augmented Reality Sharing to place your paintings on the walls around you! - Experiment with the color palette and improve your skills! - Share finished pictures with friends on social media or save them to your phone! - Get daily bonuses and gifts! Magic Cross Stitch is great way to relax and get rid of everyday stress! Unveil your inner artist and paint effortlessly! Color by numbers and turn a plain sketch into a bright art piece! Paint everywhere just by using your phone or tablet! Contact us at support_games@zimad.com with any issues, questions or comments. We would love to hear from you! - Subscription: Upon subscribing, you will immediately receive free access to the full collection of pixel art images! A subscription also allows you to create unlimited amount of your own user-created pixel art images and turns off ads in the game. The price is $7.99 per week or equal to the same price tier that \"Apple's App Store Price Matrix\" determines in other currencies. In case of cancelling a subscription you lose all the benefits described above. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. Payment is charged to iTunes Account at confirmation of purchase. Subscription automatically renews for the same price and duration period as the original package, unless auto-renew is turned off at least 24-hours prior to the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Terms of Use: https://zimad.com/terms-of-use/magic-cross-stitch/ Privacy Policy: https://zimad.com/policy/",
+      "averageUserRating": 4.84908,
+      "userRatingCount": 6394,
+      "currentVersionReleaseDate": "2026-04-21T03:21:11Z",
+      "releaseDate": "2020-09-17T07:00:00Z",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Puzzle",
+        "Board"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "6016",
+        "7012",
+        "7004"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/magic-cross-stitch-pixel-art/id1461096984?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 6753175525,
+      "trackName": "pixel2stitch",
+      "bundleId": "com.amorfien.xStitch",
+      "sellerName": "Pavel Grigorev",
+      "description": "Your photos — your creative pattern. pixel2stitch is the easiest way to turn your favorite photos into detailed cross‑stitch or bead art patterns. WHY YOU WILL LOVE PIXEL2STITCH: • Powerful and accurate converter Upload photos from your gallery, camera, or clipboard. Our algorithm accurately converts the image into a pixel pattern using the official palettes of DMC, Anchor, Gamma, Madeira, Dimensions, Olympus, PNK threads or Perler fusible beads. • Full control over the pattern Adjust complexity: choose the pattern size from 25 to 320 elements on the long side. Control the palette: limit the number of colors for simplicity. Select the thread/bead brand to use its palette, or choose only the colors you already have in your stash. Work with transparency: upload PNG images with no background. • Smart editor and progress tracking Built‑in editor: Mark stitched crosses or placed beads directly on the pattern. Progress visualization: Track overall progress and progress per color separately. Nothing gets lost: The app automatically saves your progress and syncs patterns across your devices. • Export and material calculation Ready‑to‑print PDFs: Export the pattern split into convenient pages. Material Calculator: Find out the exact floss length or bead count for each color to buy the right amount. • Ready-Made Pattern Library Choose from a wide variety of patterns. Find your style, size, palette, and start creating. THE MAIN ADVANTAGE — COMPLETE FREEDOM No subscriptions, no in‑app purchases — the only limit is your imagination. We believe creativity should be accessible to everyone. Start bringing your memories to life today!",
+      "averageUserRating": 4.25,
+      "userRatingCount": 4,
+      "currentVersionReleaseDate": "2026-07-24T21:44:59Z",
+      "releaseDate": "2025-10-22T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/pixel2stitch/id6753175525?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1587318796,
+      "trackName": "Cross Stitch Coloring Art",
+      "bundleId": "com.playcus.crosstitchcoloringart",
+      "sellerName": "PLAYCUS LIMITED",
+      "description": "Cross stitch is the oldest form of embroidery and has traveled across countries and over many centuries to become a versatile stitch used today. It is more than just an embroidery stitch, it is a craft that has been integrated into all sorts of needle and thread art forms. Have you ever looked at x-stitch patterns and didn’t even know where to start? Well, you’re in the right place, this amazing embroidery game is at hand! If you are completely new to embroidery, do not worry, it’s really easy - just choose the suitable color and click to the right place. Get ready for a happier satisfying stitching experience. Enjoy the coloring book with your creative ideas and feel like an artist with a complete variety of anti-stress pictures. Cross Stitch Coloring Art is an amusing sandbox coloring that allows the brain to relax and focus, often recommended for achieving mindfulness. Don’t forget to have fun and relax! Embroidery is proven to be hugely beneficial for your mental and physical health. You’ll not only end up with a nicer finished masterpiece, but you’ll enjoy this addictive creative process even more! Privacy Policy: https://www.playcus.com/privacy-policy Terms of Service: https://www.playcus.com/terms-of-service",
+      "averageUserRating": 4.7191,
+      "userRatingCount": 7768,
+      "currentVersionReleaseDate": "2026-06-11T12:51:28Z",
+      "releaseDate": "2021-11-20T08:00:00Z",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Entertainment",
+        "Board"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012",
+        "6016",
+        "7004"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-coloring-art/id1587318796?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1251317736,
+      "trackName": "Knitting Chart",
+      "bundleId": "nl.phneutraal.knitting-chart",
+      "sellerName": "Piet Hein van Cleef",
+      "description": "With Knitting Chart you can draw your own knitting and crochet patterns. Import PDF files from your device or Ravelry and keep track of your progress with the Working Mode, row counters or PDF highlights. Pay only once to unlock the Pro version, no subscriptions! You can draw square patterns, fair isle color or symbol designs and freeform crochet charts, which lets you place symbols anywhere you want. Convert your square charts to written instructions and place images to convert your canvas to a color chart. You can adjust your chart layout for knitting flat, in the round, corner to corner, machine knitting and even left handed. Save your files in iCloud, Dropbox or Google Drive for automatic syncing between devices. Enable the Working Mode if you’re ready to start knitting, this will lock your design and makes it easy to keep track of the current row and stitch. What does the Pro Version unlock? • Create as many files as you like • Unlock all tools • Convert images to color charts • Written instructions for designed charts • Create your own colors • Unlock all knit symbols • Create patterns up to 500x500 • Generate a PDF for your charts • Reuse designs by using the Designs Library • Export high resolution images • Draw text notes on top of PDF files • Adjust the gauge • Automatically generate a chart for non-mirrored double knitting • Use Siri with the Working Mode and row counters This version is free to give you the ability to try Knitting Chart before buying. Please upgrade to the Pro Version (pay once, no subscriptions) if you want to unlock all features and create as many charts as you like! Check out the YouTube Channel for video tutorials. Visit knitting-chart.com for known issues, faq and more. Please send an email to help@knitting-chart.com if you encounter any problems, have a question or request!",
+      "averageUserRating": 4.34593,
+      "userRatingCount": 1269,
+      "currentVersionReleaseDate": "2023-01-18T17:34:59Z",
+      "releaseDate": "2017-07-25T01:00:12Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/knitting-chart/id1251317736?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.5",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1353303895,
+      "trackName": "Cross Stitch: Embroidery Maker",
+      "bundleId": "com.goodmoodzone.CrossStitchEmbroidery",
+      "sellerName": "PIKI GRUP, OSOO",
+      "description": "Turn your device into a cross stitch pattern maker. Create your own patterns from any picture and enjoy your hobby with Cross Stitch Embroidery: Hobby. PATTERN DESIGN IN A FEW STEPS: - upload an image from your device and it will be converted in the stitch pattern format - edit the pattern according to the number of colors and the pixels size - choose the art canvas and a threads manufacturer - save a pattern in PDF PATTERN DESIGN SETTING - adjust/hide the grid - highlight the necessary colors PROGRESS TRACKING Mark your progress using the highlighter FLOSS CONVERTER Use the thread converter that allows you to find corresponding color numbers from other manufacturers (DMC, Gamma, Madeira, Anchor, Dimensions, Dome, Bucilla, J&P Coats, BELKA and PNK im. Kirova) FLOSS CALCULATOR It will help determine how many flosses you need for a particular pattern YOUR OWN MASTERPIECE Make collages before and after to estimate the result and share your artworks via social networks The app is supported on the iPhone 5S and later having iOS 11. Certain features might require a subscription to access. The FREE version offers a restricted number of embroidery designs, including 2 patterns derived from photos. SUBSCRIPTION gives you access to an unlimited array of embroidery designs and photo-derived patterns. Additionally, it allows you to partake in a competition for the best embroidery. https://peakygroup.com/privacy https://peakygroup.com/tos",
+      "averageUserRating": 3.67742,
+      "userRatingCount": 93,
+      "currentVersionReleaseDate": "2026-07-17T11:42:41Z",
+      "releaseDate": "2018-03-07T02:02:11Z",
+      "genres": [
+        "Utilities",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-embroidery-maker/id1353303895?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 6759521479,
+      "trackName": "Stitch Fiddle & Craft Maker",
+      "bundleId": "com.parivee.StitchCraft",
+      "sellerName": "Patrick van der Ploeg",
+      "description": "Turn Your Photos Into Cross-Stitch Patterns StitchCraft transforms any photo into a detailed, stitch-ready cross-stitch pattern — right on your iPhone. Whether you are a beginner or a seasoned stitcher, StitchCraft gives you the tools to design, customize, and track your projects from start to finish. No account required. No internet needed. Everything happens on your device. How It Works Pick a photo from your library and follow a simple four-step wizard. Choose your grid size, select your thread colors, fine-tune brightness and contrast, and preview the final pattern before generating. The result is a color-mapped grid based on real DMC thread codes, ready to stitch. Prefer to start from scratch? Create a blank canvas and draw your own design using the built-in editor tools. Real DMC Thread Colors StitchCraft includes a library of 477 official DMC colors — 441 Stranded Cotton and 36 Light Effects. Every color in your pattern is matched to a real DMC code, so you know exactly which threads to buy. Browse the full color library, search by name or code, and swap colors at any time. Powerful Pattern Editor - Switch between color view, symbol view, or combined view - Draw, erase, and flood-fill individual stitches - Use the eyedropper tool to pick colors directly from the grid - Add backstitch lines for outlines and fine details - Swap all instances of one color with another in a single tap - Undo recent changes Track Your Progress Tap any stitch to mark it as completed. StitchCraft keeps a running count and percentage so you always know how far along you are. Large patterns are split into manageable sections that you can navigate, complete, and review one at a time. Custom Palettes Create your own thread palettes from any combination of DMC colors. Use them in the pattern wizard to control exactly which colors are available. Rename, duplicate, or delete palettes as needed. Export and Share Generate a print-ready PDF with everything you need: - Full-color pattern preview and grid stats - Section-by-section grid pages with symbols and row numbers - Color legend with DMC codes, stitch counts, and swatch previews - Shopping list with skein quantities and estimated cost - Fabric size recommendations for your chosen fabric count Share the PDF via AirDrop, email, print, or save it to Files. Shopping List See exactly how many skeins of each color you need, the total estimated cost, and the recommended fabric dimensions — all calculated automatically based on your pattern size and fabric count. Built for Stitchers - Supports fabric counts from 11ct to 28ct - Shows finished dimensions in both centimeters and inches - Symbols assigned to every color for monochrome printing - Patterns up to 200 x 200 stitches - Projects saved locally and persist across app restarts Free to Start Create up to three patterns per day with grids up to 80 stitches wide and 20 colors. Unlock the full experience with StitchCraft Premium for larger patterns, advanced blending modes, image adjustments, custom palettes, PDF export, and shopping lists.",
+      "averageUserRating": 4.0,
+      "userRatingCount": 23,
+      "currentVersionReleaseDate": "2026-07-27T14:04:17Z",
+      "releaseDate": "2026-02-23T08:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/stitch-fiddle-craft-maker/id6759521479?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "18.6",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1281394467,
+      "trackName": "XStitch Plus",
+      "bundleId": "com.performtec.xstitchplus",
+      "sellerName": "PerformTec Ltd.",
+      "description": "X-Stitch Plus is the best way to inventory and track all your cross stitch stash. This easy-to-use app was designed by cross stitchers for cross stitchers. Track all your projects from wish list to finished using the Journal feature. Load up to 5 photos per project. Use the inventory to track all your threads, charts, linens and embellishments. Tens of thousands of threads are pre-loaded so you don't have to type in details. Mill Hill beads are also pre-loaded so you can quickly add them to your inventory. Keep multiple photos for your charts and embellishments. Use the fabric calculator to easily determine fabric dimensions in inches and centimeters. The shopping cart helps ensure you remember exactly what you need when you're at the shop. And of course, these modules are interlinked so you can quickly share info between them, e.g., quickly create a Journal entry from one of your charts. Want to share? X-Stitch Plus supports sharing via Facebook, Twitter, E-Mail, Text and more. Another key benefit of X-Stitch Plus is all your data is stored in the cloud. View and update your data from any of your devices and they're all in sync. You can even access data from the original X-Stitch app. No need to reenter data. Check out the best cross stitch inventory app today with a 7-day free trial! Subscription Information Terms of Use: https://xstitchapp.com/?page_id=69 Privacy Policy: https://xstitchapp.com/?page_id=10 We offer one subscription: XStitch Plus Annual Subscription Subscription cost is $9.99 per year. It’s possible this will be shown in your local currency. Subscription provides full access to all app features with no restrictions. App features include Journal tracking with up to 5 photos per Journal item Inventory tracking for charts, threads, linens and embellishments Includes up to 5 photos per chart and 5 photos per embellishment Fabric calculator Shopping list Cloud storage Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period. Cost is $9.99 per year. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s iTunes Account Settings after purchase. Any unused portion of the free trial period will be forfeited when the user purchases a subscription.",
+      "averageUserRating": 4.7862,
+      "userRatingCount": 1015,
+      "currentVersionReleaseDate": "2025-07-03T00:26:45Z",
+      "releaseDate": "2018-08-05T20:01:07Z",
+      "genres": [
+        "Lifestyle",
+        "Utilities"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/xstitch-plus/id1281394467?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.6",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1443781025,
+      "trackName": "Cross Stitch Club",
+      "bundleId": "com.foxelpix.crossstitchclub",
+      "sellerName": "Andrey Baryshnikov",
+      "description": "Forget stress and anxiety. Say 'hello' to a cup of fragrant tea and a cozy sofa. Welcome to the Cross Stitch Club, dear stitcher! Work on the best designs ever from the hundreds in the app or create your own! Cross Stitch Club — it’s a coloring and meditation app for true cross-stitchers! We have made the stitching process as simple and as exciting as possible — color or sew just by one finger! Let all your problems go away. Sit back, relax, have fun and enjoy a great stress relief experience. Earn nice souvenirs for your sewing. I wonder — how many of the rewards you can get?! Share your designs with family and friends - impress them with your beautiful needlework! Features: - Hundreds of absolutely unique embroidery designs; - Create and stitch your own design! - Simple and meditative gameplay with just one finger; - New patterns on a regular basis; - Share your embroidery with your friends. ---------------------------------- SUBSCRIPTION PRICING AND TERMS Subscription options In our game we offer you the next subscription options: 1. Weekly Membership offers you a weekly subscription for $5.99 after 3-day free trial. With this option, we will open all patterns for you and removes all pop-ups and banner ads. You also get more magic needles! 2. Monthly Membership offers you a monthly subscription for $17.99. With this option, we will open all patterns for you and removes all pop-ups and banner ads. You also get more magic needles! 3. Yearly Membership offers you a weekly subscription for $79.99. With this option, we will open all patterns for you and removes all pop-ups and banner ads. You also get more magic needles! End of trial and subscription renewal This price is for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. The account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. Canceling trial or subscription You can turn off the auto-renew for the subscription whenever you want to through iTunes account. Check https://support.apple.com/HT202039. When your current trial/subscription period expires, you will be unsubscribed. The current active subscription period cannot be canceled. After your subscription expires, you will no longer be able to use elements offered in your chosen Subscription Option. If you have any questions or comments, feel free to contact us at contact.sabagames@gmail.com Privacy Policy: http://tigrico.tilda.ws/privacy Term of Use: http://tigrico.tilda.ws/term",
+      "averageUserRating": 4.74725,
+      "userRatingCount": 3731,
+      "currentVersionReleaseDate": "2026-02-25T11:20:15Z",
+      "releaseDate": "2019-01-29T16:55:40Z",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Board",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "6016",
+        "7004",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-club/id1443781025?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1499339385,
+      "trackName": "Cross-Stitch: Coloring Book",
+      "bundleId": "com.playcus.crossstitchcoloringbook",
+      "sellerName": "PLAYCUS LIMITED",
+      "description": "Cross Stitch Coloring Book can help you to color your stress away and lets you choose from a wide range of free and amazing patterns in different categories including Animals, Flowers, Landscape, Food, Pets, Mystery, Birds, Seasons, Mandala and many others. It’s an entertaining way to create your own incredible artworks by embroidery! Bring your own pictures to life using import or discover hundreds of beautiful and unique patterns in our gallery. Cross stitch your own masterpiece today!! Take a break with Cross Stitch Coloring Book, the most calming coloring app. Feel the best relaxing experience on which you can enjoy all the stunning patterns day by day! Just follow the letters and numbers and cross stitching has never been easier! Be bright and creative using main features: Convenient and user-friendly gameplay, calming music; Dozens of various coloring patterns of mandalas, sweets, nature, animals, flowers, and many other styles updated every day. Also, we will provide you with special festive-themed patterns, such as Christmas, Valentine`s Day, Easter, Independence Day, Thanksgiving, Halloween, and many more; Take a photo or import a picture from your gallery, and Cross Stitch Coloring Book will immediately convert it into a cross stitch pattern. Encourage your creativity and feel all the brightness of the colors! Be social: Easily post your masterpiece on your social networks and share it with family and friends. Download Cross Stitch Coloring Book and release your inner artist now! Choose us for colorful cross stitch patterns. We offer something special for every stitcher - it’s fun, easy, and only one click away! We are constantly improving our app to provide players with the best game experience, so please don't hesitate to share your feedback via e-mail support@playcus.com Privacy Policy: https://www.playcus.com/privacy-policy Terms of Service: https://www.playcus.com/terms-of-service",
+      "averageUserRating": 4.58605,
+      "userRatingCount": 11610,
+      "currentVersionReleaseDate": "2026-05-07T15:29:53Z",
+      "releaseDate": "2020-04-03T07:00:00Z",
+      "genres": [
+        "Games",
+        "Puzzle",
+        "Board",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012",
+        "7004",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-coloring-book/id1499339385?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1235585928,
+      "trackName": "Beads Creator - Bead Patterns",
+      "bundleId": "jp.onetap.beadscreator",
+      "sellerName": "Takayuki Miyagawa",
+      "description": "OVER 1.6 MILLION DOWNLOADS Beads Creator is an easy-to-use app that lets you create fuse beads and Perler beads patterns with simple controls. With pixel art style editing, you can intuitively design your own bead patterns and bead layouts. Creating patterns using images is also supported. SIMPLE AND EASY FOR EVERYONE Thanks to a clean and intuitive UI, even beginners can quickly start creating fuse bead patterns. The app supports multiple bead brands such as Perler Beads, Hama Beads, and Nano Beads, making it easy to design patterns that match the beads you already use. It's also great for pixel art creation and cross-stitch pattern design. RECOMMENDED FOR - Fans of fuse beads and Perler beads - Anyone who wants to create bead patterns or bead designs - Lovers of pixel art and retro games - Cross-stitch and accessory makers - People looking for design templates for handmade projects SUPPORTS 6 BEAD TYPES - Perler Beads - Nano Beads - Midi Fuse Beads (5.0 mm) - Mini Fuse Beads (2.6 mm) - Midi Hama Beads (5.0 mm) - Mini Hama Beads (2.5 mm) IMAGE-BASED PATTERN CREATION You can also import images onto a pegboard and use them as fuse bead patterns. Note: Image-based patterns may not work well on non-square pegboards. CHECK COLORS AND QUANTITIES WITH THE BEAD LIST View the colors and required quantities of beads used in your design with the Bead List feature. This makes preparation for crafting much easier. PATTERN CREATION LIMITS - Initial limit: up to 30 patterns - Watch a video ad: +5 patterns each time - Increase the limit up to 480 patterns REMOVE ADS (PAID OPTION) By purchasing the Remove Ads add-on, you can: - Hide all ads - Increase the maximum number of patterns to 480 Note: This is a one-time purchase and can be restored after reinstalling the app.",
+      "averageUserRating": 4.4882,
+      "userRatingCount": 1483,
+      "currentVersionReleaseDate": "2026-01-27T15:11:13Z",
+      "releaseDate": "2017-08-29T16:01:32Z",
+      "genres": [
+        "Entertainment",
+        "Productivity"
+      ],
+      "primaryGenreName": "Entertainment",
+      "genreIds": [
+        "6016",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/beads-creator-bead-patterns/id1235585928?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.6",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1467166931,
+      "trackName": "Cross-Stitch Masters",
+      "bundleId": "com.tapclap.cross-stitch",
+      "sellerName": "TAPCLAP LIMITED",
+      "description": "Immerse yourself in the world of cross stitching and feel like a master of embroidery in Cross Stitch Masters! Color by number, relax, enjoy and have fun! Create fun and colorful pictures and share with your friends, easy and stress free. This game is for adults and kids any age who loves cross-stitching, knitting, puzzles, nonograms, jigsaws and coloring books. Join us and unleash your creativity!",
+      "averageUserRating": 4.62375,
+      "userRatingCount": 800,
+      "currentVersionReleaseDate": "2025-04-22T16:46:23Z",
+      "releaseDate": "2020-05-12T07:00:00Z",
+      "genres": [
+        "Games",
+        "Board",
+        "Graphics & Design",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7004",
+        "6027",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-masters/id1467166931?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "11.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 6444124006,
+      "trackName": "Cross Stitch: Magic Embroidery",
+      "bundleId": "space.7thbeat.stitch",
+      "sellerName": "SENLA sp. z o.o.",
+      "description": "Discover a Fresh Approach: Revitalize your cross-stitching experience with our innovative features designed to inspire your creativity. We've reimagined the art of cross-stitching, making it more dynamic and engaging than ever before. Say goodbye to traditional methods and explore a world of endless design possibilities! Endless Patterns: Choose from a rich palette of designs in various colors and styles, or upload your own PDF/XSD/SAGA cross-stitch charts to personalize your projects. Seamless Organization: Keep your materials organized effortlessly. Manage your threads, fabrics, and other essentials in one place. Built-in Materials Calculator: Achieve perfection in your projects by planning your supplies. Never run out of thread or fabric mid-stitch! Global Community: Showcase your skills and connect with stitchers worldwide through fun competitions and shared inspiration. 3-Day Free Trial: Experience the full potential of modern cross-stitching for free! Afterward, subscribe to unlock unlimited access to all features. Download Now and Join the Movement! Whether you're a seasoned stitcher or just starting, our app is tailored to meet your needs. Unleash your creativity, connect with a vibrant community, and redefine cross-stitching in ways you never imagined. Cross Stitch: Magic Embroidery is compatible with any iOS device. Start your cross-stitching journey today! [Need Help? Have Questions?] Fill out the app feedback form or email us at info@magicstitch.space, and we’ll assist you promptly. Privacy Policy: https://magicstitch.space/privacy-policy Terms of Use: https://magicstitch.space/terms",
+      "averageUserRating": 3.83333,
+      "userRatingCount": 18,
+      "currentVersionReleaseDate": "2026-03-25T17:42:15Z",
+      "releaseDate": "2023-09-21T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Productivity"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-magic-embroidery/id6444124006?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1444986176,
+      "trackName": "Cross Stitch Quest",
+      "bundleId": "com.crossstitchquest",
+      "sellerName": "Arbel Eshed",
+      "description": "Enter the colorful world of Cross Stitch Quest! A relaxing sewing game for all ages, we have a huge selection of beautiful cross stitch and embroidery sewing patterns. From animals and nature to food and travel, we have hundreds of stunning patterns and pictures just waiting for you to stitch! What are you waiting for?! With simple, relaxing gameplay, Cross Stitch quest is the perfect sewing game for kids and adults alike! Just pick a thread color, tap the letters to thread the needle and watch as your cross stitch pattern comes to life! -------------------------------------------------------------- CROSS STITCH QUEST – HIGHLIGHTS -------------------------------------------------------------- * Hundreds of colourful sewing patterns and pictures * A huge selection of coloured threads to stitch * Made a mistake? Unpick your stitches! * Free coins every day! * Your progress is automatically saved * Earn star ratings for each level * Play Cross Stitch also on Facebook * Colouring by letter activity perfect for adults and kids alike * The perfect relaxing game for sewing enthusiasts From beautiful roses and nature landscapes to cute animals, we have sewing patterns and pictures to suit any taste! Best of all, you can also play Cross Stitch Quest on your PC or laptop with Facebook games DOWNLOAD TODAY & ENJOY HOURS OF RELAXING CROSS STITCH FUN!",
+      "averageUserRating": 3.94545,
+      "userRatingCount": 55,
+      "currentVersionReleaseDate": "2018-12-29T18:50:35Z",
+      "releaseDate": "2018-12-04T11:35:38Z",
+      "genres": [
+        "Games",
+        "Family",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7009",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-quest/id1444986176?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "8.0",
+      "matched_seed": "cross stitch pattern maker"
+    },
+    {
+      "trackId": 1581052096,
+      "trackName": "stitch.",
+      "bundleId": "com.lykkestudios.stitch",
+      "sellerName": "Lykkegaard Europe Limited",
+      "description": "Stitch. is a casual puzzle game with embroidery on a numbered grid. The main objective is to fill in the levels' areas with no gaps to complete Hoops. Stitch. lets you create beautiful embroidery patterns, by solving levels and Hoops of various difficulties and sizes. It's easy to learn, but hard to master! Stitch up all the beautiful landscapes, plants, animals, objects, and more. SIMPLE RULES, CHALLENGING SOLUTIONS Stitch. offers an expansive range of playable content and thousands of easy to extremely challenging levels. Pick the pattern, size, and category of the Hoop you prefer and move forward through the levels to create an embroidered masterpiece. REALISTIC EMBROIDERY ENGINE Like any other form of art, hand embroidery brings you a peaceful, calming, and inspiring experience. Developed in-house, the realistic embroidery engine helps you enjoy the feel of playing with the real embroidery thread on your device. REGULAR HOOPS Stitch. features over 500 regular Hoops in multiple sizes and categories. Up to a long embroidery adventure? Pick a beautiful landscape hoop in XXL size. Looking for something quick and fun to help you unwind? - Stitch up a cute teddy bear or a colorful plant! Every Hoop you complete can then be shared. WEEKLY HOOPS Weekly Hoops are limited edition content that becomes available to play every week. Discover a new Weekly Hoop every 7 days and get it solved until it is gone! Weekly Hoops' themes and patterns reflect famous international events and unlock fun, educational facts about each of them. Did you know World Embroidery Day is celebrated on July 30? FREE STITCH MODE After completion, each Hoop can be alternatively played in Free Stitch mode. Pick your favorite pattern and color it just the way you like! Free Stitch mode becomes available after the tutorial steps completion. CHALLENGES Follow and complete all the various and fun challenges to collect points, upgrade in tiers and obtain achievements. ACCESSIBILITY Stitch. offers a range of accessibility features that are imported from your iOS/iPadOS settings and can be managed through the main menu of the game: 1. The “Number Outlines” feature creates sharper and more contrasted outlines for the numbers on the grid to help color blindness or the visually impaired. 2. The “Reduce Motion” feature disables all sudden movements and animations. 3. The “Big Numbers” feature increases the size of the numbers of the grid for better visibility. UNIVERSAL & FAMILY FRIENDLY Stitch. is a family-friendly game, suitable for players of all ages and genders. (IGRS rating: 3+)",
+      "averageUserRating": 4.82878,
+      "userRatingCount": 34590,
+      "currentVersionReleaseDate": "2026-06-24T21:16:57Z",
+      "releaseDate": "2022-10-28T07:00:00Z",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/stitch/id1581052096?uo=4",
+      "price": null,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "cross stitch chart photo"
+    },
+    {
+      "trackId": 6764654264,
+      "trackName": "StitchSnap: Cross Stitch Chart",
+      "bundleId": "com.renoneto.crossstitchai",
+      "sellerName": "Reno Labs, LLC",
+      "description": "Turn any photo into a printable cross-stitch chart in seconds — right on your phone. StitchSnap matches your photo to industry-standard DMC floss codes, generates a multi-page printable PDF, and gives you a written stitch-by-stitch pattern — everything you need to start stitching today. Built phone-camera-first. No desktop software and no clunky browser tools — snap a photo of your pet, your kid, or a favorite memory and get a stitchable chart on the spot. The color matching is tuned for the subjects other converters get wrong: it stays accurate on fur and on skin tones, mapping to the real DMC flosses stitchers actually use. Pick a sample, snap a photo with the camera, or upload from your library. Choose Quick for a fast preview, Standard for the sweet spot, or Detailed for a high-resolution chart. Get a finished-piece preview before you commit to your floss. Free: chart preview with watermark. Unlock the full printable PDF + complete DMC color list for one pattern with a one-time $1.99 purchase — no subscription required. Want unlimited charts? Subscribe: Annual ($29.99/year) or Weekly ($5.99/week). Built for hobbyists, gift-makers, and beginners alike. — Subscription details — Annual Access auto-renews at $29.99/year and Weekly Access at $5.99/week unless cancelled at least 24 hours before the end of the current period. Payment is charged to your Apple ID at confirmation of purchase. Manage or cancel anytime in your iPhone Settings > Apple ID > Subscriptions. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://www.renolabshq.com/stitchsnap/privacy",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-07-13T17:35:13Z",
+      "releaseDate": "2026-05-18T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/stitchsnap-cross-stitch-chart/id6764654264?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "cross stitch chart photo"
+    },
+    {
+      "trackId": 6783042962,
+      "trackName": "Stitchwork: Cross Stitch Chart",
+      "bundleId": "app.stitchwork.ios",
+      "sellerName": "CHRISTOPHER JAMES HINCKLEY",
+      "description": "Stitchwork turns your cross-stitch pattern into a tappable, zoomable chart you mark off stitch by stitch — all the way to an honest 100%. And it never loses a stitch. Import a pattern PDF (or a photo of a chart) and Stitchwork lays a grid over it so every cell becomes tappable. Tap or drag to mark stitches done and watch your completion climb in real time. Your progress syncs across your iPhone and iPad through your own private iCloud — stitch on the couch with your iPad, check a color at the store on your phone, and pick up right where you left off. NEVER LOSE A STITCH • Per-stitch iCloud sync built to merge, not overwrite — edits from two devices combine, even offline • Your patterns and progress live in your own private iCloud; we never see them • No account to create, nothing to log into MADE FOR REAL CHARTS • Imports modern vector pattern PDFs — the grid snaps to your chart automatically • Any pattern works: if auto-detect isn't perfect, just drag the grid to fit • Smooth on huge charts — 100,000+ stitches, fluid zoom and pan • Multi-page PDFs stitched into one continuous chart EVERY KIND OF STITCH • Full stitches, plus half, quarter, and three-quarter fractional stitches • Back-stitch outlines you can tap to track • Block-fill and a quick-park mode for fast marking • Parking-method support for confident colorwork TRACK EVERYTHING • Live completion percentage that counts real stitches — hit a true 100% when you finish • Per-symbol counts — see exactly how many of each symbol are left • Tap a symbol to highlight every cell that uses it • A Progress tab that rolls up every project with pace and time estimates YOUR FLOSS, ORGANIZED • Automatic floss list — every DMC color in your pattern • A full floss stash: what you own, what you still need, and a cross-project shopping list • Skein estimates and DMC-to-Anchor / Madeira conversions • A searchable catalog of 450+ DMC shades FAIR PRICING • A one-time purchase — no subscription, ever • Your first 3 patterns are free — then unlock unlimited with a single one-time purchase • Your patterns are always yours — nothing is ever deleted, upgrade or not Built by a stitcher who wanted a great cross-stitch tracker on iPhone and iPad — and decided to make one. Actively maintained, and shaped by what cross-stitchers actually ask for. Happy stitching!",
+      "averageUserRating": 5.0,
+      "userRatingCount": 3,
+      "currentVersionReleaseDate": "2026-07-21T19:03:39Z",
+      "releaseDate": "2026-07-06T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/stitchwork-cross-stitch-chart/id6783042962?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "cross stitch chart photo"
+    },
+    {
+      "trackId": 485739328,
+      "trackName": "The World of Cross Stitching",
+      "bundleId": "com.immediatemedia.worlfofcrossstitchingmag",
+      "sellerName": "Our Media Ltd",
+      "description": "The World of Cross Stitching brings together craft experts and a community of stitchers to help you create fabulous cross stitch patterns, from traditional and stylish to cute and pretty. Whether you’re an expert stitcher or just beginning, The World of Cross Stitching is with you every stitch of the way. Inside every issue: • At least 70 superb designs • Your favourite designers • Essential cross stitch advice • Inspirational reader stories Subscriptions and Single Issues Customers can buy single issues and subscriptions using In App Purchase Subscriptions are available on monthly or annual terms. • Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current subscription period • You will be charged for renewal within 24 hours prior to the end of the current period, for the same duration and at the current subscription rate for that product • You can manage your subscriptions and turn off auto-renewal by going to your Account Settings after purchase • No cancellation of the current subscription is allowed during active subscription period. This does not affect your statutory rights • Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription • The app may offer a free trial. At the end of the free trial period, the full price of the subscription will be charged thereafter. Cancellations must occur 24 hours before the end of the subscription period to avoid being charged. Visit http://support.apple.com/kb/ht4098 for more information. The subscription will include the current issue if you do not already own it and subsequently published future issues. Payment will be charged to your iTunes Account at confirmation of purchase. If you would like more information or support please visit our App support page https://www.ourmediaapps.co.uk/apps-faqs/ Our Media Ltd Privacy Policy and Terms of Use: https://policies.ourmedia.co.uk/privacy-policy/ https://policies.ourmedia.co.uk/website-terms-and-conditions/ * please note: this digital edition does not include the covermount gifts or supplements you would find with printed copies*",
+      "averageUserRating": 4.5969,
+      "userRatingCount": 129,
+      "currentVersionReleaseDate": "2025-08-29T15:42:00Z",
+      "releaseDate": "2012-10-09T06:03:39Z",
+      "genres": [
+        "Lifestyle",
+        "Magazines & Newspapers"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6021"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/the-world-of-cross-stitching/id485739328?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "cross stitch chart photo"
+    },
+    {
+      "trackId": 1413137373,
+      "trackName": "Cross Stitch: Coloring Art",
+      "bundleId": "com.playcus.crst",
+      "sellerName": "PLAYCUS LIMITED",
+      "description": "Cross Stitch Coloring Art can help you to color your stress away and lets you choose from a wide range of free and amazing patterns in different categories including Animals, Flowers, Landscape, Food, Pets, Mystery, Birds, Seasons, Mandala and many others. It’s an entertaining way to create your own incredible artworks by embroidery! Bring your own pictures to life using import or discover hundreds of beautiful and unique patterns in our gallery. Cross stitch your own masterpiece today!! Take a break with Cross Stitch Coloring Art, the most calming coloring app. Feel the best relaxing experience on which you can enjoy all the stunning patterns day by day! Just follow the letters and numbers and cross stitching has never been easier! Be bright and creative using main features: Convenient and user-friendly gameplay, calming music; Dozens of various coloring patterns of mandalas, sweets, nature, animals, flowers, and many other styles updated every day. Also, we will provide you with special festive-themed patterns, such as Christmas, Valentine`s Day, Easter, Independence Day, Thanksgiving, Halloween, and many more; Take a photo or import a picture from your gallery, and Cross Stitch Coloring Art will immediately convert it into a cross stitch pattern. Encourage your creativity and feel all the brightness of the colors! Be social: Easily post your masterpiece on your social networks and share it with family and friends. Download Cross Stitch Coloring Art and release your inner artist now! Choose us for colorful cross stitch patterns. We offer something special for every stitcher - it’s fun, easy, and only one click away! We are constantly improving our app to provide players with the best game experience, so please don't hesitate to share your feedback via e-mail support@playcus.com Privacy Policy: https://www.playcus.com/privacy-policy Terms of Service: https://www.playcus.com/terms-of-service",
+      "averageUserRating": 4.58833,
+      "userRatingCount": 4511,
+      "currentVersionReleaseDate": "2026-02-26T21:45:59Z",
+      "releaseDate": "2018-08-05T15:25:57Z",
+      "genres": [
+        "Games",
+        "Board",
+        "Entertainment",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7004",
+        "6016",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cross-stitch-coloring-art/id1413137373?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "cross stitch chart photo"
+    }
+  ],
+  "errors": [],
+  "fetched_at": "2026-07-28T15:53:13+08:00",
+  "cache_hit": false,
+  "cache_path": "/Users/zhoujinyu/.claude/app-factory/itunes_cache/739115b8ea54f30bf2c9b88e.json"
+}

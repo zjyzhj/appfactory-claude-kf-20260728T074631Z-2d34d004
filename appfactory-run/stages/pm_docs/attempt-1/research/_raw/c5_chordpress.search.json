@@ -1,0 +1,796 @@
+{
+  "schema_version": "appfactory.itunes_search_raw.v1",
+  "status": "ok",
+  "country": "us",
+  "seeds": [
+    "chord sheet maker",
+    "guitar chord chart creator",
+    "lyrics chords editor",
+    "chordsheet songwriter",
+    "author lyric+chord sheets, chord diagram editing, transpose, setlist, PDF/image export"
+  ],
+  "limit_per_seed": 25,
+  "cap": 30,
+  "per_seed": [
+    {
+      "term": "chord sheet maker",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "guitar chord chart creator",
+      "result_count": 24,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "lyrics chords editor",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "chordsheet songwriter",
+      "result_count": 22,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "author lyric+chord sheets, chord diagram editing, transpose, setlist, PDF/image export",
+      "result_count": 24,
+      "http_status": 200,
+      "error": null
+    }
+  ],
+  "results": [
+    {
+      "trackId": 835731296,
+      "trackName": "MuseScore－Sheet Music & Chords",
+      "bundleId": "com.musescore.player",
+      "sellerName": "MuseScore Limited",
+      "description": "PLAY FREE MUSIC SCORES Whatever instrument you play, whether it's a piano, trumpet, guitar, or harmonica, or kalimba, you will always find notes of excellent quality. • Browse the most extensive sheet music collection from MuseScore. • Access over 1.5 million pieces of FREE sheet music: piano notes, guitar tabs, and scores for most instruments. • Play compositions that suit all tastes: from timeless classics or Christian tunes to anime music transcriptions, movies (OST), or songs from video games (soundtracks). • View and play your favorite sheet music online and offline. • Search for scores with ease. • Find something new to play - scores are added every day. ACCESS LARGE SHEET MUSIC ARCHIVE Searching for sheet music just got easier with MuseScore. • Browse the catalog by instrument: piano, trumpet, violin, percussion, flute, etc. • Filter catalog for suitable compositions, including solo, band, ensemble, or orchestra. • Don't miss scores for the music of composers you know and love, from Bach and Mozart to Morricone, Zimmer, Joe Hisaishi, and Koji Kondo. • Choose your favorite genres: Classical, Pop, Rock, Folk, Jazz, R&B, Funk & Soul, Hip Hop, New Age, World Music. • Add scores to Favorites to easily access them. • Share your favorite sheet music. With MuseScore PRO, you can use Songbook to download and keep your favorite scores offline. Plus, now you can load scores from your device or cloud. PRACTICE WITH MUSESCORE Boost your music reading skills and listen to how scores sound: • Play immediately with the interactive player. • Set the tempo and loop to practice. • Use dedicated Practice Mode to learn music score note-by-note. • Zoom in to see every detail. Boost your progress with MuseScore PRO: • Adjust the volume and visibility of each instrument in every score. • Transpose sheet music into any key. • Locate notes on the piano keyboard much easier with the on-screen keyboard featuring key highlighting. • Auto-scroll to make notes always visible while playing. • Export sheet music to PDF, MIDI, and MP3. • Play on time with metronome. • Listen to music scores with HQ sound. LEARN WITH VIDEO COURSES Fulfill your musical passion by refining your skills on the go. Tap into video lessons and reading materials from credible music tutors with a dedicated MuseScore LEARN subscription. Or bundle courses with premium practicing features with MuseScore ONE plan. • Learn with courses from some of the world's best music instructors. • Master how to play the piano, guitar, violin, trombone, and other instruments. • Study music theory, music composition, and ear training. • We cover all levels, from absolute beginners to advanced musicians. • Watch a free intro to find the teaching style that's right for you. SUPPORT Email: support@musescore.com COMMUNITY Follow MuseScore and share your feedback. Facebook: https://facebook.com/musescore Twitter: https://twitter.com/musescore Subscription information: • Payment will be charged to iTunes Account at confirmation of purchase • Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period • Account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen package • Subscriptions may be managed, and auto-renewal may be turned off by going to your device's Account Settings after purchase • There is no way to cancel your current subscription during its active period • Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. * Price are equal to the value that \"Apple's App Store Matrix\" determines is the equivalent of the subscription price in $USD. You can read our privacy policy at https://musescore.com/legal/privacy You can read our terms of service at https://musescore.com/legal/terms",
+      "averageUserRating": 4.6151,
+      "userRatingCount": 76804,
+      "currentVersionReleaseDate": "2026-07-22T23:10:44Z",
+      "releaseDate": "2014-03-20T18:08:49Z",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/musescore-sheet-music-chords/id835731296?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 581094194,
+      "trackName": "SongSheet Pro: Setlist helper",
+      "bundleId": "com.isharp.songsheet",
+      "sellerName": "Ghostdust Pty Ltd",
+      "description": "Lose the heavy binder. SongSheet Pro turns your iPad or iPhone into a complete digital songbook — with setlists, fast editing, instant transposing, auto-scroll, Bluetooth pedal control, lyrics projection, and more — for guitar, piano, vocals, and worship. Whether you're a performer, songwriter, worship leader, hymn book curator, or music teacher, SongSheet Pro replaces stacks of paper sheet music with one beautifully organized library that travels with you to every gig, rehearsal, or Sunday service. **WHY MUSICIANS CHOOSE SONGSHEET PRO** • Built natively for iPad and iPhone — fast, focused, and free of clutter • A true editor for lyrics and chords — not just a PDF viewer — with instant transposing and drag-and-drop rearrangement • Crisp, beautifully typeset chord charts that look as good on stage as they do in print • Setlists with running time, drag-and-drop reordering, and one-tap navigation between songs • A free companion Remote app for hands-free page turns from your iPhone • Active, customer-driven development — regular updates shaped by working musicians **MANAGE SONGS AND SETLISTS** • Unlimited songs and setlists • Write new songs or paste lyrics from the web • Tag songs for easy sorting and filtering • Lightning-fast search • Reorder, duplicate, and drag-and-drop with ease • Setlists show total running time • Slide Over, Split View, and multi-window support on iPad • Import via AirDrop, iCloud, Dropbox, Files, or other apps • Scan songs with your camera, or import images and convert them to editable text with OCR • Import directly from WorshipReady.com • Opens ChordPro, PDF, and many other common formats **POWERFUL EDITING** • Custom editor for chord charts with comments and guitar tabs support • Instant transposing with chord updates • Editable chord palette • Drag-and-drop text and stanza rearrangement • Precise chord placement and quick chord editing **SHARING AND PRINTING** • Share via AirDrop, Messages, or email • Full-screen live preview for printing and PDF export • AirPrint with control over page size, orientation, margins, fonts, spacing, and chord display • Back up your entire library — songs, setlists, tags, and themes — to a single file, and restore any time **PERFORM IN STYLE** • Crisp, beautifully typeset chord charts and lead sheets • Auto-scroll, arrangements, and Bluetooth pedal support — keep your hands on your instrument • Built-in metronome • Control SongSheet Pro on your iPad with the free Remote app for iPhone or iPod touch — perfect for hands-free use on stage or at the music stand • Built-in display themes for editing, dim-lit stages, and audience projection — or customize colors, fonts, spacing, and chord styling to match your setup • Project lyrics for sing-alongs — ideal for worship services, classrooms, and family gatherings • Add backing tracks from your music library Trusted by thousands of musicians, worship teams, and bands every month, SongSheet Pro keeps getting better with regular updates shaped by your feedback. Got an idea? We'd love to hear it. **Download SongSheet Pro today and take your whole repertoire with you — every song, every setlist, every stage.** Email: support@songsheetapp.com Web: https://songsheetapp.com Terms: https://songsheetapp.com/terms.html",
+      "averageUserRating": 4.72356,
+      "userRatingCount": 2666,
+      "currentVersionReleaseDate": "2026-06-10T16:50:55Z",
+      "releaseDate": "2012-11-29T02:39:19Z",
+      "genres": [
+        "Music",
+        "Productivity"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/songsheet-pro-setlist-helper/id581094194?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.6",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1177592149,
+      "trackName": "Flat: Sheet Music Maker & Tabs",
+      "bundleId": "com.tutteo.flat",
+      "sellerName": "Tutteo Limited",
+      "description": "Write, play and share music, anywhere! Flat is the sheet music app trusted by 5M+ musicians worldwide. Compose, notate, and collaborate on scores for any instrument, from guitar tabs to full orchestras, across iPhone, iPad, Mac, and your web browser. Free features include: → Quick notation input via touch piano, guitar fretboard, or drum pads → 90+ instruments including piano, guitar, violin, saxophone, drums, voice, and more → 100K+ original scores in the community → Edit music scores on iPhone, iPad, Mac, and in your web browser → Hundreds of notation symbols: articulations, dynamics, measures, text, and more → Autocompletion when adding chords → Transposition by key, interval, or tone → Import MusicXML and MIDI files → Import PDF sheet music and convert it into fully editable scores → Keyboard shortcuts for iPad keyboard and fretboard → Share scores publicly or privately Collaborate in real-time: → Real-time collaboration for a dynamic experience → Inline comments for live feedback → Find collaborators in the Flat community Share your music: → Join the monthly Flat community challenge and win prizes → Explore hundreds of thousands of original scores from composers worldwide → Get featured and connect with fellow musicians Subscribe to Flat Power to unlock the full experience across all your devices. Flat Power, premium features: → Unlimited cloud storage → Automatic sync so your full library stays connected on iPhone, iPad, Mac, and web browser → 180+ instruments including high-quality audio → Advanced export: individual parts, multi-rest print, remove Flat branding → Layout and styles: page dimensions, spacing, chord style, Jazz and Handwritten fonts → Custom note heads: Boomwhackers colors, Note Names, Shape-Note (Aiken) → Version history: view and revert to any past version of your scores → Advanced audio: per-part volume and reverb controls → Input notes with MIDI devices (USB and Bluetooth) → Autosave with full version history → Customizable keyboard shortcuts → Priority support → PDF and photo import pages included with every plan: - Monthly plan: 10 PDF import pages/month + full premium features - Yearly plan: 20 PDF import pages/month + full premium features (best value) - Lifetime plan: full premium features + 20 PDF import pages (one-time purchase, no renewal) Terms for in-app payments: Payment will be charged to your Apple ID at confirmation of purchase. The subscription renews automatically unless canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours before the end of the period. Manage and cancel subscriptions in your App Store account settings. Any unused portion of a free trial, if offered, will be forfeited when a subscription is purchased. Our Terms of Service and Privacy Policy: https://flat.io/help/en/policies Questions or feedback: ios@flat.io",
+      "averageUserRating": 4.60369,
+      "userRatingCount": 6669,
+      "currentVersionReleaseDate": "2026-07-27T10:52:46Z",
+      "releaseDate": "2017-10-25T16:27:56Z",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/flat-sheet-music-maker-tabs/id1177592149?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.1",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1446177109,
+      "trackName": "Chord ai - Play any song!",
+      "bundleId": "com.musicAI.MusicAIApp",
+      "sellerName": "Nomad AI OU",
+      "description": "The hidden gem for musicians, from beginners to pros. Chord ai is the perfect tool for playing and learning any song. With recent advancements in artificial intelligence, Chord ai provides highly accurate chord recognition, beat tracking, voicing and lyrics for any song instantly and reliably. Say goodbye to tedious web searches for chords and hello to easy access to your favorite songs on YouTube, SoundCloud, your audio files, or even by using your device's microphone. With Chord ai, improve your playing skills and train your ear with numerous features tailored to every level of musician. ** BROWSE ANY SONG ** - You can select any song by browsing your audio files, SoundCloud or YouTube. This is the preferred way and each song will be processed in a few seconds only - Or you can use your device microphone to get the chords in real-time of any song playing around you or from your own playing ** CHORD & VOICING RECOGNITION ** - State-of-the-art chord recognition: Chord ai recognizes common chords such as major, minor, augmented, diminished, 7th, M7th, sus2 and sus4 chords. In the pro version, you also get advanced chords such as half-dim, dim7, 6/9/11/13, add9/11/13 and many more complex jazzy and other beautiful chords such as 69, 11b5, 13b9, 9sus4, min7add13 etc. - Slash Chord Recognition: Chord ai tells you the bass/lowest note of each chord using the slash notation. [Pro version] - Voicing & Position recognition: Chord ai is the world's first app capable of recognising not only chords, but also their specific voicing. This means that Chord ai can tell you more precisely which notes should be played, including their octaves, and which positions match best with the song [Pro version] ** LYRICS RECOGNITION ** - On-device lyrics recognition using the latest advances in the field of speech recognition. Nearly 100 languages supported including English, Spanish, Japanese, Portuguese and many more! ** BEAT TRACKING ** - Chord ai uses state-of-the-art beat tracking algorithms to display chords organised into bars and beats ** SEPARATION INTO MULTI TRACKS ** - Automatic music separation into 4 stems: Bass / Drums / Vocals / Other ** MIDIFY ** - State-of-the-art audio to midi conversion - Export midified audio as a midi file ** ADVANCED REPLAY CONTROLS ** - Speed change: Slow down or speed up playback at your wish so that you can play easily along the song - Pitch shift: Change the pitch of the song to play in your desired key - Loop: the interface for setting loop start/end points is very simple and intuitive ** SAVE & SHARE ** - Saved songs and playlists are synchronised among all your iOS devices - Export transcriptions as PDF files. You can control the number of bars per line as well as whether you want to display lyrics and/or positions ** PIANO / GUITAR / UKULELE / BASS / MANDOLIN / BANJO ** - Select your preferred instrument among always growing list of supported instruments - Smart capo: you can also let Chord ai tell you preferred capo for either easiness of play of song matching [Pro version] ** LEARN NEW AND BEAUTIFUL CHORD POSITIONS ** - Find and learn chords from Chord ai's massive chord positions library (more than 100k guitar positions and more than 10k ukulele positions) - Positions ranked from easiest and common to most difficult and rare - Alternate tunings for guitar / ukulele / banjo / mandolin such as Drop D, DADGAD, Open D/G/A/C etc. [Pro version] Any feedback appreciated at contact@chordai.net Privacy policy: https://chordai.net/privacy-policy/ Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.64418,
+      "userRatingCount": 5885,
+      "currentVersionReleaseDate": "2026-07-22T18:32:41Z",
+      "releaseDate": "2019-08-07T07:00:00Z",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/chord-ai-play-any-song/id1446177109?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 6759652905,
+      "trackName": "Faso - AI Chord Sheet & DAW",
+      "bundleId": "com.dotune.faso",
+      "sellerName": "CHING HUANG",
+      "description": "Songwriting starts with chords. faso lets you go from chord charts to a full demo — all on your phone. 【 Why faso 】 Enter a chord progression, accompaniment follows automatically. Layer recordings and MIDI tracks on top. Your next song could take shape on your morning commute. 【 Core Features 】 • Chord Sheet Writing & Sharing Build songs around chord sections — intuitive, like writing a chart. Enter chords, accompaniment follows automatically. Your whole song at a glance. Share your chord sheets with anyone, anytime. • Full-Featured Mobile DAW Multi-track recording, MIDI editing, mixing — complete arrangements on your phone. When inspiration strikes, just record. No need to wait until you're at your desk. • Jam Fretboard hints that adapt to your chord progression. See the right scales, arpeggios, and notes light up as you play — stay in key while you improvise. • Export to Pro DAWs Export your work as MIDI or audio. Send it to Ableton, Logic, GarageBand — seamlessly continue your work on desktop. • Discover Browse chord progressions by feel — not by name. Build on what others have started and make it your own. • Music Theory Lookup Chords, scales, progressions — always at your fingertips. Explore theory while you create. Learn by doing. • Cross-Device Sync Start on your phone, continue on another device. Your music never stops. 【 Made for You If… 】 You're learning music and want to create while you explore You start ideas on the go and finish them at your desk You've tried other DAWs and found the workflow gets in the way Faso complies with the standard Apple Terms of Use (EULA). Additional terms can be found at: https://faso.dotune.com/terms/",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-06-10T19:46:49Z",
+      "releaseDate": "2026-05-07T07:00:00Z",
+      "genres": [
+        "Music",
+        "Productivity"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/faso-ai-chord-sheet-daw/id6759652905?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 499069309,
+      "trackName": "Sheet Music Direct",
+      "bundleId": "com.musicsales.sheetmusicdirect",
+      "sellerName": "Hal Leonard LLC",
+      "description": "Sheet Music Direct is the best sheet music app to discover, learn, and perform all your favorite songs. Instantly access over 2.2 million premium sheet music arrangements and guitar tabs from dozens of top sheet music publishers including Hal Leonard, the world's largest source for music publications. Enjoy interactive scores with powerful tools like instant transposition, score playback, set lists, offline mode, and more. **BETTER WITH PASS UNLIMITED** Upgrade your app experience with a PASS subscription to enjoy unlimited sheet music streaming in the app and on the web. Get started with 30 days free! AN APP DESIGNED FOR MUSICIANS BY MUSICIANS Convenient and easy to use on iPad and iPhone • Access your sheet music anywhere: Your library automatically syncs between the app and web to access on any device. • Turn pages with ease: With a simple swipe, get to the next page and never miss a note. Or, turn hands-free with support for Bluetooth pedals. • Download for offline use: No internet? No problem. Download your music in the app to play anywhere. Digital sheet music tailored to you • Instantly transpose to any key: Six sharps not your idea of a good time? Find a key that's comfortable for you. • Change music note size: Ease eye strain with larger notation or reduce it for fewer page turns. • Audio playback with tempo control: Listen to the score for practice, or play along to perform. • Print your sheet music: Need a hard copy? Sign in to your web account and connect to any home printer. Keep your digital sheet music library organized • Bookmark your favorites: Add songs to a wish list, or save your favorites for easy access. • Create custom set lists: Organize songs into lists for your next gig, rehearsal, or special occasion. • Bring the music you already own: Upload your existing sheet music PDFs to store all your music in one place. FREE SHEET MUSIC To get you started, a handful of titles are available to download completely free. Download the app, head to the Store, and look for the Free Sheet Music section. The selection may change from time to time, so make sure to download now and check back regularly. BEST SELECTION & NEWEST RELEASES There's something for everyone, from all-time classics to the hottest new pop songs. Hundreds of titles are added weekly, including new releases, bestsellers, out-of-print works, and more. EVERY INSTRUMENT & SKILL LEVEL Explore arrangements for over 35 instruments, including piano, voice, guitar, choir, ukulele, violin, saxophone, flute, trumpet, cello, drums, bass, and more. Plus, over 25,000 lead sheets, fake book, and official Real Book charts. MUSIC FROM TOP ARTISTS Play and sing all your favorite songs from The Beatles, Elton John, Taylor Swift, Queen, Adele, Leonard Cohen, Lin-Manuel Miranda, Billie Eilish, Andrew Lloyd Webber, John Williams, Beethoven, Rodgers & Hammerstein, Alan Menken, Pasek & Paul, Einaudi, Billy Joel, Michael Jackson, Ed Sheeran, Lady Gaga, Coldplay, Alexis Ffrench, Bach, Lewis Capaldi, Olivia Rodrigo, Lizzo, Frank Sinatra, Josh Groban, Elvis, Louis Armstrong, Bill Withers, Eagles, George Gershwin, Yiruma, Idina Menzel, John Legend, Eric Clapton, John Denver, Chris Tomlin, Bill Withers, The Piano Guys, and many more. MUSIC FROM EVERY GENRE Musical styles are as diverse as the musicians who play them. Enjoy a wide range of songs from Pop, Classical, Movies & TV, Rock, Jazz, Broadway/Musicals, Disney, Christian & Religious, Country, Folk, Christmas & Holiday, Blues, Children's, New Age, Easy Listening, Patriotic, R&B, Soul, Funk, Traditional, Wedding, Latin, Punk, Video Games, Celtic/Irish, Reggae, and more.",
+      "averageUserRating": 4.60526,
+      "userRatingCount": 4712,
+      "currentVersionReleaseDate": "2025-09-25T09:00:19Z",
+      "releaseDate": "2018-01-22T15:55:01Z",
+      "genres": [
+        "Music",
+        "Books"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6018"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/sheet-music-direct/id499069309?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1492756938,
+      "trackName": "NextChord: Chord Suggestions",
+      "bundleId": "com.boringrobot.chordcomplete",
+      "sellerName": "Boring Robot LLC",
+      "description": "Suggestions for the next chord in your progression are based on a machine learning algorithm trained on over 10,000 songs. You can use your phone's microphone to recognize the chord that you are playing, and new suggestions will appear. As you build your progression you can change tempo, instrument, and the number of repeats. You can hear any chord and see its diagram on guitar or piano. When you are all done, you can share a progression or save it for later.",
+      "averageUserRating": 4.66667,
+      "userRatingCount": 672,
+      "currentVersionReleaseDate": "2020-09-02T18:40:24Z",
+      "releaseDate": "2020-01-10T08:00:00Z",
+      "genres": [
+        "Music",
+        "Utilities"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/nextchord-chord-suggestions/id1492756938?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 992502589,
+      "trackName": "Chord Tracker - US",
+      "bundleId": "yamahamusic.chordtracker",
+      "sellerName": "Yamaha Corporation of America",
+      "description": "The Yamaha Chord Tracker app for iPhone/iPod touch/iPad helps you practice and perform songs by analyzing the audio songs stored in your iOS device and then displaying the chord symbols for you. ■Features Chord Tracker analyzes the audio songs stored in your iOS device's music library and then displays the song's chords on the screen, allowing you to play your favorite songs. And now, with both graphical piano keyboard and guitar tab display options, Chord Tracker is even more powerful. ■Note 1. The chords displayed by this application will match the mood of the original song very closely, but may not be an exact match for the original chords used. 2. Chord Tracker will not work for songs in iCloud or protected by DRM (Digital Rights Management). 3. Chord Tracker will not work with Music Streaming services such as Apple Music.",
+      "averageUserRating": 3.57059,
+      "userRatingCount": 170,
+      "currentVersionReleaseDate": "2026-05-25T10:12:47Z",
+      "releaseDate": "2015-06-01T07:00:00Z",
+      "genres": [
+        "Music"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/chord-tracker-us/id992502589?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1073624757,
+      "trackName": "Chordify: Songs, Chords, Tuner",
+      "bundleId": "net.chordify.Chordify",
+      "sellerName": "Chordify BV",
+      "description": "Chordify helps musicians of all levels to learn to play the music they love. Get started with Chordify right now and get immediate access to the following free features: - Accurate chords for any song - Curated content & personal library - Animated views for piano, ukulele and guitar chords - Seamless integration with YouTube - Search our 36,000,000 song catalog, and any other song in the world - Cross-platform library integration (desktop, mobile) How does Chordify work? Simply: 1. Search for any song you want to play. 2. Choose the instrument you want to play the song on. 3. Jam along with your favorite song! Subscribe to Chordify Premium and get access to the following extra features: - Easily transpose the chords if you want to play in a different key - Try the capo feature and play your chordified songs the easy way - Slow down songs to keep up - Loop tricky parts to jam like a pro - Download the chords from your favorite songs as MIDI file for easy audio editing - Take the calculated chords with you as a PDF printout, wherever you go. Everyone is a musician. Start playing. QUOTES “I'm using Chordify to learn new tunes for my Punk Rock Karaoke Band” - Greg Hetson, Guitarist - Bad Religion, The Circle Jerks, Punk Rock Karaoke “Chordify is incredible for studying music. Drop in a video and it works out the chords to play along.” - Oliver, user “Chordify is the greatest invention since someone thought to put milk in espresso. SERIOUSLY.” - Stephen, user ABOUT Chordify Chordify is an online music education tool, made by music lovers to help you to get chords for any song you want. Our service automatically recognizes the acordes and audio signal of a song and will synchronize this with your song in a simple and innovative music player. Chordify is an innovative business that will help starting musicians and advanced with playing the music they want to play. Twitter: https://twitter.com/Chordify Facebook: https://www.facebook.com/Chordify Privacy Policy: https://chordify.net/pages/privacy-policy/ Terms & Conditions: https://chordify.net/pages/terms-and-conditions/ Chordify Premium You can subscribe to Chordify Premium annually or monthly. If you choose to subscribe, you will be charged the access price according to your local store currency. The price will be shown in the App before you complete the payment. Annual and Monthly subscriptions auto-renew unless explicitly turned off at least 24 hours before the end of the current subscription period. Your iTunes account will automatically be charged within 24 hours prior to the end of the current period and you will be charged accordingly. You can turn off auto-renew at any time from your iTunes account settings. Download Chordify now and get chords for any song you want! Ready to play?",
+      "averageUserRating": 4.7279,
+      "userRatingCount": 33216,
+      "currentVersionReleaseDate": "2026-07-23T07:11:19Z",
+      "releaseDate": "2016-09-11T09:13:37Z",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/chordify-songs-chords-tuner/id1073624757?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1144464459,
+      "trackName": "Guitar Notation - Tabs&Chords",
+      "bundleId": "com.lotuz.GuitarNotationLite",
+      "sellerName": "嵩 张",
+      "description": "A great guitar tabs and chords notation app on iOS. For any guitar music lover, Guitar Notation gives you the ability to read, compose, edit, and playback guitar sheet music scores. With it you can be a talented composer and great musician anywhere. As long as you have a little knowledge of sheet music, you can write music composition simply by touch and move. Of course it could help you to learn guitar notations. It can handle multi-track tabs, also it supports for chord chart configuration. With the help of it you could easily record the flashes of inspiration wherever they strike. Are you ready to compose music in a simple way? ----------------------- Features: -Export in the industry-popular MusicXML file format, allowing for exchanging sheet music with other software (Finale, Sibelius, Encore, MuseScore, etc). -Export MIDI file. -Export PNG image and PDF document. -High quality sound for playback. -Support editing up to 8 staff at the same time. -Support many kinds of guitar and bass instrument. ----------------------- Supported notation: *A variety of note types, from whole note to 128th note and dotted note *Chord chart configuration *A variety of time signatures *All standard key signatures *Adjustable tempo *All accidentals (sharps, flats, double sharps, double flats, and naturals) *Tie, slur, and tuplet *Many types of ornament *A wide range of dynamics ----------------------- UNLIMITED ACCESS SUBSCRIPTION - Support up to 8 staff - Config parts(add, delete, reorder) - Config chord freely - Change beat type and tempo - A wide variety of guitar types - Config sound for each part - No watermark image export - No Ads - Support 2nd voice part - Config capo for each line - Import data file - The subscriptions are $9.99 monthly - Payment will be charged to iTunes Account at confirmation of purchase - Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period - Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal - Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase - Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that service, where applicable - Terms of use: https://service.notationpad.com/terms_service.html",
+      "averageUserRating": 4.07317,
+      "userRatingCount": 246,
+      "currentVersionReleaseDate": "2025-09-16T17:31:05Z",
+      "releaseDate": "2016-09-09T00:18:30Z",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/guitar-notation-tabs-chords/id1144464459?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1200557428,
+      "trackName": "Chord Analyser (Chord Finder)",
+      "bundleId": "com.pragmatic.apps.piano.chord.analyser",
+      "sellerName": "Nicolas FOUDRAL",
+      "description": "Chord Analyzer is an interactive reverse chord finder. Whether you can't identify a chord on a score, are looking for the best notation for a composition, or want to find a new voicing for a chord on the guitar (or any other stringed instrument), Chord Analyzer is the tool for you. Chord Analyzer bridges the gap between stringed instruments (guitar, banjo, mandolin, ukulele, etc.), the piano, and standard chord notation. Press the keys on the piano or the frets on the guitar, and the app will instantly identify the chord and suggest its most appropriate notation. You can also browse the built-in chord dictionary to explore every playable position on guitar or banjo. Powered by a smart algorithm, the app goes far beyond fixed chord shapes - offering many more voicing suggestions than traditional chord dictionaries. Listen to them, play them, tweak them directly in the app, and pick the best fit for your compositions or performances! The full version extends this intelligent, interactive chord dictionary to less common instruments (7-string guitar, ukulele, mandolin, banjo, violin, and more). It also lets you bookmark your favorite chords to revisit later, and - most importantly - supports open tunings! Retune your instrument freely, knowing you'll always be able to find the right chord shapes. Also included: a piano-guitar interface designed to make it easy for guitarists and pianists to communicate about complex or original chords. New: a powerful chord chart editor, with gestures fully designed for mobile. Jot down chord progressions in seconds to capture musical ideas the moment they come to you, or share them with fellow musicians. Features: - Intuitive, easy-to-use interface - Over 3,500 chords recognized, from the simplest to the most complex - Chord detection for piano, guitar, and banjo in all positions and inversions - Complete chord dictionary for piano, guitar, and banjo - Algorithmically generated chord voicings - Score and interval transcription - Smart detection of the most appropriate chord notation - Slash bass / bass note management - Chord chart editor with mobile-friendly gestures - No ads Available in the full version: - Piano-guitar interface - Bookmarks - Left-handed fretboard - Additional instruments: 7-string guitar, ukulele, 5-string banjo, violin, mandolin, and more - Open tuning support - Unlimited chord charts with one-click transposition Whether you're a beginner or a seasoned musician, Chord Analyzer will help you deepen your understanding of chord notation, expand your playing vocabulary, and compose with confidence.",
+      "averageUserRating": 4.3913,
+      "userRatingCount": 23,
+      "currentVersionReleaseDate": "2026-07-08T05:28:01Z",
+      "releaseDate": "2017-02-01T20:47:29Z",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/chord-analyser-chord-finder/id1200557428?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1475370014,
+      "trackName": "SongbookPro - Digital Songbook",
+      "bundleId": "com.songbookpro.songbookpro",
+      "sellerName": "Songbook Systems Limited",
+      "description": "SongbookPro replaces all the hassle of carrying and organizing your chord charts, lyric sheets and songbooks with a simple app on your laptop or tablet. A fantastic tool for guitarists, bassists, vocalists or anybody using chord charts, lyrics, sheet music or heavy songbooks, SongbookPro easily allows you to get rid of all that paper by displaying your music in a flexible, easy to read format. Features include: - All your songs together in one universal digital songbook - Displays chords and lyrics clearly and concisely for easy playing - Full pdf support for playing from sheet music - Grouping songs into sets for easy switching between songs when playing live - Quick and easy key and capo adjustments - Write notes directly onto your music - Import songs in ChordPro or onsong formats, as PDF or word documents or directly from UltimateGuitar.com, WorshipTogether.com and e-chords.com - Simple sharing of songs and sets between SongbookPro users Please note that SongbookPro is free to try out, however you will be limited to 12 songs in your library and online sync will is disabled until you choose to buy the full app through a small in-app purchase.",
+      "averageUserRating": 4.74312,
+      "userRatingCount": 2507,
+      "currentVersionReleaseDate": "2026-04-29T20:17:17Z",
+      "releaseDate": "2019-09-03T07:00:00Z",
+      "genres": [
+        "Music"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/songbookpro-digital-songbook/id1475370014?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1473452974,
+      "trackName": "MyChord - Music Chord Finder",
+      "bundleId": "com.yallafactory.mychord",
+      "sellerName": "yallafactory inc.",
+      "description": "Do not wander the Internet looking for chord scores anymore. See the chords displayed along with the music and play with instruments such as guitar and piano. [Features] • Automatic chord analysis using music files & youtube • You can instantly know the chords of songs that have been arranged unlike the score or latest songs that have no score. • Recording function • 7th chord, slash chord (E / G #, etc.) support • Guitar tablature support",
+      "averageUserRating": 3.68,
+      "userRatingCount": 25,
+      "currentVersionReleaseDate": "2023-10-30T07:41:30Z",
+      "releaseDate": "2019-09-25T07:00:00Z",
+      "genres": [
+        "Music",
+        "Utilities"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/mychord-music-chord-finder/id1473452974?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 379856345,
+      "trackName": "Reverse Chord Finder Pro",
+      "bundleId": "com.fnurglewitz.RevChordPro",
+      "sellerName": "Ghostdust Pty Ltd",
+      "description": "If you’ve ever asked “What chord am I playing?” Reverse Chord Finder Pro is for you! Just select two or more notes — using piano, stringed instruments, or music notation — and the app will show you the names of the chords that match. “This app is simply awesome! It will accelerate your discovery of new chords in leaps and bounds and raise your level of playing to new heights.” — A Happy Customer KEY FEATURES * Enter notes in 3 different modes: Piano/Keyboard, String Instruments (guitar, bass, ukulele, etc.), and Music Score * Extensive chord database — more than 100 chord types! * Hear chords played as block chords or arpeggios * Find partial chord matches to isolate passing melody notes * Use the Favorites list to bookmark chords you’ve identified * See the same chord represented on different instruments or in musical notation SPECIAL FEATURES * Left-handed String Instrument support * String Instrument options for 3 to 12 strings, plus capo * Music Score mode supports treble and bass staff, and all 12 major and minor keys * View major scale degrees for selected notes to learn chord construction * Customize chord notation (CDEFGAB, CDEFGAH, Do-Re-Mi) MUSICIANS, COMPOSERS, AND MUSIC STUDENTS * Analyze and write down harmonies * Recognize and construct chords more easily * Improve your understanding of chord theory MUSIC TO OUR EARS “I can look up chords faster than with any other method. Worth much more than the current price.” “With this app I can find out what the chords are ... No more embarrassment in front of the rest of the band!” “A songwriter’s best friend!” Questions or comments? Need some help? Email: support@reversechord.com Web: http://reversechord.com Terms of use: http://reversechord.com/terms.html",
+      "averageUserRating": 4.71701,
+      "userRatingCount": 682,
+      "currentVersionReleaseDate": "2026-05-03T19:12:06Z",
+      "releaseDate": "2010-07-06T15:47:32Z",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/reverse-chord-finder-pro/id379856345?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.6",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1538776364,
+      "trackName": "Horucco: Chord Progressions",
+      "bundleId": "com.horucco.app",
+      "sellerName": "Daniele Sidoli",
+      "description": "Unleash harmony. Write songs faster. Jam ideas. Horucco listens to songs and instantly turns what you hear into playable chords — then helps you understand, expand, and demo them with intelligent tools. What You Can Do with Horucco • Get chords from songs (instant detection) Play a song and Horucco identifies the chord progression for you — ready to learn, tweak, and reuse. • Play the chords on guitar & piano See guitar shapes and piano voicings for every chord so you can play along right away. • AI teacher for progressions An AI coach explains what’s happening in the harmony (functions, tension/release, common moves) so you learn while you play. • Next-chord suggestions Stuck? Horucco can suggest the next chord to keep your progression moving. • Build, edit & arrange progressions Drag & drop chords into a timeline. Rearrange, extend, or delete with ease. • Full chord customization Change root, mode, extensions, octave, voicing — and go “out of key” for more adventurous progressions. • Transpose to any key or scale Shift the entire progression (or single chords) to any key instantly. • Quick demos in a few taps Play your chords with different instruments and patterns to create fast sketches and ideas. • Browse ready-made chord sets Explore curated progressions and saved chord packs to spark new songs. • Export to MIDI & WAV Bring your progressions and demos into your DAW or share them anywhere. Who It’s For Songwriters & composers who want to create faster Producers who want a theory-aware tool outside the DAW Hobbyists & learners who want to understand harmony by doing No matter your level, Horucco adapts to you. Turn music you love into chords you can play — and build new songs from there. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://www.horucco.com/appprivacy/",
+      "averageUserRating": 4.09999,
+      "userRatingCount": 20,
+      "currentVersionReleaseDate": "2026-03-29T10:22:07Z",
+      "releaseDate": "2021-01-01T08:00:00Z",
+      "genres": [
+        "Music",
+        "Utilities"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/horucco-chord-progressions/id1538776364?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 6698851349,
+      "trackName": "Chord Craft guitar chords tabs",
+      "bundleId": "net.chordcraft.app",
+      "sellerName": "Divine Software Limited Liability Company",
+      "description": "Songbook for guitar chords/lyrics and tablature with Transpose and Autoscroll, Chord Diagrams, PDF/Print options, even Edit chords and lyrics! View, edit, and share Chord Charts right on your iPhone, iPad, or Mac! This app is perfect for guitarists, pianists, singer/song-writers, open mic performers, church worship leaders/musicians – basically every musician! • HUGE library of chord charts for guitar or piano • Easily add almost any song by just entering the title and artist • Beautifully formatted CHORD CHARTS are sized perfectly for your phone or iPad • TRANSPOSE charts to any key • AUTOSCROLL charts to play along with them • Attach PDF lead sheets or other sheet music • Built-in TUNER for guitar, bass, and other instruments • View CHORD DIAGRAMS and spelling for any chord–for guitar, ukulele, bass, mandolin, and banjo! • Generate PDFs to send or Print • SHARE chords or lyrics with your friends so they can play with you • Create SET LISTS • EDIT chords and lyrics for any song • Import CHORDPRO files from SongSelect or elsewhere Chord Craft has a clean design WITHOUT the CLUTTER that so many other apps in this category have – it's a joy to use. Whether you're a beginning guitarist, a veteran of open mic nights, the leader of band, or a church musician – this app was made for you! All the features of Chord Craft are available to use for free, but the free version is limited to four songs in your library. With a Pro subscription you gain access to an unlimited number of songs! You can TRANSPOSE songs to any key to make it easier to play or sing. Chord Craft automatically detects the original key of the song so all you have to do is choose to go up or down! Chord Craft embeds guitar CHORD DIAGRAMS for every chord in your songs so you can tap each chord to see how to play it on guitar. Even better than that, Chord Craft generates many different voicings/positions of the chord! Outside of a song, the Chord Dictionary lets you look up and learn new chords. Additionally, the Chord Identifier tool can show you the chord name for the notes you are playing. Chord Craft takes chord charts to the next level by allowing you to EDIT any song you add; you can make the chords more interesting by adding that major 7 chord or the passing inversion D/F#. The editor intelligently preserves the spacing of existing chords as you type so that changing chords in an existing song is easy. And the toolbar at the top contains well known musical symbols: dynamics like piano and forte, crescendo, decrescendo, repeat, diamond (hold), fermata, note durations, and emoji like guitar, piano, vocal, drums. These symbols enable you to communicate much more clearly to other musicians. Chord Craft uses iCloud to sync your song library between your devices so you have access to all the same songs on your Mac, iPhone and iPad. That means you can use whichever device is at hand to see your songs. One of the best features of Chord Craft is the ability to SHARE your songs to your User Page. Your User Page is a short URL like chordcraft.net/user where you can easily post the songs you want to share with others. They can see the same beautifully formatted chord chart as in the app and even Autoscroll to play along, all without even having the app! But if they do have the app they can Import the shared song directly into their app too! This easy sharing is perfect for casual jams or sing-alongs where you want everyone to have easy access to the same chords or lyrics. For songs that are written to use a guitar CAPO Chord Craft has the ability to toggle between Capo and No Capo (even on the song shared to your User Page!) so that other musicians who are playing with you can see the song in the correct key for them. There is a METRONOME easily accessible at the bottom of each chord chart so you can set the tempo for a song and it will remember it. Terms of Use (EULA) https://chordcraft.net/r/license.html Privacy Policy https://chordcraft.net/r/privacy.html",
+      "averageUserRating": 4.42105,
+      "userRatingCount": 38,
+      "currentVersionReleaseDate": "2026-07-28T02:14:53Z",
+      "releaseDate": "2025-03-06T08:00:00Z",
+      "genres": [
+        "Music",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/chord-craft-guitar-chords-tabs/id6698851349?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "18.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1091921942,
+      "trackName": "Notation Pad-Sheet Music Score",
+      "bundleId": "com.lotuz.NotationPad",
+      "sellerName": "嵩 张",
+      "description": "A sheet music creator and music notation editor on iOS. For any music lover or composer, Notation Pad gives you the ability to read, compose, edit, playback music scores and write lyrics. With it you can be a talented composer and great sheet music maker anywhere. As long as you have a little knowledge of sheet music, you can write music composition simply by touching and moving. You could use it as your songbook or scoresheet. It is also designed for a beginner who wants to learn music score, music notes and tablature. It can handle ensemble, choir or symphony score, also it supports for a single track piano score. With the help of it you could easily record the flashes of inspiration wherever they strike. Are you ready to compose music in a simple way? ----------------------- Features: -Realtime multi-person collaborative editing via SharePlay. -Export/Import the industry-popular MusicXML file format, allowing for exchanging sheet music with other software (Finale, Sibelius, Encore, MuseScore, etc). -Export MIDI file. -Export PNG image and PDF document. -High quality sound for playback. -Support editing up to 8 staff at the same time. -Support over 100 kinds of musical instrument. Piano, organ, guitar, violin, sax, flute, brass, bass, etc. -Support multi-voice. -A great lyric app. ----------------------- Supported notation: *A variety of music note types, from whole note to 128th note and dotted note *Chord, staff, track *Treble, alto and bass clef *Edit lyrics *A variety of time signatures *All standard key signatures *Adjustable tempo *All accidentals (sharps, flats, double sharps, double flats, and naturals) *Tie, slur, and tuplet *Many types of ornament *A wide range of dynamics ----------------------- UNLIMITED ACCESS SUBSCRIPTION - Support up to 8 staff - Config parts(add, delete, reorder) - Change key for each part - Change beat type and tempo - Config clef for each staff - Config sound for each part - No watermark image export - No Ads - Support 2nd voice part - Transpose instruments - Pickup bar - Import data file - Edit downloaded music score - Unlock all 100+ instruments - The subscription is $6.99 weekly with trial - Payment will be charged to iTunes Account at confirmation of purchase - Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period - Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal - Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase - Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that service, where applicable - Terms of use: https://service.notationpad.com/terms_service.html",
+      "averageUserRating": 4.29382,
+      "userRatingCount": 5255,
+      "currentVersionReleaseDate": "2025-08-23T04:20:48Z",
+      "releaseDate": "2016-03-21T15:03:39Z",
+      "genres": [
+        "Music",
+        "Productivity"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/notation-pad-sheet-music-score/id1091921942?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 6774178274,
+      "trackName": "Notation-Sheet Music Maker",
+      "bundleId": "com.kai.ainotation",
+      "sellerName": "凯 张",
+      "description": "Notation is professional sheet music notation for composers, arrangers, and music students. Capture a motif at the piano, tweak harmony on your commute, or share a link before rehearsal—all on iPhone or iPad with lyrics and chords. If you read a staff, you can go from a piano sketch to multi-staff scores for class and rehearsal. TOUCH NOTATION A notation keyboard replaces deep menus: tap notes and markings, or select on the staff to edit. Undo/redo for commutes, rehearsal gaps, or at the piano. On the free tier, inserting or editing measures shifts later bars automatically so the rest of the score stays aligned. WRITE AND HEAR IT Multi-staff playback; on long scores, playback follows your edit position. Composer Pro: per-staff Mute and Solo for full scores. WEB SCORE SHARING Generate a web score link—text or email to teachers, singers, or collaborators. Any browser shows standard notation and multi-part playback without installing the app. Print-friendly pages for handouts. PDF for archives and fixed layout; web links when your choir or band needs to hear the piece before rehearsal. Many mobile apps stop at PDF or screenshots; Notation shares playable web scores with the same playback and layout as on your device. EXPORT AND INTERCHANGE MusicXML, MIDI, PDF (screen preview + A4 print PDF). Import MusicXML without length limits—continue in MuseScore, Sibelius, etc. Free tier: starter export allowance. Composer Pro: unlimited export, clean PDF (see app for web-link limits). IPAD PRO WORKSPACE On iPad, library and score sit side by side for desktop-like sessions. iPhone: full notation and sharing when you are catching ideas on the go. YOU CAN ALSO: - Piano keyboard chord stacks; multi-verse lyrics with melismas and paste lyrics line by line; measure insert/copy/paste/delete - Ties, slurs, manual beams—free - Cloud sync (web links need sign-in + sync); Composer Pro: 8 staves, 2 voices per staff, transpose, meter changes NOTATION COVERAGE: * Notes/rests, dots, ties, slurs, beams (manual break/join) * Triplets; quintuplets–septuplets (Composer Pro) * Ornaments, articulations, dynamics, hairpins * Lyrics (verses), chords; title/composer/lyricist header * Clefs, time, tempo; major/minor keys; accidentals * Repeats, voltas, D.S./D.C.; pickups; measure-level edits * Templates: piano grand, treble/bass single staff, custom; long-score paging SUBSCRIPTION & LEGAL (COMPOSER PRO — OPTIONAL) Notation offers an optional paid membership called Composer Pro. You can subscribe in the app under Me → Upgrade. No subscription is required to create, edit, save, or play scores on the free tier. AUTO-RENEWABLE SUBSCRIPTION • Name: Composer Pro — Weekly Plan • Length: 1 week (renews every week) • Price: Shown on the in-app purchase screen before you confirm (localized price; may vary by country or region). If a free trial is available in your region, it is displayed on the subscription screen before purchase. Payment is charged to your Apple Account at confirmation of purchase. The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period at the price of the selected plan. You can manage or cancel subscriptions in Settings → Apple ID → Subscriptions after purchase. Any unused portion of a free trial, if offered, is forfeited when you purchase a subscription. WHAT COMPOSER PRO INCLUDES • Advanced composing: full transposition and any key; up to 8 staves and 2 voices per staff; meter changes and special/additive meters; undo/redo; advanced repeat playback • Delivery & export: unlimited exports (MusicXML, and web score links); • Playback: full instrument library; per-staff mute and solo • Other: ad-free experience; community publishing; priority support Privacy Policy: https://solfegehub.com/UserManagerPrivacy_en.html Terms of Use (EULA): https://solfegehub.com/UserManagerTerms_en.html",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-07-17T19:12:08Z",
+      "releaseDate": "2026-06-07T07:00:00Z",
+      "genres": [
+        "Music",
+        "Utilities"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/notation-sheet-music-maker/id6774178274?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.6",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1330083129,
+      "trackName": "Midi Sheet Music",
+      "bundleId": "com.midisheetmusic.midisheetmusic",
+      "sellerName": "Madhav Vaidyanathan",
+      "description": "Midi Sheet Music is a free app for converting MIDI music files into sheet music. It simultaneously plays MIDI music files, highlights the piano notes, and highlights the sheet music notes. Midi Sheet Music comes with over 50 classical piano songs, from popular composers such as Beethoven, Mozart, and Chopin. In addition, MIDI music files are freely available all over the internet. Start learning your favorite songs on the piano today. Features include: * Adjusting the speed of the music * Muting or hiding tracks * Display the note letters * Playing a subset of measures continuously in a loop * Transposing the notes up or down * Changing the instruments used for each MIDI track * Saving the sheet music as images Midi Sheet Music contains no ads or in-app purchases.",
+      "averageUserRating": 4.59425,
+      "userRatingCount": 626,
+      "currentVersionReleaseDate": "2018-03-04T06:59:21Z",
+      "releaseDate": "2018-01-01T21:55:49Z",
+      "genres": [
+        "Music",
+        "Productivity"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/midi-sheet-music/id1330083129?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "9.2",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 606691230,
+      "trackName": "Chord!",
+      "bundleId": "com.RabugenTom.Chord",
+      "sellerName": "Thomas Grapperon",
+      "description": "Chord! is a chord and scale reference that works with any fretted instrument like guitar, basses, ukulele, banjos,… It computes and analyses all the possible fingerings for chords, scales, and arpeggios. With Chord!, you can also write a song by simply dragging and dropping chords, transpose it in any key, compute the fingerings with any tuning and generate a beautiful print-ready PDF, etc. You can also import your existing songs in text format (please note that the app does not ship with songs). You can also link audio tracks from your music library and play them at the same time while adjusting their pitch and/or speed. You don't even have to know music theory to use it: behind its brute force, the app knows how to handle by itself some subtleties of music to give meaningful results. If you don't have to be an advanced player to use the app, you can however take a look under the hood and tweak the parameters if you like! Whatever is your level or your instrument, Chord! will adapt and give you the most precise answer. You can search for any chord, split (like D/F#), or not. If you're a beginner, you can choose the chord from a list, but you can also use the intelligent keyboard to enter the chord as it is written. If this keyboard is a great way to enter chords, it is also very useful to discover and understand how the chords are formed. You can also enter some notes on a neck to find which chords it can be. You can hear how each fingering sounds. Chord arpeggios are also supported, as well as drop voicings (drop 2, drop3, etc.). The app also ships with the biggest list of named scales (and you can create your own scales). It analyses and presents them with nice interactive views (scale, score, and keyboard). Of course, it can also lay down these scales on a neck (with sound) and compute their fingerings. Like for chords, you can even search for a scale from its fingering! Each scale can be harmonized (decomposed into chords). You can also enter a sequence of chords to find which scale you can use to improvise onto. You can use one of the hundred tunings that ship with the app, or you can add your own ones, for any instrument, with or without a capo, even with broken strings if you want! The app uses custom and unique algorithms to generate charts, easily input complex harmonic structures, extract chords from fingerings, determine finger positions, compute keys of scales, generate chords from scales and find scales that go well with some chords. For example, Chord! is the right tool in these situations: • You want to have your songbook available at any time, in your pocket; • You're a beginner and you want to know how to play easily a D/F# chord; • One gave you a ukulele and you want to know how to tune it and how to play the G Hawaiian scale; • You want to know on what scale you can improvise for some chord sequence (and the answer can be different than the Pentatonic minor!); • You want to print your song and share it with your band. • You want to experiment with this nice open tuning, moreover with a bottleneck; • Your little sister can't make bar chords and you want to show her how she can do without bars, with three (little) fingers only; • You want to impress your little sister by showing her how you can play the same chords with two bars! • You want to understand how this fingering for C13 is actually a fingering for C13; • You broke a string and want to know how to play some chords without; • You want to know how Django managed to play with two and a half fingers. The app fully supports left-handed instruments. Main functions of the app: - Write, transpose, fingerize, print, and share songs; - Search chord fingerings (or chord charts); - Search chords from fingerings; - Search scale fingerings; - Search scales from fingerings; - Search chords from scale; - Search scales from chords.",
+      "averageUserRating": 4.80902,
+      "userRatingCount": 377,
+      "currentVersionReleaseDate": "2022-11-10T22:15:15Z",
+      "releaseDate": "2013-03-14T07:00:00Z",
+      "genres": [
+        "Music",
+        "Reference"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6006"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/chord/id606691230?uo=4",
+      "price": 4.99,
+      "currency": "USD",
+      "minimumOsVersion": "12.2",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 6596754437,
+      "trackName": "AI Song Generator : Vibe",
+      "bundleId": "co.koiapps.musicai",
+      "sellerName": "Koi Apps Yazilim Limited Sirketi",
+      "description": "【TRANSFORM YOUR IDEAS INTO SONGS!】 Turn your ideas into music with the most innovative AI Music Generator! Whether you know nothing about music or you're a charting artist, effortlessly create music in just a few taps! Our powerful AI song maker turns prompts into personalized songs instantly. No instruments, no studio—just pure imagination! 【MAKE YOUR OWN MUSIC & AI SONG】 Type your text prompt, and watch the magic happen. Turn your words into songs, craft melodies from ideas, and experience seamless text-to-music creation. From catchy tunes to heartfelt ballads, our app lets you create your own music & AI songs in moments. With our cutting-edge AI music generator, the dream of making music is just a few words away. Create original songs from scratch—in seconds, anywhere, anytime. Download now and have fun creating music, no experience required! Just you and your imagination! For privacy: https://aimusicapp.net/privacy For terms: https://aimusicapp.net/terms To cancel your subscription: https://support.apple.com/en-us/118428",
+      "averageUserRating": 4.47104,
+      "userRatingCount": 6180,
+      "currentVersionReleaseDate": "2025-05-26T14:38:46Z",
+      "releaseDate": "2024-08-28T07:00:00Z",
+      "genres": [
+        "Music",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/ai-song-generator-vibe/id6596754437?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.6",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1251111343,
+      "trackName": "What Chord?",
+      "bundleId": "com.PavloIgnatov.WhatChord",
+      "sellerName": "Pavlo Ignatov",
+      "description": "Playing cool chord but have no idea what its name is? You'd like to share your song but not sure how to correctly name the chords you are using? You just have slided one of you fingers up a fret while playing familiar chord and wonder what the chord has now become? It is really simple with WhatChord app! Give it a try!",
+      "averageUserRating": 4.76647,
+      "userRatingCount": 167,
+      "currentVersionReleaseDate": "2024-05-27T10:17:25Z",
+      "releaseDate": "2017-08-01T21:28:26Z",
+      "genres": [
+        "Music",
+        "Reference"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6006"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/what-chord/id1251111343?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 1563264178,
+      "trackName": "Demo: Songwriting Studio",
+      "bundleId": "com.demomusic.demo",
+      "sellerName": "Demo Music, LLC",
+      "description": "**Everything you need to capture a song idea** Anyone can write a song anywhere with Demo, the mobile songwriting studio—no instruments or theory required: • Generate playable chords: Build your own or try pre-built progressions with a single tap • Write + build: Write lyrics with a rhyme tool and loop progressions to build the backbone of your song • Record audio: Capture vocals or any audio ideas with a multi-track recorder • Export what you need: Export mixed, stems, MIDI files, or a chord sheet • Sync to iCloud: Access your songs across devices or save storage space on your phone • CoWrite: Share songs with bandmates or collaborators to work together on one project The songwriting tool built by and for songwriters, no matter your musical expertise. Get unlimited access to over 100 exclusive features with Demo+ and join us in democratizing songwriting! SUBSCRIPTION PRICING, TERMS, & CONDITIONS: The Demo+ subscription is $39.99 USD per year or $5.99 USD per month. Pricing in other countries may vary, and charges may be converted to your local currency depending on the country you live in. DEMO+ YEARLY Demo+ Yearly Subscription starts with a free 3-day trial period. Once the trial is over, a recurring billing period of $39.99 per year automatically begins upon subscription. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. DEMO+ MONTHLY: Demo+ Monthly Subscription enables access to all app features. A recurring billing period of $5.99 per month automatically begins upon subscription. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Terms of Use: https://madewithdemo.com/terms-of-use/ Privacy Policy: https://madewithdemo.com/privacy-policy/",
+      "averageUserRating": 4.62811,
+      "userRatingCount": 5792,
+      "currentVersionReleaseDate": "2026-07-02T16:52:27Z",
+      "releaseDate": "2021-10-14T07:00:00Z",
+      "genres": [
+        "Music",
+        "Utilities"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/demo-songwriting-studio/id1563264178?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 916452748,
+      "trackName": "Navichord • chord sequencer",
+      "bundleId": "com.dkutuzov.Navichord",
+      "sellerName": "Denis Kutuzov",
+      "description": "Are you struggling with chords for your track? Get inspired and start writing chords like a pro with Navichord. Navichord is a musical instrument and a songwriting tool making music theory a breeze. Create lush chord progressions. Loop progressions in sync with other apps. Trigger chords from your MIDI footswitch. Join thousands of happy producers all over the world. #1 music app in 23 countries. \"Excellent iOS chord and harmony exploration app.\" www.musicappblog.com \"Top iOS MIDI Performance App\" http://www.musicappblog.com/top-music-apps-current-picks/ \"Killer iOS Music App\" https://www.pinterest.com/apptronica/killer-ios-music-apps/ FEATURES • Play simple chords (minor, major) with one finger from any root • Play complex chords (sevenths, ninths) with just two or three fingers from any root • Play 28 musical scales from any key • Compose easily with Roman numeral chord names • Use the same chord shape for any root • Discover interesting chord progressions • Find chords matching a melody • Find a melody matching chords • Learn chord structure from the piano keyboard and play along • Quick save discovered chords to chord pads • Save chord progressions • Find chords matching selected scale Ableton Link: • Loop progressions in sync with many apps supporting Ableton Link Audiobus and Inter App Audio: • Record to GarageBand, Loopy, Beatmaker 2 and many more MIDI support: • Connect to soft synths via virtual MIDI (Animoog, Thumbjam, Magellan, Sampletank and many more) • Connect to hardware synths and external keyboards • Send MIDI control messages from keys and pads https://www.facebook.com/navichord https://www.instagram.com/navichord https://twitter.com/navichordapp TESTIMONIALS \"The update to version 2.0 just made this an almost new app in terms of functionality. Everything from the pad layouts, scales, new graphics to the sounds work together really well. Also, the new sounds are really, really good (great strings and choir samples). IMHO that this app just quadrupled in value with this free update.\" - Music-311 \"Thanks for such an awesome app, I love that it lets you intuitively visualize and experiment with a \"Tonnetz\" layout, and better understand Neo-Riemannian theory - as such, Navichord is the perfect gateway from abstract, heady harmony concepts to immediate and practical music being played- a priceless possibility! And it looks beautiful and the tones are great, to boot\" - RepentHarlequin73 \"This is really a nice, simple, clean app. I love the way you laid out the UI and I especially like that single notes can be tapped first and then dragged seamlessly between notes to produce the chord, then back to another single note if desired. For what it's worth, here are five stars... ***** This app will replace several other more expensive \"chord progression lab\" apps that I own because I think it's UI design is excellent and perfect for my needs.\" - ZenLizard \"Find using the harmonic grid more intuitive than a piano keyboard, being able to press in the middle of three circles to get major and minor chords is genius. Experimenting with chord patterns and having the chord name at the top and the root and other keys displayed on the keyboard, is helping me get my head around more complex chords.\" - mister-rz \"Downloaded the app when I read about it on dischord. I'm really happy...looks like a great app to explore chord variations.\" - Jonathan Paran Aran \"Read about it on Synthtopia. Bought it just now, love it already. Thanks Denis!\" - Dominik Assig \"Excelente app para aprender acordes y armonia.\" - R3dhood \"It can definitely be a source of inspiration.\" - Luca \"...it helps (when it comes to chord progressions). It is so simple & that is its value.\" - Michael L \"I use and love Navichord!\" - Ep Lipschitz",
+      "averageUserRating": 4.6906,
+      "userRatingCount": 585,
+      "currentVersionReleaseDate": "2021-02-22T06:41:42Z",
+      "releaseDate": "2014-09-15T23:43:05Z",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/navichord-chord-sequencer/id916452748?uo=4",
+      "price": 7.99,
+      "currency": "USD",
+      "minimumOsVersion": "8.0",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 6749384181,
+      "trackName": "Strum - Play Guitar",
+      "bundleId": "com.w185holdings.guitar",
+      "sellerName": "W185 Holdings LLC",
+      "description": "Transform any song into playable chords in seconds! Whether you're jamming to YouTube hits, your personal music library, or chart-toppers, Strum makes learning your favorite songs effortless.* Key Features: YouTube Integration - Paste any YouTube music link and get instant chord progressions File Upload Support - Upload your own audio files (MP3, WAV, M4A) for chord detection Top Charts Library - Browse trending songs with pre-loaded chord charts Top Quality Chords - Advanced in-house algorithm analyzes audio to identify accurate chord progressions Practice Mode - Loop sections and adjust playback speed for learning Perfect For: Beginner musicians learning new songs Experienced players wanting quick chord references Music teachers creating lesson materials Songwriters analyzing chord progressions Anyone who loves playing music Stop searching for unreliable chord tabs online. Get accurate, professionally formatted chord charts for any song in your music collection. From classic rock to today's pop hits, Strum has you covered. Download now and start playing your favorite songs today! Terms of Service: https://www.strumguitarapp.com/terms CUSTOMER SUPPORT: Your experience is our number one priority! If you have any questions or concerns, please reach out to support@strumguitarapp.com and we will get back to you as fast as possible! **Access to all features requires a paid subscription to Strum Unlimited. Additional information can be found on the in-app paywall.**",
+      "averageUserRating": 4.67264,
+      "userRatingCount": 18347,
+      "currentVersionReleaseDate": "2026-07-22T13:21:23Z",
+      "releaseDate": "2025-08-06T07:00:00Z",
+      "genres": [
+        "Music"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/strum-play-guitar/id6749384181?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "18.1",
+      "matched_seed": "chord sheet maker"
+    },
+    {
+      "trackId": 426912243,
+      "trackName": "Guitar - Chords, Tabs & Games",
+      "bundleId": "guitar.lite",
+      "sellerName": "Gismart Ltd",
+      "description": "Playing the guitar has never been easier with #1 guitar playing app! Learn chords and create music right on you device! You’ve just come up with the greatest riff of all time and can’t wait to rock it out. But your trusty Gibson Les Paul or Yamaha is not at hand and there’s no guitar center or even a small guitar store in sight…. A nightmare way too familiar to any guitar player. Worry not for Real Guitar app got your back! Real Guitar is one of the most realistic guitar simulator apps featuring a user-friendly interface and an awesome sound quality. All sounds have been recorded from live guitar. With the help of Real Guitar you can easily strum, pluck, and strike the strings to play the chords of any complexity and figure out your favourite tunes or make up your own. You can learn and master new chords and jingles with Real Guitar, as well. ◆◆◆ Main Features ◆◆◆ Different Types of Guitars ◉ Classical Guitar ◉ Acoustic Guitar ◉ Electric Guitar ◉ 12 String Guitar Guitar Playing Modes ◉ Left Handed Guitar ◉ Right Handed Guitar ◉ Various Strumming Patterns (pick, fingers) ◉ Solo Note animation (see which notes you play on the go) ◉ Guitar Chords Mode (great way to practice strumming) ◉ Solo Mode Guitar Chords and Tabs ◉ Guitar Chords Charts Library with Chords Finder ◉ Songbook to help you learn to play guitar songs Audio ◉ Amazingly realistic guitar sounds Whether you only want to learn how to play guitar chords or are a seasoned shredder you will love Real Guitar. It’s very much like the real thing in so many ways...oh, and did we mention there’s no need to change guitar strings? The app contains the following subscription options: - Weekly Music One (17 music apps) with a 3-day free trial at $9,99; - Weekly with a 3-day free trial at $5.99; - Yearly with a 7-day free trial at $29.99; - Weekly Music One (17 music apps) with a 30-day free trial at $9,99; - Yearly Music One (17 music apps) with a 7-day free trial at $59.99; - Monthly at $14.99; - Weekly with a 14-day free trial at $5.99. - Payment will be charged to iTunes Account at confirmation of purchase. - Subscription automatically renews unless auto-renew is turned off at least 24-hours prior to the end of the current period. - The account is charged for renewal within 24-hours before the end of the current period. - Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. - The cost of renewal is equal to the value that “Apple’s App Store Matrix” determines as the equivalent of the subscription price in $USD. - Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication. - Unlimited access to our Premium features include: * All songs unlocked * All instruments unlocked * New songs weekly * No ads Privacy Policy: https://gismart.com/privacy-policy/ Terms of Service: https://gismart.com/terms-of-service/ *Prices can be different in different countries according to what “Apple’s App Store Matrix” determines as the equivalent of the subscription price in $USD.",
+      "averageUserRating": 4.40285,
+      "userRatingCount": 45218,
+      "currentVersionReleaseDate": "2025-12-17T07:27:29Z",
+      "releaseDate": "2011-03-25T18:41:48Z",
+      "genres": [
+        "Music",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/guitar-chords-tabs-games/id426912243?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "guitar chord chart creator"
+    },
+    {
+      "trackId": 1476695335,
+      "trackName": "Simply Guitar - Learn Guitar",
+      "bundleId": "com.joytunes.SimplyGuitar",
+      "sellerName": "Simply Ltd",
+      "description": "Learn to play the guitar at your own pace with step-by-step tutorials, made by world-class music teachers, and receive feedback from the app while you learn to play your favorite songs! No experience needed | For all ages | Works with any guitar --- Make your musical dreams come true --- • Play chords & songs straight away! • Learn step by step with high-quality video lessons • Receive feedback from the app and know when you are playing correctly or need guidance • Learn all the necessary techniques to play the songs you love: - Guitar fundamentals - Read and play tabs - Playing chords - Chord switching - Strumming techniques - Invaluable tips and tricks for playing correctly - Technique boosting exercises • Track your progress • Learn to tune your guitar (professional tuner included!) • Receive fast support from our musicians • Have fun and quickly improve your skills --- How Simply Guitar works --- • Place your device (iPhone) in front of you and play; the app will immediately recognize what you are playing • Get feedback on your playing to quickly learn and improve your guitar skills • Discover the magic of music with fun songs and complete lessons to start sounding like a pro • New songs and lessons are added regularly. --- Good to know --- Simply Guitar is developed by JoyTunes, creators of award-winning apps Simply Piano and Piano Maestro. JoyTunes are experts in creating educational and fun music apps for learning to play quickly and easily. Recommended and used by tens of thousands of music teachers worldwide with over 1 million songs learned every week. Awards & Recognition: - “Editors' Choice” by Apple - SF Music Tech Summit Startup Innovators Challenge Winner - Best Tool for Beginners, NAMM - EMI Innovation Challenge Award --- Contact --- Keep your feedback coming! Get in touch with us through the in-app chat and one of our friendly bunch will get back to you. Enjoy playing! Privacy policy: http://www.hellosimply.com/legal/privacy Terms of use: http://www.hellosimply.com/legal/terms",
+      "averageUserRating": 4.71997,
+      "userRatingCount": 389072,
+      "currentVersionReleaseDate": "2026-07-27T08:50:20Z",
+      "releaseDate": "2020-01-26T08:00:00Z",
+      "genres": [
+        "Education",
+        "Music"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "6011"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/simply-guitar-learn-guitar/id1476695335?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "guitar chord chart creator"
+    },
+    {
+      "trackId": 1171417699,
+      "trackName": "Guitar Gravitas: Chords Scales",
+      "bundleId": "com.madharmony.GuitarGravitas",
+      "sellerName": "Mad Harmony Inc",
+      "description": "Master the guitar with Guitar Gravitas — the all-in-one toolkit for guitarists of every level. Whether you’re a beginner learning your first chords, an intermediate guitarist improving technique, or a professional exploring advanced music theory and composition, Guitar Gravitas is the inspirational practice and learning app designed to unlock your full potential on the fretboard. Go beyond memorizing tabs and start understanding the language of music. Guitar Gravitas combines the most comprehensive and interactive chord library, scale encyclopedia, arpeggio generator, tuner, metronome, lessons, backing tracks, and songwriting tools in a single, powerful app. WHY CHOOSE GUITAR GRAVITAS? Most guitar apps focus only on learning songs. Guitar Gravitas goes deeper by helping you truly master the instrument itself. With its state-of-the-art algorithmic engine, advanced reverse-lookup finders, and harmonic compatibility tools, it becomes not just another app but your personal guitar theory bible, practice partner, and creative assistant. CORE FEATURES THE ULTIMATE CHORD, SCALE & ARPEGGIO LIBRARY • Massive Chord Library – Explore over 200 chord types, from basic open chords to complex jazz extensions. Includes 15,000+ of the most common shapes ready for instant use. • Millions of Voicings – Our revolutionary chord generation algorithm creates MILLIONS of playable chord voicings across the neck. Choose root, bass note, or top note to design the exact voicing you need. • Global Scale Encyclopedia – Master 1,000+ scales from around the world: major, minor, pentatonic, blues, modal, and exotic. Each scale includes thousands of fingering patterns across the fretboard. • Arpeggio Generator – Create thousands of arpeggio shapes from any of 200+ chord types. Essential for sweep picking practice, outlining harmonies, or writing solos. THE ULTIMATE “WHAT AM I PLAYING?” TOOL • Reverse Finders – Unsure what you’re playing? Select notes on the fretboard and instantly discover the name of the chord, arpeggio, or scale. Perfect for improvisers, students, and songwriters. COMPLETE LEARNING & PRACTICE SUITE • Video Lessons & Tutorials – 31 professional videos covering guitar lessons for all levels, technique tutorials, and jam-along backing tracks. Includes downloadable PDF support documents. • High-Precision Tuner – A professional-grade chromatic tuner that works for acoustic, electric, and bass guitar. • Versatile Metronome – Fully adjustable with multiple time signatures and subdivisions. Train rhythm, speed, and precision. • 200+ Tunings – Standard, Drop D, Open G, DADGAD, and many more. Create your own custom tunings for any style. SONGWRITING & CREATIVE TOOLS • Harmonic Compatibility Engine – Automatically shows compatible chords, scales, and arpeggios for any selection. Write chord progressions, improvise melodies, or break through creative blocks with ease. • Interactive Playback – Tap to hear every chord, scale, or arpeggio instantly. Train your ear and connect theory to sound. WHO IS IT FOR? • Beginners – Learn chords, scales, and rhythm step by step. Understand theory behind your favorite songs. • Songwriters – Discover unique chord voicings and progressions. Use the compatibility engine to find the perfect scale for melodies. • Intermediate & Advanced Players – Explore exotic scales, master fretboard navigation, and unlock new improvisation ideas. • Music Teachers – A powerful visual reference and teaching aid for private lessons or classrooms. THE COMPLETE GUITAR COMPANION With Guitar Gravitas, you no longer need separate apps for a tuner, metronome, chord library, or lessons. Everything is integrated into one intuitive platform designed to make practice fun, structured, and endlessly inspiring. Stop just playing songs — start mastering the guitar. Download Guitar Gravitas today and unlock the entire fretboard. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.79589,
+      "userRatingCount": 3890,
+      "currentVersionReleaseDate": "2026-06-17T14:20:53Z",
+      "releaseDate": "2016-12-13T18:53:12Z",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/guitar-gravitas-chords-scales/id1171417699?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "11.0",
+      "matched_seed": "guitar chord chart creator"
+    },
+    {
+      "trackId": 409716516,
+      "trackName": "The Guitar with Songs",
+      "bundleId": "com.danielperez.guitarfree",
+      "sellerName": "Better Day Wireless, Inc.",
+      "description": "The app store’s only guitar with real strumming and fretting that you can learn to play songs on! There are over 1,500 songs that you want to play drawn from current hits and classics every serious guitarist should know. Rock out to hits in the style of artists such as Ed Sheeran, Sam Smith, John Legend, Taylor Swift, Bruno Mars, Coldplay, Pink, Katy Perry, and Adele. Or jam to all-time chart topping hits like “Hotel California”, “Sweet Home Alabama”, \"Fast Car\", and “Stairway to Heaven”. So download it and give it a try. You can impress your friends or just perform for your own personal gratification! We’ve included several free songs with your guitar to get you started. The guitar by itself is amazing! Even if you can already play like a rock star, this is the guitar you’d want to jam on. So, here are all the amazing features you get for free: 24-fret guitar with multitouch, real strumming, real fretting, chords, real guitar damping and vibrato, open hammer, pull off, string tuning, 4-8 string support, adjustable metronome, resizable frets, resizable strings, customizable fret markers, customizable fingerboard, left-handed support, optional auto-plucking, full-screen support, navigation bar, quick jumping to frets, quick fret shifting, learn songs, 2 modes of learning, practice strumming, learn both hand positions, and it's all FREE! Tap install now and start playing! OVER 1,200 SONGS - NEW SONGS ADDED EVERY WEEK! -Chart topping hits from the latest artists will be added regularly. -Songs from every genre imaginable. From Pop, Rock, and Alternative to Country, Reggae, and TV/Movie Themes. -There are even songs for young budding musicians in the Children’s section. CHOOSE YOUR GUITAR -Perform the latest hits on a mellow acoustic guitar. -Jam to Rock n’ Roll standards with the sweet sounds of an electric guitar. THIS IS AS REAL AS IT GETS -These guitars look, sound, and play like the real thing! -High-fidelity professionally recorded sounds. -Full length fret board with hammer on and pull off capability. PLAY WITH THE BAND -Perform any song you choose with a band! No other app offers this amazing new feature. -Your own band plays along with you on drums, guitars, and rock piano!! -This is a real-time experience, the band keeps pace with you! UNLIMITED PREMIUM SUBSCRIPTION - You can subscribe for unlimited access to our complete song and instrument catalog - The subscriptions are $2.99 weekly, $7.99 monthly* - You'll be able to perform all available songs on any instrument for the duration of your subscription - Payment will be charged to iTunes Account at confirmation of purchase - Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period - Account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen package - Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase - No cancellation of the current subscription is allowed during active subscription period - You can read our privacy policy at www.betterdaywireless.com/privacy - Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication *Price are equal to the value that \"Apple's App Store Matrix\" determines is the equivalent of the subscription price in $USD. https://www.betterdaywireless.com/termsofservice.html",
+      "averageUserRating": 3.80945,
+      "userRatingCount": 614,
+      "currentVersionReleaseDate": "2024-05-09T21:05:43Z",
+      "releaseDate": "2010-12-22T08:00:00Z",
+      "genres": [
+        "Music",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/the-guitar-with-songs/id409716516?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "guitar chord chart creator"
+    },
+    {
+      "trackId": 357828853,
+      "trackName": "Ultimate Guitar: Chords & Tabs",
+      "bundleId": "com.ultimateguitar.tabs100",
+      "sellerName": "Ultimate Guitar",
+      "description": "Access the world's largest catalogue of guitar, bass & ukulele chords, tabs, and lyrics. Challenge yourself to learn your favourite songs and more! You have choices galore: • Search for songs by genre, rating, your ability, tuning level • Explore UG Tab collections. Use the finder for your faves, fall in love with something new, feel the nostalgic vibes. Search by themes like House or Acoustic, or check out the latest album releases. Find collections based on your interests such as Star Wars or funky Bollywood beats. • Focus on guitar techniques, find songs personal to you in collections from professional guitarists • Anytime you feel inspired to share a song, create and upload your shot on the spot. It’s that easy! Share the best parts of your performance with your like minded community of fellow musicians. • Reach your true musical potential – learn to play with UG Courses here. Access over 2500 lessons for any skill level and instrument type from guitar, drums to piano and more. Learn different styles and techniques with guidance from professional musicians. Progress at your own speed and on any device, anytime, anywhere. • Play 29K+ popular songs in their original sound with Tonebridge Guitar Effects And it doesn’t end there Check out all these features: • Explore guitar, bass & ukulele chords, tabs, and lyrics for songs in every genre • Watch videos of songs to refresh your memory or use as backing tracks • Compile your favourite tabs in playlists from our tab collections • Create ‘Personal’ tabs to edit chords, lyrics or change tabs to suit your needs • Option to Switch to left-handed mode • Set a font style and size to match the tab • Offline access to favourite tabs - available at all times • Enjoy dark mode for a gig With a Pro account: • Use interactive tabs to play songs note by note, at your own pace • Select the chord variation that best suits you from the world's biggest library of chords • Use ‘Simplify’ to make difficult songs easier • Jam with high quality tabs - over 29,000 that include backing tracks and synchronised lyrics • Hit the right tempo with metronome • Transpose songs to get just the right tone for you • Take advantage of autoscroll during your practice sessions • Achieve the right sound with the built-in guitar tuner • Share, print, and export your fave songs Problems or feedback? We are always eager to improve your Tabs experience and strive for excellence in doing so. Let us help you in person by contacting our development team at support.ios@ultimate-guitar.com, and we will endeavour to meet your needs. Please do not post bug reports or feature requests as an App Store review. Subscription information: • The \"UG Pro + UG Courses + UG Sing\" subscription gives you unlimited access to the app's premium content and features • The subscription price is $9.99/monthly, $59.99/yearly* • Payment will be charged to your iTunes Account at confirmation of purchase • Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period • Your account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen package • Subscriptions may be managed, and auto-renewal may be turned off via ‘Account Settings’ on your device after purchase • There is no way to cancel your current subscription during its active period • Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. * Prices are equal to the value determined by ‘Apple's App Store Matrix’ as the equivalent of the subscription price in $USD. You can read our privacy policy at https://www.ultimate-guitar.com/about/privacy.htm You can read our terms of service at https://www.ultimate-guitar.com/about/tos.htm",
+      "averageUserRating": 4.73628,
+      "userRatingCount": 467810,
+      "currentVersionReleaseDate": "2026-07-17T05:49:24Z",
+      "releaseDate": "2010-03-16T17:11:45Z",
+      "genres": [
+        "Music",
+        "Education"
+      ],
+      "primaryGenreName": "Music",
+      "genreIds": [
+        "6011",
+        "6017"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/ultimate-guitar-chords-tabs/id357828853?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.1",
+      "matched_seed": "guitar chord chart creator"
+    }
+  ],
+  "errors": [],
+  "fetched_at": "2026-07-28T15:53:13+08:00",
+  "cache_hit": false,
+  "cache_path": "/Users/zhoujinyu/.claude/app-factory/itunes_cache/22c0589ebf7b706965d10528.json"
+}

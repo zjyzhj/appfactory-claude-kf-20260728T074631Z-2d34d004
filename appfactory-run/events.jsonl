@@ -1,0 +1,10 @@
+{"event": "run_created", "run_id": "kf-20260728T074631Z-2d34d004", "ts": "2026-07-28T07:46:31Z"}
+{"event": "milestone_validated", "milestone": "goal", "ts": "2026-07-28T07:46:31Z"}
+{"attempt": 1, "event": "milestone_attempt", "milestone": "pm_docs", "ts": "2026-07-28T07:47:05Z"}
+{"event": "milestone_validated", "milestone": "pm_docs", "ts": "2026-07-28T08:28:00Z"}
+{"attempt": 1, "event": "milestone_attempt", "milestone": "pm_visuals", "ts": "2026-07-28T08:29:28Z"}
+{"event": "milestone_validated", "milestone": "pm_visuals", "ts": "2026-07-28T09:15:23Z"}
+{"attempt": 1, "event": "milestone_attempt", "milestone": "checklist", "ts": "2026-07-28T09:15:55Z"}
+{"event": "milestone_validated", "milestone": "checklist", "ts": "2026-07-28T09:25:12Z"}
+{"attempt": 1, "event": "milestone_attempt", "milestone": "rough_app", "ts": "2026-07-28T09:25:23Z"}
+{"event": "milestone_validated", "milestone": "rough_app", "ts": "2026-07-28T11:17:57Z"}

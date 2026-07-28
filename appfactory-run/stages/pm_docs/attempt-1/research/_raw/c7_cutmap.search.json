@@ -1,0 +1,794 @@
+{
+  "schema_version": "appfactory.itunes_search_raw.v1",
+  "status": "ok",
+  "country": "us",
+  "seeds": [
+    "cut list optimizer",
+    "cutting diagram plywood",
+    "panel optimizer woodworking",
+    "cutlist calculator",
+    "enter stock sizes and part list, optimize nesting, show cutting diagram, track waste and offcuts"
+  ],
+  "limit_per_seed": 25,
+  "cap": 30,
+  "per_seed": [
+    {
+      "term": "cut list optimizer",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "cutting diagram plywood",
+      "result_count": 24,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "panel optimizer woodworking",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "cutlist calculator",
+      "result_count": 24,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "enter stock sizes and part list, optimize nesting, show cutting diagram, track waste and offcuts",
+      "result_count": 22,
+      "http_status": 200,
+      "error": null
+    }
+  ],
+  "results": [
+    {
+      "trackId": 6465744401,
+      "trackName": "CutList Optimizer",
+      "bundleId": "com.WoodCalcKit",
+      "sellerName": "XIALIAOBAO TECHNOLOGY CO., LTD.",
+      "description": "CutList Opt is a mobile app designed for material optimization and cutting layout planning. It helps users create efficient cutting plans that simplify workflows, maximize material usage, and minimize waste. Powered by our proprietary AI solver and enhanced by machine learning and deep learning technologies, the app delivers high-efficiency solutions for various cutting scenarios, including furniture panels, mechanical steel plates, architectural glass, fabrics, and leather. Features: • Unlimited Projects. • Unlimited Calculations. • Unlimited Parts and Panels. • Supports Part Grain. • Supports Edge Banding. • Supports Panel Trimming. • Supports Non-zero saw kerf. • Supports First Cut Orientation. • Supports Multiple Material Types. • Supports Minimize Panels Rotation. • Supports Guillotine Cutting Method. • Export as PDF File. • Export as Excel File. • Export as AutoCAD DXF File. • Available on Mac, iPhone, and iPad. Term Service: https://www.cutlistoptimal.com/termservice Privacy Policy: https://www.cutlistoptimal.com/privacypolicy",
+      "averageUserRating": 4.25472,
+      "userRatingCount": 106,
+      "currentVersionReleaseDate": "2026-07-09T15:58:15Z",
+      "releaseDate": "2023-09-22T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutlist-optimizer/id6465744401?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 1629462860,
+      "trackName": "CutList Optimizer",
+      "bundleId": "com.SaltedEggYolk.CutList",
+      "sellerName": "Xiamen Cheerli E - Commerce Co., Ltd",
+      "description": "CutList Opt is an application optimized for sheet cutting. It can help companies and individuals to reduce raw material waste, reduce errors, save time, save labor and save cost. Our solution is suitable for scenarios such as cutting down and calculating the sample layout for wood, steel, stainless steel, glass, aluminum, cardboard, stone, fabric and other materials. It is suitable for wood factory, furniture factory, machinery factory, hardware factory, glass factory, stone factory, packaging factory, etc. Function highlights. - Support saving unlimited items. - Support visual layout output. - Support high-speed calculation. - Support multiple stock and board calculations at the same time. - Support multiple cutting schemes. - Support specifying cutting direction. - Support stacking the same layout scheme. - Support arbitrary sawing width. - Support guillotine cutting. - Support tagging of sheets and parts. - Support HD PDF export. - Support CAD file export. - Support iPhone, iPad, Mac platform. Terms of Service: https://cutlistopt.com/terms-of-service.html Privacy Policy: https://cutlistopt.com/privacy-policy.html With the goal of \"helping enterprises to improve efficiency, reduce loss and stabilize quality\", we realize digital management and fine accounting of enterprises, and help SMEs to develop green and sustainable. With the concept of \"only when R&D is complex, users can be simple\", we enable SMEs to use more cost-effective software. If you like CutList Opt, or have any other comments, please take a moment to write us a review, or send an email to cutlistopt@icloud.com, which will help us to improve the product and give you a better experience!",
+      "averageUserRating": 4.37879,
+      "userRatingCount": 66,
+      "currentVersionReleaseDate": "2023-12-15T10:21:22Z",
+      "releaseDate": "2022-06-18T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutlist-optimizer/id1629462860?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 1579298749,
+      "trackName": "Cutlist Optimizer 4 / SmartCut",
+      "bundleId": "dev.smartcut.app",
+      "sellerName": "JG Media Limited",
+      "description": "SmartCut is a cut list optimiser – a material optimisation tool. Generate cut list diagrams using an advanced algorithm to get the most from your materials. It's fast, accurate and will save you money. FEATURES • Sheet / 2D / boards / panels • Linear / 1D / bars / rods • Decimals & fractions • Blade width • Grain direction • Edge banding • Infinite stock option • Trim • Quickly measure each cut • Export to PDF to print for the workshop FEEDBACK hello@cutrevolution.com TERMS OF USE https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.14286,
+      "userRatingCount": 35,
+      "currentVersionReleaseDate": "2026-07-14T04:50:39Z",
+      "releaseDate": "2021-08-07T07:00:00Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutlist-optimizer-4-smartcut/id1579298749?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6618137579,
+      "trackName": "CutList Optimizer - Linear",
+      "bundleId": "com.cutlistoptimizer.linear",
+      "sellerName": "XIALIAOBAO TECHNOLOGY CO., LTD.",
+      "description": "CutList Optimizer – Linear Cutting is a mobile app designed for optimizing linear material cutting. It helps users generate efficient 1D cutting plans that reduce material waste, improve utilization, and streamline cutting operations. Powered by our proprietary AI solver, enhanced with machine learning and deep learning technologies, the app delivers fast and accurate solutions for cutting bars, pipes, rods, profiles, and other standard-length linear materials. Perfect for woodworkers, metal fabricators, construction professionals, and anyone who works with linear materials on a regular basis. Features: • Unlimited Projects. • Unlimited Calculations. • Unlimited Parts and Stocks. • Supports Saw Kerf Width. • Supports Stock Trimming. • Supports Multiple Stock Lengths. • Supports Multiple Material Types. • Supports Layout Minimization. • Supports Standard Fractional and Imperial Units. • Export Cutting Layout as PDF and Excel. • Available on Mac, iPhone, and iPad. Terms of Service: https://www.cutlistoptimal.com/termservice Privacy Policy: https://www.cutlistoptimal.com/privacypolicy",
+      "averageUserRating": 5.0,
+      "userRatingCount": 2,
+      "currentVersionReleaseDate": "2026-05-23T15:05:15Z",
+      "releaseDate": "2025-07-25T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutlist-optimizer-linear/id6618137579?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6762535173,
+      "trackName": "cut list calculator",
+      "bundleId": "com.asarulabs.cutlist-optimizer",
+      "sellerName": "ASARU LABS LTD",
+      "description": "Cut Optimizer turns your cut list into clean, low-waste sheet layouts in seconds — built for woodworkers, cabinet makers and DIY makers cutting plywood, MDF, melamine and other panel goods. Add your parts and stock panels, run the optimizer, and get optimized cutting diagrams, waste statistics and a step-by-step cutting guide you can follow right at the saw. Whether you are building cabinets, closets, shelves, kitchens, shop furniture or custom projects, Cut Optimizer makes panel cutting faster, easier and more accurate. WHY CUT OPTIMIZER • Smart 2D cut list optimization that reduces waste and uses fewer sheets • Full project management: parts, stock panels, quantities, materials, thickness • Step-by-step cutting guide with the active cut highlighted on the panel • Export cutting plans as PDF or SVG to print, share or send to your shop • Metric or imperial units, with decimal and fractional input (¹⁄₁₆, ⅛, ¼…) • iCloud sync keeps every project in sync across iPhone and iPad • Available in 33 languages KEY FEATURES • 2D bin-packing optimizer for plywood, MDF, melamine, OSB and sheet goods • Saw kerf support for accurate, real-world cut sizes • Grain direction control: free rotation or locked orientation • Edge banding selection per side, with total banding length calculation • Stock panel priorities to use up offcuts first • Unplaced part detection with clear validation messages • Interactive layout viewer with fullscreen zoom and pan • Cut count, total cut length, panel usage and waste percentage stats • Auto-saved projects, duplicate, edit and delete from the project list • Clean, native iOS design — works great on iPhone and iPad PERFECT FOR • Cabinet making and casework • Furniture building and joinery • Closet, wardrobe and kitchen planning • Plywood, MDF and melamine cutting • Workshop, garage and shop project planning • DIY woodworking and home improvement • Sheet goods nesting and panel optimization • Pros at the table saw, panel saw, track saw or CNC EXPORT & SHARE Export every project as a vector PDF or SVG cutting plan. Share it with your team, print it for the shop wall, or take it straight to the saw on your iPad. BUILT FOR REAL WORKSHOP USE Fast input, practical layouts, reliable measurements and clear cutting instructions you can actually follow with a saw in your hand. No clutter, no setup — just open the app, enter your parts, and cut. Download Cut Optimizer and stop wasting plywood. Privacy Policy: https://asarulabs.com/privacy.html Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 5.0,
+      "userRatingCount": 1,
+      "currentVersionReleaseDate": "2026-07-14T18:12:37Z",
+      "releaseDate": "2026-04-23T07:00:00Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cut-list-calculator/id6762535173?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.6",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 1483266876,
+      "trackName": "Cut Master Pro",
+      "bundleId": "com.valanarllc.cutmaster",
+      "sellerName": "Timothy Martin",
+      "description": "Whether it's lumber, sheet metal, glass, fabric, or anything else, CutMaster does the hard part for you. CutMaster will calculate the most efficient way to cut the required pieces you need from the stock you have available. It's easy to save and manage multiple projects, so you never have to worry about losing your work. You can even customize the measurement system, blade width, and layout options for each individual project, making project management as simple as ever.",
+      "averageUserRating": 4.16129,
+      "userRatingCount": 31,
+      "currentVersionReleaseDate": "2021-10-24T20:03:14Z",
+      "releaseDate": "2019-11-28T08:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cut-master-pro/id1483266876?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "10.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 1125899520,
+      "trackName": "SketchCut Lite",
+      "bundleId": "com.fortali.sketchcutlite",
+      "sellerName": "Vladimir Rudenko",
+      "description": "SketchCut Lite - Fast Cutting. The application for automatic calculation of cutting drawings of parts from flat sheets. The app is designed with the features of cutting sheet materials (particleboard, MDF, glass, plastics, wood panels, etc.) both in the manual and on the machine. Lite version of SketchCut. Without full functions. The application functions are available: - choice and change of cutting parameters (sheet size, blade width, offset from the edge of the sheet, etc.); - edging (two types of edges); - order information (order, material, order date, availability date); - automatic cutting of sheets in accordance with the selected parameters; - two different algorithms for calculating and optimizing layouts - to select the best option of cutting; - automatic calculation of the area of parts and pieces, cut length, the length of the edges; - display of the results in the .PDF file for printing; - storing a list of parts and the cutting parameters on your device; - metric system and Imperial units, with a simple conversion",
+      "averageUserRating": 3.78571,
+      "userRatingCount": 14,
+      "currentVersionReleaseDate": "2023-08-18T23:52:37Z",
+      "releaseDate": "2016-06-23T21:07:12Z",
+      "genres": [
+        "Business",
+        "Productivity"
+      ],
+      "primaryGenreName": "Business",
+      "genreIds": [
+        "6000",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/sketchcut-lite/id1125899520?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 1544888549,
+      "trackName": "SheetCut Optimizer - Carpenter",
+      "bundleId": "com.measuresquare.stonecut",
+      "sellerName": "Measure Square Corp.",
+      "description": "The SheetCut Optimizer is a mobile app designed for woodworkers, carpenters, DIYers, fabricators, manufacturers, stone producers and anyone else who need to figure out the most efficient way to cut parts while using stock sheets as little as possible, such as plywoods, MDF, wood panels, particle boards, glasses, stone slabs and plastics, etc.. Complex projects, which may have over 100 parts, can be nested in seconds. It’s a snap to use – and you will save time, money and energy, dramatically!!! Features: ▪ Create and save unlimited cutting projects ▪ Support for millimeter and inches, with up to three decimal places ▪ Setup parts with rotatable options and labels ▪ Set kerf width and other cutting options ▪ Get fast calculation speeds, with up to six optimization levels (the highest level generates the most optimized layouts) ▪ Automatically calculate yield percentage, the number of sheets needed, and the total areas of sheets and parts ▪ Get visual cutting layouts with the ability to show/hide color code for parts ▪ Export cutting results to PDF and CAD files Terms of use: https://measuresquare.com/wp-content/uploads/2020/08/M2-License-Agreement-V-2-Jan-2020.pdf Privacy policy: https://www.measuresquare.com/privacy-policy",
+      "averageUserRating": 3.44643,
+      "userRatingCount": 56,
+      "currentVersionReleaseDate": "2023-07-05T06:01:26Z",
+      "releaseDate": "2021-02-10T08:00:00Z",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/sheetcut-optimizer-carpenter/id1544888549?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 1549380017,
+      "trackName": "Moblo - 3D furniture modeling",
+      "bundleId": "fr.moblo",
+      "sellerName": "MYTIforge",
+      "description": "Want to create a bespoke piece of furniture or design a space yourself? Moblo is the perfect 3D modeling tool for your future projects. Great for easily designing furniture in 3D, you can also use it to imagine more complex interior designs. Using augmented reality, you can quickly bring your ideas to life and visualize them in your own home. Whether you're a beginner or an experienced 3D modeler, Moblo is the perfect 3D modeling tool for your bespoke furniture projects. With its interface designed for either a touchscreen or a mouse, Moblo is simple and accessible to everyone. Examples of furniture or fittings often designed with Moblo: - Made-to-measure shelving - Bookcase - Dressing room - TV unit - Desk - Children's bed - Kitchen - Bedroom - Wooden furniture - Etc. Visit our website or our Discord server to discover the full range of possibilities offered by Moblo. From DIY enthusiasts to professionals (carpenters, kitchen designers, interior designers, etc.), the community shares a whole host of ideas and creations. www.moblo3d.app Creation steps: 1 - 3D modeling Assemble your future piece of furniture in 3D using an intuitive interface and ready-to-use parts (basic shapes/legs/handles). 2 - Customize colors and materials Choose which materials to apply to your 3D furniture from our library (paint, wood, metal, glass). Or create your own material using a simple editor. 3 - Augmented reality Using your phone's camera, visualize your 3D creation in your own home and adjust it according to your space. This means you can see what your design looks like in a real-life context before you start production. 4 - 3D export Export your project as a 3D mesh file (.stl or .obj) for use with other tools such as Sketchup or Blender (raw mesh, without colors or textures). Main features: - 3D assembly (movement/deformation/rotation). - Duplicate/hide/lock one or more parts. - Materials library (paint, wood, metal, glass, etc.). - Custom materials editor (color, texture, shininess, reflection, opacity). - Augmented reality visualization. - Parts list. - Notes related to parts. - Photo capture. Premium features: - Possibility of working on several projects in parallel. - Unlimited number of parts per project. - Access to all part shapes. - Access to all materials in the library. - Save a selection as a new project. - Import a project into an existing project. - Export to .stl or .obj 3D mesh files (raw mesh without colors or textures). - Export the parts list in .csv format (compatible with Microsoft Excel or Google Sheets). - Share creations with other Moblo apps. For further information, please visit our resources page on the moblo3d.app website.",
+      "averageUserRating": 4.50385,
+      "userRatingCount": 649,
+      "currentVersionReleaseDate": "2026-07-06T08:09:59Z",
+      "releaseDate": "2021-02-17T08:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Productivity"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/moblo-3d-furniture-modeling/id1549380017?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 584240011,
+      "trackName": "DyCut- Dynamic Cutting Layouts",
+      "bundleId": "com.CourtneyAndCompany.PaperLayout",
+      "sellerName": "Courtney Parsons",
+      "description": "DyCut: Your Ultimate Material Optimizer Tired of wasting precious materials? DyCut is here to revolutionize how you cut and use your materials. With its powerful algorithms, DyCut calculates four cutting layouts to help you get the most out of every sheet. DyCut is more than just a tool; it's a game-changer for production environments like crafting, quilting, printing, machining, lathe, milling, and routing. Ideal for cutting panels of sheet material and getting the highest quantity of usable pieces. Save Money, Reduce Waste, Increase Efficiency By optimizing your material usage, DyCut helps save you time and money, improve your output, and minimize waste. Whether you're a professional manufacturer, a hobbyist crafter, or anything in between, DyCut is the perfect tool for you. Key Features: * Effortless Calculations: Quickly and easily calculate the optimal layout for your materials. * 4 Dynamic Layouts: Explore multiple options to find the perfect fit for your needs. * Visual Preview: See your layouts in action before making a decision. * Customizable Settings: Tailor DyCut to your specific requirements. What Our Customers Say: \"DyCut has been a game-changer for my plastics company. We've been able to increase our output and reduce waste significantly, saving us thousands of dollars each year. It's a must-have tool for anyone who works with materials.\" — imtigger2 How It Works: * Enter Dimensions: Input the size of your material sheet. * Specify Cuts: Indicate the desired dimensions of your cuts. * View Layouts: DyCut will generate four optimized layout options. * Choose Your Favorite: Select the layout that best suits your needs. Join the DyCut Community, By using DyCut, you're not only saving money but also contributing to a more sustainable future. Consider donating a portion of your savings to support our ongoing development efforts. Download DyCut today and experience the power of material optimization!",
+      "averageUserRating": 4.63725,
+      "userRatingCount": 102,
+      "currentVersionReleaseDate": "2025-04-29T21:30:10Z",
+      "releaseDate": "2012-12-10T21:07:52Z",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/dycut-dynamic-cutting-layouts/id584240011?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.2",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6771125053,
+      "trackName": "CutList Optimizer - Circle",
+      "bundleId": "com.codex.CircleNesting",
+      "sellerName": "XIALIAOBAO TECHNOLOGY CO., LTD.",
+      "description": "CutList Opt Circle is a mobile app designed for material optimization and cutting layout planning. It helps users create efficient cutting plans that simplify workflows, maximize material usage, and minimize waste. Powered by our proprietary AI solver and enhanced by machine learning and deep learning technologies, the app delivers high-efficiency solutions for various cutting scenarios, including furniture panels, mechanical steel plates, architectural glass, fabrics, and leather. Features: • Unlimited Projects. • Unlimited Calculations. • Unlimited Circle Parts and Stocks. • Supports iCloud. • Export to PDF. • Export to G-code. • Export to AutoCAD DXF. • Available on Mac, iPhone, and iPad. Term Service: https://www.cutlistoptimal.com/termservice Privacy Policy: https://www.cutlistoptimal.com/privacypolicy",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-05-22T16:47:27Z",
+      "releaseDate": "2026-05-22T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutlist-optimizer-circle/id6771125053?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6768171871,
+      "trackName": "CutList: Plywood Optimizer",
+      "bundleId": "com.daa.bao.Cutlist",
+      "sellerName": "家宝 戴",
+      "description": "CutList helps woodworkers, cabinet makers, and DIY builders turn their cut lists into optimized sheet layouts in seconds, right on your iPhone, fully offline. Whether you’re building cabinets, shelves, drawers, or any panel project, CutList figures out the most efficient way to cut your parts from plywood, MDF, melamine, or any sheet stock. No more wasted material, no more guesswork. ============================ WHY WOODWORKERS LOVE CUTLIST * FAST LAYOUT GENERATION Enter your sheet sizes and parts, tap Generate, and see optimized layouts instantly. * ON-DEVICE AI SCAN (PRO) Snap a photo of handwritten or printed cut lists. AI OCR reads and imports parts automatically, fully offline. * STEP-BY-STEP CUT SEQUENCE Follow clear cutting instructions with exact coordinates directly from your iPhone. * MATERIAL COST & WASTE TRACKING Track material usage, waste percentage, and project costs before cutting. * INCH & METRIC SUPPORT Supports inches with fractions and millimeters for global woodworking standards. * GRAIN DIRECTION LOCK Keep wood grain patterns aligned correctly for cabinet doors and visible surfaces. * KERF & EDGE BANDING Customize saw blade kerf and edge banding allowance for accurate layouts. * EXPORT TO PDF (PRO) Export layouts and cut sequences as PDF files for printing or sharing. * AIRPRINT SUPPORT (PRO) Print layouts directly from your iPhone using AirPrint. * PROJECT HISTORY Save, reopen, edit, and duplicate projects anytime. ============================ SUBSCRIPTION REQUIRED FOR PRO FEATURES CutList includes free basic layout generation features. Advanced features including AI Scan, PDF Export, AirPrint, unlimited projects, and additional professional tools require an active Pro subscription. Subscription pricing is displayed inside the app and may vary by region. Subscriptions auto-renew unless canceled at least 24 hours before the end of the current billing period. You can manage or cancel subscriptions anytime in your Apple ID settings. ============================ BUILT FOR PRIVACY CutList runs entirely on your device. No account required. No cloud uploads. No tracking. Your project data never leaves your iPhone. ============================ WHO IT’S FOR * Professional cabinet makers and carpenters * Furniture builders and woodworking shops * DIY woodworkers and home renovators * CNC operators planning sheet layouts * Anyone working with plywood, MDF, or panel materials Privacy Policy: https://woodcuttool.com/legal/cutlist/privacy/ Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Questions or feedback? Email us anytime — we read every message.",
+      "averageUserRating": 5.0,
+      "userRatingCount": 3,
+      "currentVersionReleaseDate": "2026-06-30T22:12:24Z",
+      "releaseDate": "2026-05-12T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutlist-plywood-optimizer/id6768171871?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.6",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6756578078,
+      "trackName": "CutFlow Pro - Cut Optimizer",
+      "bundleId": "com.hengtu.cutflowpro",
+      "sellerName": "Zhaoqing Hengtuzhiqi Technology Co. , Ltd.",
+      "description": "CutFlow Pro is the comprehensive cutting optimization tool designed for carpenters, DIY enthusiasts, and woodworking professionals. Version 1.0.1 brings a powerful new engine and interactive workflows to help you work smarter, not harder. Key Features: **1. Intelligent Optimization Engine** - **Max Yield Strategy**: Advanced nesting algorithms to squeeze the most out of every sheet, saving you money on material. - **Min Cuts Strategy**: Option to prioritize layout simplicity for faster cutting (Guillotine/Shear cuts). - **Custom Constraints**: Configure blade kerf, trim sizes, and cut direction (longitudinal/transverse/mixed) to match your equipment. **2. Interactive Step-by-Step Guide (NEW!)** - Ditch the static diagrams. Follow a guided, interactive workflow for every sheet. - Visual cues for fence settings and cut directions. - Zoomed-in view of every cut operation to ensure zero mistakes. - Visual indicators for edge banding on parts. **3. Stock & Remnant Management (NEW!)** - **Standard Stock Library**: Keep your frequently used sheet sizes ready for quick access. - **Remnant Tracking**: Automatically identify reusable offcuts and save them to your inventory for future projects. Reduce waste and save cost! **4. Project & Data Management** - **Multi-Project Support**: Create, save, and manage multiple projects locally. - **Flexible Units**: Seamlessly switch between Metric (mm, cm, m) and Imperial (Decimal/Fractional) units. - **Grain Direction Control**: Respect material grain by enabling or disabling rotation for specific parts. - **Edge Banding**: Input edge banding requirements (Top/Bottom/Left/Right) for each part. **5. Detailed Project Statistics** - View comprehensive summaries including total sheets required, yield percentage, and waste ratio. - Detailed BOM (Bill of Materials) list with cut status tracking. **6. Offline & Private** - No internet required. All calculations happen locally on your device. - Your project data stays with you. No cloud account needed. Whether you're building custom cabinets, furniture, or handling a large renovation, CutFlow Pro is your digital assistant for efficient material planning. What's New in Version 1.0.2: - **Interactive Step-by-Step Mode**: A game-changer for workshop efficiency. - **Dual Optimization Strategies**: Choose between saving material or saving time. - **Remnant Management System**: Don't throw away money—track and use your offcuts. - **Enhanced UI**: Improved input methods with custom fractional keypad. Support URL: https://cutflow-pro.vercel.app/ Privacy Policy URL: https://cutflow-pro.vercel.app/private/privacy_policy.html Terms Of Service URL: https://app-theta-flame.vercel.app/cutflowPro/private/terms_of_service.html SUBSCRIPTION INFO: CutFlow Pro Premium offers exclusive features to boost your productivity: • Unlimited Projects: Create and save as many projects as you need. • Unlimited Stock Items: Manage unlimited stock sizes and inventory. • Full Access: Unlock complete BOM reports and step-by-step cutting guides. • Advanced Algorithms: Access premium nesting strategies like 'Max Yield' for best material savings. Subscription Terms: • Title: Weekly Subscription • Price: $3.99 / Week • Trial: 3 Days Free Trial • Payment will be charged to your Apple ID account at the confirmation of purchase. • Subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. • Your account will be charged for renewal within 24 hours prior to the end of the current period. • You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase.",
+      "averageUserRating": 1.0,
+      "userRatingCount": 1,
+      "currentVersionReleaseDate": "2026-04-16T14:06:51Z",
+      "releaseDate": "2025-12-17T08:00:00Z",
+      "genres": [
+        "Productivity"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutflow-pro-cut-optimizer/id6756578078?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 1453537222,
+      "trackName": "Tape Measure & Ruler Арр",
+      "bundleId": "com.ruler.tape.measure",
+      "sellerName": "Free Style Dev LLC",
+      "description": "Measure anything with a handy digital ruler and add notes to your measurements. The Measuring Tape app is a smart and user-friendly electronic ruler that delivers results with accuracy almost on par with a traditional measuring tool. Measure objects or distances in different units. Create a sketch with a wide range of text editing options like size, color, and positioning. When everything is done, share your measures and sketches right from the app. Enjoy a measuring tape with a free trial that accurately measures anything for you. Features: - Imperial (inch) and Metric (centimeter / millimeter) units - Rangefinder – measure the distance from your smartphone's camera to nearly any point in view - Sketch mode – prepare a plan, name it with a cool text editor - Share your sketch with anyone - A handy tape measure, always in your pocket - A clear and user-friendly interface SUBSCRIPTIONS: Please note, you will need a subscription in order to get access to features like: Area Tool, Undo, Flashlight and Magnet. There are two options: the annual subscription and the weekly subscription with free trial. The subscription will be automatically renewed unless auto-renew is turned off at least 24 hours before the end of the current payment period. Your iTunes account will be automatically charged at the same price for renewal within a 24-hour period prior to the end of the current payment period unless you change your subscription preferences in your iTunes Account Settings. When a subscription is cancelled, access to the features will expire at the end of the current payment period. FOR MORE INFORMATION: Terms of Use: https://tou.measuringtape.pro Privacy Policy: https://pp.measuringtape.pro",
+      "averageUserRating": 4.2051,
+      "userRatingCount": 4232,
+      "currentVersionReleaseDate": "2026-07-16T08:30:49Z",
+      "releaseDate": "2019-07-24T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/tape-measure-ruler-%D0%B0%D1%80%D1%80/id1453537222?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 529549730,
+      "trackName": "CutList Plus Viewer",
+      "bundleId": "com.bridgewooddesign.cutlistplusview",
+      "sellerName": "Bridgewood Design, LLC",
+      "description": "Viewer for CutList Plus fx projects you have created on your computer. Browse your cutting diagrams, parts lists and bill of materials one the go. Check boxes let you keep track of which diagrams have been cut, which materials have been purchased, and which parts are finished. This is a viewer only; it reads files you have created on your computer.",
+      "averageUserRating": 2.70833,
+      "userRatingCount": 24,
+      "currentVersionReleaseDate": "2016-12-07T16:58:08Z",
+      "releaseDate": "2012-05-30T17:49:35Z",
+      "genres": [
+        "Productivity",
+        "Business"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutlist-plus-viewer/id529549730?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "8.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6761802671,
+      "trackName": "Kerf - Cut List Optimizer",
+      "bundleId": "com.keenankaufman.kerf",
+      "sellerName": "Keenan Kaufman",
+      "description": "Stop guessing how many sheets of plywood you need. Kerf is the cut list optimizer built specifically for woodworkers. Tell it what stock you have and what pieces you need, and it shows you exactly how to lay them out—ready for the table saw, with every inch of plywood accounted for. — BUILT FOR THE SHOP — Natural Entry: Type measurements the way you'd write them on a piece of scrap: 24 1/2, 2' 6 3/4, or 1/8. Metric Support: Switch to millimeters or centimeters if that's how you work. Smart Kerf Accounting: Set your blade width once and Kerf accounts for it on every cut. Never come up short again. Grain Direction: Lock pieces to the grain when you care which way the wood runs. Auto-Sorting: Mix thicknesses in one project. Your 3/4\" cabinet sides and 1/4\" backs are sorted onto the right stock automatically. Progress Tracking: Tap each piece as you cut it so you know exactly where you are in the build. — CHOOSE YOUR LAYOUT — Best Leftover: Leaves one big reusable scrap. The default if you save offcuts for future projects. Fewest Sheets: Packs the cuts as tight as physics allows. Best when sheet goods are expensive. Easiest Cuts: Every cut is a full edge-to-edge pass. Built for woodworkers who only have a table saw—no jigsaw or track saw required. — IMPORT ANYTHING — Photo or Scan: Snap a picture of a printed cut list, cabinet plan, or handwritten notes. Kerf reads it and fills in the pieces for you. Voice Dictation: \"I need four shelves twenty-four by twelve from 3/4 oak plywood.\" Kerf parses it. Files: CSVs, PDFs, and plain text all import directly. — TAKE IT TO THE BENCH — Visual Layouts: Swipe through your sheets one at a time, with every cut labeled and color-coded. Easy Sharing: Export your layout as a PDF or PNG. AirDrop it to your shop iPad, print it, or text it to a buddy. iCloud Sync: Start a project on your phone, finish it on your iPad. No accounts, no signups, no ads—just your private iCloud. Kerf was built for hobbyists who'd rather measure once on their phone than waste half a sheet of expensive plywood. If you've ever stood in front of a 4×8 sheet trying to mentally \"Tetris\" your cut list, Kerf is for you.",
+      "averageUserRating": 2.0,
+      "userRatingCount": 1,
+      "currentVersionReleaseDate": "2026-04-16T22:13:27Z",
+      "releaseDate": "2026-04-09T07:00:00Z",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/kerf-cut-list-optimizer/id6761802671?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "26.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6761426703,
+      "trackName": "CutFlow: Cut List Optimizer",
+      "bundleId": "com.cutlistoptimizer.cutflow",
+      "sellerName": "Murat Aslan",
+      "description": "Cut list optimizer & sheet cutting planner for woodworking and CNC. Generate optimal cutting layouts, reduce material waste, and save cost in seconds with a professional nesting engine built for real production workflows. CutFlow is a powerful cut list optimizer, sheet cutting planner, and nesting software designed for woodworking, CNC routing, panel cutting, and sheet material optimization. WHY PROFESSIONALS CHOOSE CUTFLOW INSTANT CUT LIST OPTIMIZATION Generate optimized sheet cutting layouts instantly. Supports guillotine cutting for plywood, MDF, metal sheets, and CNC workflows with real-time visual previews. CAD-QUALITY VISUAL OUTPUT Each optimized sheet is rendered as a precise CAD-style layout. Parts are labeled, dimensions annotated, and waste areas clearly highlighted for accurate cutting. BLADE KERF SUPPORT Account for blade kerf in every cut. Ensure precise material calculations for saw cutting, panel cutting, and CNC operations. GRAIN DIRECTION CONTROL Lock grain direction per part to maintain structural integrity and visual consistency. Ideal for plywood, veneered boards, and laminated panels. EDGE BANDING MANAGEMENT Assign edge banding to specific edges. Track linear usage, estimate material costs, and visualize banding directly on layouts. PDF CUT SHEET EXPORT Generate professional, print-ready cut sheets including part lists, sheet breakdowns, and optimization statistics. DXF EXPORT FOR CNC Export DXF files for CNC machines, laser cutters, and CAD software. No manual redrawing required. LOCAL PROJECT STORAGE All projects, sheets, and parts are stored locally. Continue your work anytime without relying on cloud sync. PERFECT FOR • Woodworking & cabinet making • Furniture production & cut list optimization • Plywood, MDF & sheet material cutting • CNC routing & laser cutting workflows • Sheet metal & aluminum fabrication • Panel cutting & layout optimization • Interior fit-out contractors • DIY makers & workshop planning FREE & PRO Start free. Upgrade to Pro for unlimited cut lists, unlimited optimizations, PDF & DXF export, and faster processing. Cut smarter. Waste less. Build faster. Terms (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.0,
+      "userRatingCount": 4,
+      "currentVersionReleaseDate": "2026-04-18T20:59:12Z",
+      "releaseDate": "2026-04-03T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutflow-cut-list-optimizer/id6761426703?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 796352563,
+      "trackName": "SketchUp - 3D Modeling",
+      "bundleId": "com.trimble.buildings.SketchUp",
+      "sellerName": "Trimble Inc.",
+      "description": "Experience the world's leading 3D design platform with a free 7-day Go trial! Without a subscription, you can still view 3D projects for free. Go offers essential 3D design tools, including SketchUp for iPad and SketchUp for Web. Created for design enthusiasts, architects, interior designers, contractors, home remodelers, construction professionals, and set designers, our intuitive tools streamline the creative process, allowing you to effortlessly craft 3D models and visualize concepts. Whether you're planning a home renovation, designing interiors, or creating a detailed architectural model, SketchUp helps bring your visions to life through 3D design. Go Features: - Work seamlessly across devices: Create 3D models on your iPad and computer using SketchUp.com. - Generative AI Designs: Harness the power of AI to create stunning visuals for architectural and home designs. Generate images that inspire your creative process and support your design narrative. - Room Planner & Space Design: Experiment with different layouts and design options to find the perfect fit for your space. Model your space with designer fixtures and furniture. - Real-time, realistic visuals: Create stunning photorealistic visuals by integrating environments and customizable real-world materials. - Scan-to-Design: Use our 3D scanning feature to capture real-world spaces, which AI intelligently transforms and organizes into editable 3D models. - Augmented Reality (AR): Visualize your designs in the real world with our AR capabilities. - DWG Compatibility: Import and export DWG files seamlessly, ensuring compatibility with other CAD software. - Import real-world information: Import images to textures, satellite imagery, 3D terrain, 3D buildings, and location information to power your designs with real-world context. Why Go? - Architects & Contractors: Transform your architectural visions into reality with intuitive 3D modeling tools. Quickly visualize and iterate design concepts and present ideas to clients and stakeholders. - Interior Designers & Home Remodelers: Visualize your ideas in 3D and AR, ensuring your designs meet expectations. Use AI image generation to inspire additional finishes and layouts. - Landscape Designer: Plan and visualize outdoor spaces, from planters to parks, with our 3D landscape tools, like real-time shadow studies, geo-locating satellite imagery, and 3D terrain. - DIYer: Whether you're planning a small remodel or a complete home renovation, SketchUp provides the tools you need to design and execute your projects with confidence. Without a subscription: - Switch between perspective and orthographic camera views. - Control the visibility of parts of your model. - Adjust the look and feel of your model by controlling Edge and Face styles, Shadows, Hidden Geometry, Section Planes, and Section Cuts. - Take measurements and get information about edge lengths, the area of faces, the volume of solids, and component and group definitions. - View models in augmented reality. IMPORT/EXPORT -Import: SKP, SKE, SKM, HDR, EXR, PNG, JPG, PDF, DWG, DXF, STL -Export: Images (PNG), Animations (MP4), SKP, USDz, PDF, DWG, DXF, OBJ, STL, MP4 REQUIREMENTS Requires iOS 17 or higher with a minimum of 1024Mb of RAM. For additional info, please visit help.sketchup.com. The AR model viewing feature uses ARKit and is compatible with iPhone 6s and newer, iPad Pro, or any 2017 iPad or newer. SUBSCRIPTION DETAILS Create 3D designs with a free 7-day Go trial. Payment will be charged to your Apple Account on confirmation of purchase. Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before your subscription expiration date. Your account will be charged for renewal within 24 hours before your subscription expiration date. After completing your initial purchase, you can manage your subscription and/or turn off auto-renew by visiting your Apple Account Settings.",
+      "averageUserRating": 4.46243,
+      "userRatingCount": 17646,
+      "currentVersionReleaseDate": "2026-06-01T19:16:58Z",
+      "releaseDate": "2014-04-14T07:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Productivity"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/sketchup-3d-modeling/id796352563?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "18.6",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6743643399,
+      "trackName": "Cutlist Optimizer - MDF Master",
+      "bundleId": "cutting.optimizer",
+      "sellerName": "Bhavinkumar Satashiya",
+      "description": "Cutlist Optimizer helps you calculate the most efficient way to cut materials with minimum waste. Whether you work with wood, plywood, MDF, metal sheets, glass, or plastic, this app automatically finds the best cutting layout to save both material and money. Perfect for carpenters, furniture makers, cabinet designers, engineers, and DIY builders who need fast and accurate cutting plans. Instead of manually calculating sheet layouts, simply enter your board size and required pieces, and the app instantly generates the optimized cutting pattern. ================== Key Features Smart Cutlist Optimization Automatically calculates the most efficient layout to reduce material waste. Multiple Material Support Works with plywood, MDF, wood boards, metal sheets, acrylic, glass, and other sheet materials. Custom Sheet Sizes Enter your own sheet or board dimensions. Multiple Piece Sizes Add unlimited pieces with different widths, heights, and quantities. Waste Reduction Calculation See how much material is used and how much waste is generated. Visual Cutting Layout View clear cutting diagrams to follow during production. Edge Trim & Blade Thickness Include cutting blade thickness (kerf) and edge trimming for accurate results. Save & Reuse Projects Store your cutlists for future use. Simple and Fast Interface Designed for quick calculations on the job site or workshop. Whether you’re planning a large project or a quick DIY fix, rely on Cut Master for Wood Working—your intelligent Carpenter Calculator—to cut smart and build better. Privacy Policy : https://forms.gle/fS6SVXiXdPF3TVkN7 Terms of Use : https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-07-02T07:51:37Z",
+      "releaseDate": "2025-03-23T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Business"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6000"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutlist-optimizer-mdf-master/id6743643399?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 1451755778,
+      "trackName": "DrawPlan",
+      "bundleId": "net.drawplan",
+      "sellerName": "Fleet Investments LLC",
+      "description": "DrawPlan makes it easy to create clear, professional floor plans — whether you need fast sketches or accurate, to-scale drawings. No drafting experience required. Key Features Draw your way Sketch freely with your finger for quick layouts Or draw precise, to-scale plans with automatic dimensions AI-assisted drawing Describe what you want to draw Let AI help you plan, layout, and learn faster Objects & details Add doors, windows, furniture, fixtures, labels, and dimensions Create and save your own custom objects Trace and refine Import images or plans Trace or draw directly over backgrounds Built for real work Perfect for trades, designers, real estate, renovations, and planning Create clean plans you can actually communicate with Unlimited projects Create and manage as many plans as you need Access your plans across devices with cloud sync Premium Features Upgrade to Monthly or Yearly to unlock: Cloud sync across all your devices High-resolution exports (PNG/PDF) Clean exports without grids or watermarks Priority support and early access to new features Try it for Free! Subscription Notes: Payment will be charged to your Apple ID account after the free trial ends. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period. You can manage or cancel your subscription anytime in your App Store account settings. Privacy policy: https://www.drawplan.net/privacy-policy/ Terms of use: https://www.drawplan.net/terms-of-use/",
+      "averageUserRating": 3.45465,
+      "userRatingCount": 5292,
+      "currentVersionReleaseDate": "2026-05-30T20:59:21Z",
+      "releaseDate": "2019-03-03T20:48:28Z",
+      "genres": [
+        "Productivity",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/drawplan/id1451755778?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6765750192,
+      "trackName": "Cutlist: Optimize Kerf",
+      "bundleId": "com.antinucleus.cutlistoptimizer",
+      "sellerName": "Omer Faruk BAGCI",
+      "description": "Turn any panel into an optimized cut plan in seconds — and stop paying for wasted material. Cutlist Optimizer packs your parts onto plywood, MDF, chipboard or any sheet stock with the tightest possible layout, so you get more pieces per board and less offcut in the bin. Whether you build kitchens, cabinets, furniture or weekend DIY projects, you'll cut with confidence and know your numbers before the saw ever touches the material. WHY MAKERS LOVE IT • Maximize efficiency — see your material usage % and exact waste area for every sheet • Save money — fit more parts per board and buy less stock • Real-world accurate — set your saw-blade kerf so the plan matches your actual cuts • Fast — enter your sheet and parts, tap Calculate, done FEATURES • Optimized nesting layout across as many sheets as you need • Set sheet size, thickness, material and quantity • Add rectangular or circular parts with quantity and optional 90° rotation • Kerf-aware spacing between every part • Clear visual cut diagram — pinch to zoom, drag to pan, tap a part to inspect • Full cut list with dimensions for every piece • Export a professional PDF cut plan and share it with your shop or client • Save projects and revisit them anytime • Available in 15 languages FREE & PRO Optimizing cut plans is completely free and unlimited. Your first PDF export is free too. After that, upgrade to Cutlist Pro for unlimited exports and an ad-free experience, or watch a short video to earn another export. Cutlist Pro is an auto-renewing subscription (monthly or yearly). Payment is charged to your Apple ID account. The subscription renews automatically unless cancelled at least 24 hours before the end of the current period. You can manage or cancel anytime in your account settings. Terms of Use: https://looplab.app/apps/cutlist-optimizer/terms-of-service Privacy Policy: https://looplab.app/apps/cutlist-optimizer/privacy-policy",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-07-20T06:29:17Z",
+      "releaseDate": "2026-07-19T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutlist-optimize-kerf/id6765750192?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6753271681,
+      "trackName": "Cutter optimizer",
+      "bundleId": "cutter.cutting.optimizer",
+      "sellerName": "Nanjibhai Gorasiya",
+      "description": "Tired of wasting material and struggling with complicated cutting lists? Cutting Optimizer is the perfect solution! This smart tool helps you plan and optimize the cutting of bars, tubes, sheets, plywood, metal plates, and other materials quickly and efficiently. Save time, reduce waste, and increase profits with intelligent cutting plans designed to make the most of every piece. Whether you’re working in construction, carpentry, metalwork, fabrication, or DIY projects, Cutter gives you the flexibility and control you need. Key Features: Save and manage personalized cutting lists with custom names. Optimize cutting for bars, pipes, tubes, and sheets. Enter different material sizes and combine cuts to minimize waste. Reuse leftover scraps for maximum efficiency. Generate sheet-cutting layouts with clear cutting diagrams for easy visualization. View cuts in grouped or individual formats. Share optimized results via email or messaging. Cutter offers everything you need to optimize your cuts, save money, and work smarter. in-app purchase included Lifetime to Remove Ads Privacy Policy : https://docs.google.com/forms/d/e/1FAIpQLSc5seT5eTkoZtkbUQKlE1qsSQrl8zg3rc1WgOcbGV4XnXZ-zA/viewform?usp=header Support URL : https://docs.google.com/document/d/1Dn1gNdDP2AHL7sg-px4rxdLAcoGHlNB8/edit#heading=h.1ionsc3v3xmq",
+      "averageUserRating": 5.0,
+      "userRatingCount": 1,
+      "currentVersionReleaseDate": "2026-06-10T19:50:30Z",
+      "releaseDate": "2025-11-26T08:00:00Z",
+      "genres": [
+        "Productivity"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutter-optimizer/id6753271681?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6790028605,
+      "trackName": "KerfMate: Cut List Optimizer",
+      "bundleId": "de.viralcrew.kerfmate",
+      "sellerName": "Jasko Hodzic",
+      "description": "Cut smarter before the blade touches material. KerfMate turns rectangular part lists into clear, low-waste cutting plans for sheet goods and linear stock. Plan plywood, MDF, panels, lumber, rails and profiles on iPhone or iPad—without an account, ads or tracking. PLAN SHEETS AND LENGTHS • Add parts, quantities and available stock • Optimize 2D sheets and 1D linear material • Respect blade kerf, edge trim, rotation locks and grain direction • See every placement in a visual plan • Inspect reference cut-edge coordinates for each placement • Identify parts that do not fit instead of hiding them KNOW THE MATERIAL IMPACT • See material-use percentage, stock count and estimated cost • Compare the plan with a simple one-part-per-stock baseline • Save useful offcuts in a local inventory • Work in metric or imperial measurements, including fractions BUILT FOR THE WORKSHOP • Duplicate projects to compare variants • Import parts from CSV • Export PDF plans, CSV lists, SVG layouts and JSON backups • Plan on iPhone and iPad with layouts tailored to each device • Choose English, German, Spanish, French, Italian or Brazilian Portuguese PRIVATE BY DESIGN KerfMate stores projects on your device. There is no account, backend, analytics, advertising or third-party tracking. Exports leave the app only when you choose a destination in Apple’s share sheet. FREE & PRO Free includes one project with up to 15 parts. KerfMate Pro unlocks unlimited projects and parts, offcut inventory, CSV import, variants and professional exports. Choose monthly, yearly with a 7-day trial for eligible new subscribers, or lifetime. Apple’s purchase screen shows the authoritative local price and trial eligibility. KerfMate creates practical low-waste layouts; it does not claim a mathematically optimal solution or prescribe a safe cutting order. Reference edges are coordinates, not machine instructions. Always choose a safe sequence and verify dimensions and machine setup before cutting. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://viralcrew.de/apps/kerfmate/privacy",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-07-17T08:22:58Z",
+      "releaseDate": "2026-07-17T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/kerfmate-cut-list-optimizer/id6790028605?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6787905177,
+      "trackName": "Boardcut: Cut List Optimizer",
+      "bundleId": "com.softgrove.boardcut",
+      "sellerName": "Ryosuke Igarashi",
+      "description": "Turn a parts list into an optimized cutting diagram — right at the lumber aisle. One-time purchase, no subscription, works fully offline. Boardcut takes the parts you need and the sheets and boards you have, and lays out where every cut goes — so you buy less material and waste less of what you buy. WHAT YOU CAN DO • Enter parts fast — a fraction keypad built for inches (24 3/8\" takes four taps), plus decimal and mm modes • Add stock from standard presets — 4x8 plywood, dimensional lumber — or enter your own sizes • Get an optimized cut diagram with engineering-style dimensions and grain arrows • Blade kerf is drawn at its real width on every cut — with edge trim and a minimum offcut size you control • Follow a numbered cut list: every rip and crosscut in order, linked to the diagram • See waste, yield, sheet count, cut count, and material cost at a glance • Reshuffle for an alternate layout when you want a second opinion • Lock grain direction on the parts that show • Switch units anytime — inch fractions, decimal inches, or millimeters — never paywalled • Two drawing-table themes: Workshop (birch and pencil) and Blueprint (cyanotype) FREE — THE FULL TOOL, UP TO 10 PIECES Plan a whole small project free: the optimizer, the cut diagram, the ordered cut steps, and sheet-image sharing. No account, no trial clock — nothing held back but project size. PRO — ONE PRICE. YOURS FOREVER. • Unlimited pieces per project • Vector PDF plans — diagrams, cut steps, and a shopping list, sharp in print • Save usable offcuts as stock for your next project • CSV export of parts and placements One-time purchase ($12.99). No subscription. All future updates included. PRIVATE BY DESIGN Your projects stay on your device. Boardcut collects nothing, has no account, no ads, no analytics, and works fully offline. Boardcut is a planning calculator. Always verify every dimension against your actual material before cutting — sheet sizes, blade kerf, and lumber dimensions vary. Boardcut does not provide instruction on tool use or workshop safety; follow your tool manufacturer's instructions and use proper safety equipment. Terms of Use (EULA): https://softgrove.github.io/boardcut-legal/terms.html Privacy Policy: https://softgrove.github.io/boardcut-legal/privacy.html",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-07-17T20:11:31Z",
+      "releaseDate": "2026-07-11T07:00:00Z",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/boardcut-cut-list-optimizer/id6787905177?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 6770951776,
+      "trackName": "Glessio: Cut List Optimizer",
+      "bundleId": "com.glessio",
+      "sellerName": "Yassine Mahfoud",
+      "description": "Glessio: Optimize Every Inch Transform your woodworking process with Glessio, the professional-grade cut list optimizer designed for carpenters, cabinet makers, and DIY enthusiasts. Stop guessing and start building. Glessio takes your material dimensions and part list to generate the most efficient cut schemas, saving you time, material, and money. Key Features: • Smart Optimization: Generate efficient board layouts automatically to minimize waste (up to 30% reduction). • Fast Data Entry: Input your part dimensions quickly and set project-specific parameters like blade kerf and edge margins. • Instant Visualization: View your optimized cut schemas clearly before you start your saw. • Professional Export: Generate and share clean, professional PDF reports for your workshop or clients. • Project Library: Organize and store all your board configurations in one place. Access, edit, or re-run your projects whenever you need them. Whether you are framing a structure or building custom cabinetry, Glessio adapts to your workflow, ensuring precision in every cut. Perfect for: • Cabinet Makers • Furniture Designers • Professional Carpenters • Home Woodworking Projects Download Glessio today and start optimizing every inch of your material.",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-06-03T01:05:51Z",
+      "releaseDate": "2026-05-27T07:00:00Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/glessio-cut-list-optimizer/id6770951776?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "cut list optimizer"
+    },
+    {
+      "trackId": 611543423,
+      "trackName": "Lucidchart",
+      "bundleId": "com.lucidchart.app",
+      "sellerName": "Lucid Software Inc",
+      "description": "This app requires a Team or Enterprise Lucidchart subscription. If you have a free or Individual level subscription please use the desktop or mobile web browser version. Lucidchart is the easiest way to create and view venn diagrams, flowcharts, mind maps, concept maps, org charts, UML activity diagrams on your mobile device. Lucidchart is a visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation. With this intuitive, cloud-based solution, everyone can work visually and collaborate in real-time. The app requires a Lucidchart account. Diagrams save and sync instantly online to your Lucidchart account, so you never lose your work Already a Lucidchart user? Just sign in and your documents will load automatically. Intuitive features: * Create new documents and edit your existing documents * Start with pre-built templates * Drag-and-drop functionality * View recent documents in offline mode * Real-time collaboration * In-editor commenting Easy to share and publish: * Export to PDF, PNG, and Microsoft Visio * Email documents to share with others * Generate shareable links Global compatibility: * Integrates with G Suite, Google Drive, Slack, Confluence, Jira, and more * Import Visio and OmniGraffle files * Runs on all major browsers and device operating systems Shape libraries for every scenario: * Flowcharts and process maps * AWS, Azure, and GCP shapes * Mockups and wireframes * UML, ER, and network diagrams * Mind maps and Venn diagrams * Org charts and BPMN diagrams Terms of Service https:/lucid.co/tos-mobile Privacy Policy https://lucid.co/privacy-mobile CONTACT US: You can always reach us at support@lucidchart.co with feedback or questions (you can tap \"Get Support\" or \"Send Feedback\" in the app). Thanks for considering Lucidchart! Lucidchart is utilized in over 180 countries by more than 20 million users, including business leaders looking to improve process flows, technical professionals mapping out network infrastructures, and people managers need to create org charts. Ninety-nine percent of the Fortune 500 use Lucidchart, and customers include Google, GE, NBC Universal, and Johnson & Johnson. Since the Utah-based company's founding in 2010, it has received numerous awards for its product, business, and workplace culture.",
+      "averageUserRating": 4.59349,
+      "userRatingCount": 5326,
+      "currentVersionReleaseDate": "2026-05-21T17:30:48Z",
+      "releaseDate": "2013-09-06T16:30:46Z",
+      "genres": [
+        "Productivity",
+        "Business"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/lucidchart/id611543423?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "cutting diagram plywood"
+    },
+    {
+      "trackId": 1477886919,
+      "trackName": "Color Saw 3D",
+      "bundleId": "com.colorsaw.game",
+      "sellerName": "AI GAMES FZ LLC",
+      "description": "Ever wanted to do carpentry but like to keep your fingers intact? With Color Saw, you can do both! Shape your rough blocks into various shapes with all kinds of tools. Cut and smash through countless levels.",
+      "averageUserRating": 4.62417,
+      "userRatingCount": 74541,
+      "currentVersionReleaseDate": "2024-03-07T06:22:53Z",
+      "releaseDate": "2019-08-29T07:00:00Z",
+      "genres": [
+        "Games",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-saw-3d/id1477886919?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "cutting diagram plywood"
+    },
+    {
+      "trackId": 1498901771,
+      "trackName": "Cut and Paint",
+      "bundleId": "com.painter.cutandpaint",
+      "sellerName": "AI GAMES FZ LLC",
+      "description": "Welcome to Cut and Paint, one of the relaxing wood-cutting and coloring games! Unleash your inner artist and experience the enchanting world of woodworking with Cut and Paint, the ultimate coloring game that combines the art of wood carving with the joy of coloring! Transform simple wooden boards into breathtaking masterpieces using a unique three-step process: Sand, Carve, and Paint. Before you start coloring, you need to prepare a wooden board. Begin your woodworking adventure by honing your carpentry skills. You need smoothen the wooden board's surface and prepare it for the next steps. Achieve precision as you create a flawless canvas for your artwork. Feel like a real carpenter! Enter the realm of laser art as you etch intricate designs on the sanded wood. Feel the power of the laser as you follow the contours, turning your blank canvas into a artwork. Make a perfect cut! Unlock new design templates as you level up, allowing you to unleash your creativity and bring your imagination to life. With a wide range of spray paint cans at your disposal, select your preferred hues and carefully apply them using stencils. Watch as your wooden canvas transforms into a stunning and vivid piece of art. Unlock an extensive library of laser art designs that cater to various themes, from nature and animals to abstract and geometric patterns. Choose from a vast array of vibrant colors to paint your creations, with customizable spray intensity for intricate details. Cut and Paint combines the satisfaction of carpentry with the intricacies of laser art and the vibrancy of spray painting! Embark on a journey of artistic expression through the fusion of wood carving and coloring. Experience the joy of transforming simple wooden boards into magnificent works of art like real carpenter! Privacy policy link: https://aigames.ae/policy#privacy Terms of use: https://aigames.ae/policy#terms",
+      "averageUserRating": 4.6314,
+      "userRatingCount": 155246,
+      "currentVersionReleaseDate": "2026-05-28T14:14:16Z",
+      "releaseDate": "2020-02-15T08:00:00Z",
+      "genres": [
+        "Games",
+        "Entertainment",
+        "Simulation",
+        "Casual"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "6016",
+        "7015",
+        "7003"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cut-and-paint/id1498901771?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "cutting diagram plywood"
+    },
+    {
+      "trackId": 6754165620,
+      "trackName": "WoodSense: Wood Plans & Guides",
+      "bundleId": "com.woodworking.identifier",
+      "sellerName": "Next Vision Limited",
+      "description": "Welcome to WoodSense: Craft & Identifier — your intelligent woodworking companion for identifying, restoring, and creating beautiful wooden furniture. Whether you’re a restorer, designer, or curious hobbyist, WoodSense helps you understand the story and structure behind every piece of wood. With a single photo, WoodSense reveals the wood species, joinery techniques, and historical style of any wooden object — from antiques to modern designs. Dive deeper with expert-level repair guides, cut lists, and restoration tips built into the app. What WoodSense Can Do 1. Identify Wood Instantly Snap a photo of any wooden furniture or material. WoodSense identifies the wood species, grain pattern, and probable period — oak, cherry, mahogany, walnut, pine, and more. 2. Discover Furniture History See where your piece fits in — from Queen Anne revival to mid-century minimalism. Learn about construction methods, typical joinery, and design influences. 3. Get Restoration Guidance Planning a repair? WoodSense provides detailed, step-by-step repair and refinishing instructions — including tools, adhesives, and safety notes, so you can work like a craftsman. 4. Create and Replicate Designs Turn inspiration into plans. Generate custom cut lists, joinery dimensions, and finish guides for your own woodworking projects. 5. Learn from Every Grain WoodSense helps you recognize patterns of craftsmanship — from mortise-and-tenon joints to dovetail artistry — so you can elevate your restoration or build. Who Is WoodSense For? Collectors & Restorers Reveal the history, materials, and care methods of your vintage or antique furniture. Woodworkers & DIY Makers Gain accurate design references, joinery techniques, and building guides for your own workshop. Design Enthusiasts Understand the artistry behind furniture and woodcraft — from traditional detailing to modern precision. Why Use WoodSense? • Smart Identification: AI-powered recognition for wood species and craftsmanship details. • Professional Guidance: Authentic restoration and build techniques used by experts. • Creative Tools: Generate scaled plans and personalized project templates. • Accessible Learning: Whether you’re a hobbyist or master craftsman, every step is clear and visual. Start Your Crafting Journey Download WoodSense today and discover the intelligence inside every grain. Build smarter, restore better, and bring craftsmanship to life — one piece at a time. About WoodSense Premium Unlock expert tools and unlimited identifications with WoodSense Premium: • Unlimited wood and furniture analyses • Access to full restoration workflows and cut-list exports • Early access to new style recognition updates Subscription Details: • Payment will be charged to your iTunes Account at confirmation of purchase. • Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. • Account will be charged for renewal within 24 hours before the end of the current period. • Any unused portion of a free trial, if offered, will be forfeited when a subscription is purchased. • Subscriptions may be managed by the user, and auto-renewal may be turned off in iTunes Subscriptions after purchase. Terms of Use: https://app-service.woodsensepro.com/static/user_agreement_20210224.html Privacy Policy: https://app-service.woodsensepro.com/static/privacy_policy.html",
+      "averageUserRating": 4.6839,
+      "userRatingCount": 7700,
+      "currentVersionReleaseDate": "2026-07-10T18:47:42Z",
+      "releaseDate": "2025-10-28T07:00:00Z",
+      "genres": [
+        "Reference",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Reference",
+      "genreIds": [
+        "6006",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/woodsense-wood-plans-guides/id6754165620?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "cutting diagram plywood"
+    },
+    {
+      "trackId": 1625376749,
+      "trackName": "Cutting Studio",
+      "bundleId": "com.mklgv.CricutDesign",
+      "sellerName": "Mykola Goncharov",
+      "description": "Do you want to create cool projects with a Cutting Machine? We provide everything you need! We have over 100 cool projects available with step by step instructions. For Birthday, Easter, Christmas, Wedding this is just a small part of what you will get Each project has a cut file that you can easily import into your favorite program or use our handy editor You can also choose from 500 cool files and over 1000 fonts and create your own design right inside the app In addition, you can draw the design yourself using our editor and transfer it to your favorite cutting program. Every week we add new trending projects, fonts and designs so that you can create only what you will be proud of *Disclaimer: Designs for Plotter is not affiliated with Cricut in any way. Cricut, Cricut Design Space, Cricut Joy, Cricut Explore and Cricut Maker are copyrighted by Cricut Inc. Designs for Cricut is a free app. You can use a large percentage of the features completely free, but if you decide you like them, you can always upgrade to PRO. It costs $29.99 a year Privacy Policy: https://pages.flycricket.io/cricut/privacy.html Terms of Use: https://pages.flycricket.io/cricut/terms.html",
+      "averageUserRating": 4.38912,
+      "userRatingCount": 956,
+      "currentVersionReleaseDate": "2025-12-07T18:33:35Z",
+      "releaseDate": "2022-06-03T07:00:00Z",
+      "genres": [
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/cutting-studio/id1625376749?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "cutting diagram plywood"
+    }
+  ],
+  "errors": [],
+  "fetched_at": "2026-07-28T15:55:28+08:00",
+  "cache_hit": false,
+  "cache_path": "/Users/zhoujinyu/.claude/app-factory/itunes_cache/708350461eccfeef7e9b1af9.json"
+}

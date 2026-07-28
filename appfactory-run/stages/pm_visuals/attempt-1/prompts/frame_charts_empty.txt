@@ -1,0 +1,10 @@
+Whole-screen iPhone 17 Pro portrait UI mockup (640x1392) of a cross-stitch pattern studio app called ThreadGrid. Screen: "Charts" tab in empty-library state. Visual language: warm linen background (#F5EFE4) with subtle Aida cloth grid texture, white cards, rounded serif headings, thread-red #C0453E primary, indigo #3E5F8A secondary.
+
+Layout skeleton, centered composition, low density:
+1. Large centered illustration (~45% of screen): an empty wooden embroidery hoop with loose colorful thread skeins (red, indigo, sage) beside it and a threaded needle resting on linen, hand-drawn warmth, soft shadows.
+2. One-line serif headline below: "Your hoop is waiting".
+3. One supporting body line: "Import a photo to chart your first pattern."
+4. Primary button: rounded pill in thread-red with white text "Create a chart", with a small plus icon; below it a text-only indigo link "Browse stitch tips".
+5. Bottom tab bar with 4 icons (Charts grid active in red, Create plus, Stash spool, Settings gear).
+
+Density: low, generous breathing room. AVOID: text-only empty state, plain white background, device bezel, marketing banners, Chinese text.

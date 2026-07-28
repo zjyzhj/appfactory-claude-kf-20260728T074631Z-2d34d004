@@ -1,0 +1,10 @@
+Whole-screen iPhone 17 Pro portrait UI mockup (640x1392) of a cross-stitch pattern studio app called ThreadGrid. Screen: Chart export. Visual language: warm linen background (#F5EFE4), white cards, rounded serif headings, thread-red #C0453E, indigo #3E5F8A, monospaced codes.
+
+Layout skeleton, top to bottom, medium density:
+1. Top nav: close X, serif title "Export chart".
+2. Top preview (~40%): a polished pattern card preview — the finished fox cross-stitch grid rendered small with a legend column of DMC swatches and codes down the right side, framed like a printed chart card on white, slight paper shadow, caption "Chart card preview".
+3. Two format option cards stacked: card one "Share image" with a photo icon, subtitle "PNG pattern card, free"; card two "Printable PDF" with a document icon, subtitle "Multi-page chart + key, 1 credit", each with a chevron.
+4. Bottom balance row: a linen-tinted strip with a spool icon and monospaced "Export credits: 5" plus a small indigo text button "Get more".
+5. A full-width thread-red primary button "Export".
+
+AVOID: three-tier subscription paywall layout, pricing tiers, device bezel, Chinese text, marketing banners.

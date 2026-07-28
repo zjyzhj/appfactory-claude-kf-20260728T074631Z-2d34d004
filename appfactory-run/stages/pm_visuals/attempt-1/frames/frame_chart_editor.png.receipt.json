@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "backend": "claude_gpt_image_http_factory_relay",
+  "model": "gpt-image-2",
+  "requested_size": "640x1392",
+  "actual_size": "852x1846",
+  "bytes": 3025630,
+  "sha256": "65f3f124d404988893a60243ba1e5a25f6313b1890cb0f33d5f01bfe40548eb5",
+  "output_path": "/Volumes/zjySD/claude-app-factory/runs/kf-20260728T074631Z-2d34d004/stages/pm_visuals/attempt-1/frames/frame_chart_editor.png",
+  "prompt_file": "/Volumes/zjySD/claude-app-factory/runs/kf-20260728T074631Z-2d34d004/stages/pm_visuals/attempt-1/prompts/frame_chart_editor.txt",
+  "base_url": "http://38.143.109.229:48761/v1",
+  "cred_source": "factory_keychain",
+  "timestamp": "2026-07-28T09:05:39Z"
+}

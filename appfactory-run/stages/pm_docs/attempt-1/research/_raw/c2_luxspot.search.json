@@ -1,0 +1,786 @@
+{
+  "schema_version": "appfactory.itunes_search_raw.v1",
+  "status": "ok",
+  "country": "us",
+  "seeds": [
+    "plant light meter",
+    "lux meter plants",
+    "light meter houseplant",
+    "plant placement light",
+    "measure light via camera at a spot, log spot profiles, match plant light needs to spots"
+  ],
+  "limit_per_seed": 25,
+  "cap": 30,
+  "per_seed": [
+    {
+      "term": "plant light meter",
+      "result_count": 23,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "lux meter plants",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "light meter houseplant",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "plant placement light",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "measure light via camera at a spot, log spot profiles, match plant light needs to spots",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    }
+  ],
+  "results": [
+    {
+      "trackId": 1450079523,
+      "trackName": "Photone - Grow Light Meter",
+      "bundleId": "com.dominikmaglia.korona",
+      "sellerName": "Lightray Innovation GmbH",
+      "description": "Take the guesswork out of plant lighting with Photone, the most accurate plant light meter app. Measure PAR, PPFD, DLI, lux, foot-candles, and color temperature (kelvin) directly with your phone or tablet. To measure light with research-grade accuracy, Photone uses the most precise sensor in your device: the camera. Its unique measurement algorithm works directly with the RAW camera sensor data to capture true light intensity. It rivals professional handheld PAR meters, and goes even further by helping you interpret the numbers with in-app guides, tools, and additional features. MEASUREMENTS ⎷ Photosynthetically Active Radiation (PAR) as PPFD in µmol/m²/s ⎷ Daily Light Integral (DLI) in mol/m²/d ⎷ Illuminance in lux or foot-candles ⎷ Light color temperature in kelvin * ⎷ Extended PAR (ePAR) including far-red light (ePPFD, eDLI) * TOOLBOX ⎷ Heatmaps — Create exportable PAR maps, PPFD maps, DLI maps, lux maps, and more ⎷ Logging — Track measurements over time as an interactive chart, Auto-Log sessions, and export them FEATURES ⎷ Industry-leading accuracy, comparable to professional PAR quantum sensors ⎷ Pre-calibrated for your specific device ⎷ Excellent low light sensitivity to detect light pollution for plants ⎷ No ads ⎷ No Bluetooth and location permission required ⎷ In-app guides ⎷ Light source selection for every type of grow light (LED, HPS, CMH, etc.) * ⎷ Average and peak readings * ⎷ Plant light calculator ⎷ Hands-free “read aloud” function * ⎷ Special underwater measurement mode * ⎷ Custom calibration option to align readings to another meter ⎷ Premium support for advanced grow questions * * These features require an in-app purchase to fully unlock DIFFUSER REQUIRED Like every real light meter, Photone requires a diffuser to measure accurately. A diffuser scatters incoming light evenly on the sensor and prevents hotspots. While it may sound complex, the solution is surprisingly easy. You have two options: 1) Easily build a diffuser yourself in less than a minute using standard printer paper. This is accurate enough for most use cases. 2) Get the dedicated Diffuser Accessory (free worldwide shipping) for best accuracy and convenience. More details on https://lightray.io/diffuser/. (!) Do not rely on apps that do not require a diffuser. They are inaccurate because they ignore the basic physics of light measurement. UPGRADE OPTIONS Photone is free to download and use, with no ads or hidden costs. To unleash its full potential, it offers two types of upgrades: → Lifetime unlocks — one-time purchase, always restorable via your Apple Account → Pro subscription — full access for as long as you subscribe, cancel anytime Photone took 5+ years of R&D to develop. Upgrading unlocks powerful features and keeps the app ad-free for everyone. As a member of 1% for the Planet, we donate at least 1% of all revenue to environmental non-profits — so every purchase helps both your plants and the planet. ACCURACY Apps developed by Lightray Innovation are developed according to the ISO/CIE 19476 standard. Thanks to RAW image processing and a default calibration per device model they’re able to match the performance of high quality traditional hardware light meters. To ensure quality we rigorously test our apps regularly on upcoming devices. DOWNLOAD FOR FREE. TRUSTED BY MILLIONS. Optimized for plant growers and indoor gardeners – whether you're growing in a grow tent, greenhouse, hydroponics system, an aquarium, or just want the best quantum meter app for your LED grow lights, Photone has got you covered. Terms and Conditions: https://growlightmeter.com/terms/",
+      "averageUserRating": 4.62154,
+      "userRatingCount": 4875,
+      "currentVersionReleaseDate": "2026-07-15T07:53:21Z",
+      "releaseDate": "2019-04-24T00:07:48Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/photone-grow-light-meter/id1450079523?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 6744124460,
+      "trackName": "Bask Light Meter",
+      "bundleId": "com.proteanstudio.basklightmeter",
+      "sellerName": "Protean Studio LLC",
+      "description": "With Bask Light Meter, you can use your device's camera to measure sunlight to help you place your house plants where they will thrive.",
+      "averageUserRating": 4.125,
+      "userRatingCount": 8,
+      "currentVersionReleaseDate": "2025-08-06T17:24:38Z",
+      "releaseDate": "2025-06-18T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Utilities"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/bask-light-meter/id6744124460?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "18.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1554264761,
+      "trackName": "Light Meter LM-3000",
+      "bundleId": "io.lightray.lightmeter",
+      "sellerName": "Lightray Innovation GmbH",
+      "description": "Turn your smartphone into a professional-grade light meter. Measure illuminance (lux/foot-candle) and color temperature (CCT in Kelvin) with unmatched accuracy — trusted by photographers, engineers, and lighting professionals worldwide. Why waste money on a hardware meter when you’re already carrying one in your pocket? The LM-3000 offers the same quality and usability as a traditional hardware light meter. Developed by optics scientists at the Zurich University of Applied Sciences, LM-3000 is the only light meter app scientifically validated for accuracy. It achieves professional-grade precision by leveraging your iPhone's front-facing camera sensor with advanced RAW image processing. Unlike relying on estimates like other apps, it adheres to the ISO/CIE 19476 standard, ensuring measurements you can trust for critical applications. MEASUREMENTS ⎷ Illuminance in lux or foot-candles ⎷ Correlated color temperature in kelvin FEATURES ⎷ Industry-leading accuracy, matching professional high-end lux meters ⎷ Pre-calibrated for your specific device ⎷ Excellent low light sensitivity to detect light pollution ⎷ No ads ⎷ No Bluetooth and location permission required ⎷ In-app manual ⎷ Save peak reading ⎷ HOLD function with acoustic signal ⎷ Custom calibration option to align readings to another meter DIFFUSER REQUIRED Like every real light meter, the LM-3000 requires a diffuser to measure accurately. A diffuser scatters incoming light evenly on the sensor and prevents hotspots. While it may sound complex, the solution is surprisingly easy. You have two options: 1) Easily build a diffuser yourself in less than a minute using standard printer paper. This is accurate enough for most use cases. 2) Get the dedicated Diffuser Accessory (free worldwide shipping) for best accuracy and convenience. More details on https://lightray.io/diffuser/ (!) Avoid apps that don’t require a diffuser! They are inaccurate because they ignore the basic physics of light measurement. TRY BEFORE YOU BUY The LM-3000 is free to download and comes with a free trial period. The trial period lasts for two non-consecutive days, giving you enough time to see if the app fits your needs. The status of your free trial will be shown as the \"battery level\" on the top right of the LM-3000's display and on the \"Battery Status\" screen. Once your light meter's \"battery\" is depleted, you may choose a Charging Option to keep using the app. You can pick what works best for you: → Single Charge — top-up for another 48 hours (perfect for occasional use), → Continuous Charging — a monthly subscription (great if you use it regularly), → Unlimited Battery — a one-time purchase for unlimited lifetime access LM-3000 is the result of over five years of dedicated research and development, ensuring you get a tool that is precise and reliable. Every in-app purchase supports future development and helps keep the app ad-free for everyone. As a member of 1% for the Planet, we donate at least one percent of all revenue to environmental non-profits — this is our way of giving back. ACCURACY Accuracy is not an afterthought — Apps developed by Lightray Innovation are developed according to the ISO/CIE 19476 standard. Thanks to RAW image processing and a default calibration per device model they’re able to match the performance of high quality traditional hardware light meters. To ensure quality we rigorously test our apps regularly on upcoming devices. DOWNLOAD FOR FREE. TRUSTED BY MILLIONS. LM-3000 is the go-to light meter for photographers, professionals, engineers, and lighting enthusiasts who rely on accurate measurements — not estimates or guesswork. Download for free today and experience the difference! See the app in action: https://youtu.be/EJW7NfE2qCk Terms and Conditions: https://lightray.io/lightmeter/terms/",
+      "averageUserRating": 4.51245,
+      "userRatingCount": 2531,
+      "currentVersionReleaseDate": "2026-07-24T06:45:42Z",
+      "releaseDate": "2021-03-09T08:00:00Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/light-meter-lm-3000/id1554264761?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1213431133,
+      "trackName": "Plant Light Meter",
+      "bundleId": "com.studionanoship.PlantLight",
+      "sellerName": "Studio Nano Ship Inc",
+      "description": "After excessive watering, lack of light is the second most common cause of death of indoor plants. Better light conditions will keep your plants healthy. Measure your plants’ ideal light levels for the price of a cup of coffee! How to use: - Launch the application - Point the camera toward the plant’s leaves - Press the “Measure” button How to interpret the measurement: - Very low light: Difficult conditions for plants to survive. - Low light: For plants that can tolerate low levels of light, such as the aglaonema, parlor palm, and philodendron. - Medium light: For the majority of indoor plants, such as the Dracaena, Pothos, and spider plant. - High light: For plants that love light, such as the zebra plant, areca palm, and croton. Features: - Detection of natural light & artificial lights - Compatible with rear camera only Notes: This application allows you to measure the light levels of indoor plants. However, if you need very precise measurements, the use of professional equipment is recommended.",
+      "averageUserRating": 4.57223,
+      "userRatingCount": 1073,
+      "currentVersionReleaseDate": "2022-10-13T19:24:25Z",
+      "releaseDate": "2017-05-24T04:39:08Z",
+      "genres": [
+        "Utilities",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/plant-light-meter/id1213431133?uo=4",
+      "price": 2.99,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1410126781,
+      "trackName": "Planta: Plant & Garden Care",
+      "bundleId": "com.stromming.Plants",
+      "sellerName": "Planta AB",
+      "description": "*EDITORS' CHOICE & APP OF THE DAY* Keep your plants alive. Without guesswork. Planta helps you identify plants, understand their needs, and care for them with confidence. Get a complete care guide at the exact moment your plants need it. Identify any plant in seconds Take a photo to instantly identify your plant and receive a tailored care plan based on its species and needs. Never forget to care for your plants Use our smart tracker to create personalized schedules for watering, fertilizing, repotting, pruning, misting, and more. Care reminders adapt to your home environment, local weather, and plant type. Fix plant problems before it’s too late Yellow leaves, brown spots, pests, or slow growth? Dr. Planta analyzes symptoms and guides you step by step with clear treatment recommendations. Understand light conditions in your home Use the built-in light meter to find the right spot for each plant and avoid common light-related mistakes. Track progress and build better habits Log care activities, monitor plant health over time, and document growth in your personal plant journal. Share care when you’re away Going on holiday? Invite family or friends to help with plant care and see completed tasks in real-time for total peace of mind. Learn from other plant owners Join a community of plant lovers to share tips, ask questions, and grow your confidence as a plant parent. Add plants instantly with AI glasses from Meta Just look at a plant to add it, no typing needed. Planta is trusted by millions of users to help their plants survive and thrive. Whether you’re caring for your first plant or a growing indoor jungle. Let Planta turn you into a confident, thriving plant parent! The total cost of the purchase will be charged to your iTunes Account at confirmation of purchase. The account will be charged for renewal within 24-hours prior to the end of the current period with the same amount unless cancelled. You can cancel at any time or change your subscription in your iTunes account settings. Read more in Privacy Policy https://getplanta.com/en/privacy-policy and Terms of Use https://getplanta.com/en/terms-and-conditions",
+      "averageUserRating": 4.75547,
+      "userRatingCount": 112495,
+      "currentVersionReleaseDate": "2026-07-04T04:24:15Z",
+      "releaseDate": "2018-11-07T18:29:04Z",
+      "genres": [
+        "Lifestyle",
+        "Reference"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6006"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/planta-plant-garden-care/id1410126781?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "18.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 6755839439,
+      "trackName": "Light Meter For Plants",
+      "bundleId": "Nico-Melian.lightmeterforplants",
+      "sellerName": "Nicolas Gustavo Melian",
+      "description": "Light Meter for Plants Turn your iPhone camera into a precise lux light meter. Measure the light in any spot of your home and instantly know which plants will thrive there. How it works Point your camera at any location and get an accurate lux reading in real time. The app categorizes the light level (Low Light, Medium Light, Bright Indirect, or Direct Sun) and shows you a list of compatible plants for that specific spot. Find the perfect plant for every corner Stop guessing if that shelf is too dark for your Monstera or if your windowsill gets enough sun for succulents. With over 50 plants in the database, you can browse by light category and see exactly what each plant needs to stay healthy. Plant care made simple Each plant comes with detailed light requirements (minimum and maximum lux), placement tips, and warning signs to watch for. Know if your measured spot is ideal, acceptable, or not recommended before you commit. Features: - Real-time lux measurements using your camera - Light categories explained in plain terms - Plant database with scientific names and care tips - Save measurements to track different spots - Compare your light levels with plant requirements - Works offline, no account needed Whether you are a beginner trying to keep your first houseplant alive or a collector optimizing every shelf, this light meter gives you the data you need to make better decisions. --- Privacy Policy: https://meliann.notion.site/Privacy-Policy-for-Light-Meter-For-Plants-2b8476f8f04180bfbfa3e7cc642f0cdc Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 3.28571,
+      "userRatingCount": 7,
+      "currentVersionReleaseDate": "2026-03-09T08:59:46Z",
+      "releaseDate": "2025-11-29T08:00:00Z",
+      "genres": [
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/light-meter-for-plants/id6755839439?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.6",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1600813756,
+      "trackName": "VIVOSUN",
+      "bundleId": "com.vivosun.ios",
+      "sellerName": "VIVOSUN INC",
+      "description": "Transform your growing experience with the VIVOSUN App, designed to automate and simplify your plant care. Whether you're a beginner seeking easy automation for light, ventilation, and circulation, or an expert aiming for precise environmental control, The Smart Grow System places control at your fingertips. The VIVOSUN App manages your VIVOSUN GrowHub Controller: - Real-Time Monitoring: Keep tabs on temperature, humidity, VPD, and the status of all your grow devices connected to the GrowHub Controller - Manual Controls: Adjust day/night cycles, temperature, humidity, light spectrum, fan speed, and more directly from the app - Grow Recipes: Set automated parameters for different growth stages, ensuring your equipment always meets your plants' needs - Climate Tracking: Monitor conditions in your grow space for comprehensive plant health insights - Alerts: Receive notifications before temperature or humidity issues arise, so you can stay on top of your grow Grow Diaries: - Log Growth: Log and track growth through a diary so you can understand how your plants have changed over time - Set Reminders: Manage watering and feeding schedules with ease - Add Photos & Notes: Securely store and share plant information - Share Experiences: Connect with other growers and exchange insights - Optimize Growth: Achieve optimal growth when you combine your Grow Diary data with the VIVOSUN GrowHub Controller, which monitors performance of your smart devices—the perfect environment is at your fingertips! The VIVOSUN shop at hand: - Easy shopping that is 100% secure - Free shipping on orders over $99 - Be the first to access promotional discounts!",
+      "averageUserRating": 4.73571,
+      "userRatingCount": 8018,
+      "currentVersionReleaseDate": "2026-07-24T20:02:29Z",
+      "releaseDate": "2022-04-18T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Shopping"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6024"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/vivosun/id1600813756?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.6",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 6504260709,
+      "trackName": "Lux Light Meter & Photometer",
+      "bundleId": "com.it-incubator.lightmeter",
+      "sellerName": "ITincubator UAB",
+      "description": "Light Meter is a versatile and precise solution for measuring light in various environments. Whether you're a photographer capturing perfect shots, a plant enthusiast ensuring ideal lighting conditions, or simply someone optimizing workspace illumination, this app offers all the features you need. Key Features: • Real-Time Color Temperature: Get accurate color temperature readings to capture the right mood and ambiance for your photos. • Lux & Foot Candle Measurements: Measure light intensity using your preferred units, ensuring precision for any industry or setting. • Average & Max Light Values: Monitor fluctuations in light levels with detailed average and peak readings. • Shooting Recommendations for Photographers: Receive real-time suggestions for shutter speed, aperture, and ISO based on current lighting. • Manual Control: Easily adjust and fix individual settings like shutter speed, aperture, and ISO for complete customization. Light Meter goes beyond photography — it's a must-have tool for plant care, workspace optimization, and any situation where light makes a difference. Privacy policy: https://it-incubator.eu/en/privacy-policy ​Terms of use: https://it-incubator.eu/en/terms-of-use",
+      "averageUserRating": 4.84772,
+      "userRatingCount": 197,
+      "currentVersionReleaseDate": "2026-07-15T07:41:40Z",
+      "releaseDate": "2025-02-12T08:00:00Z",
+      "genres": [
+        "Utilities",
+        "Photo & Video"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6008"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/lux-light-meter-photometer/id6504260709?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 6479329051,
+      "trackName": "PPFD METER - Grow Light Meter",
+      "bundleId": "app.ppfd.ppfdmeter",
+      "sellerName": "Candas Pamukcu",
+      "description": "Perfect for both seasoned gardeners and beginners, PPFD Meter sets itself apart from standard grow light meter apps with its comprehensive features and intuitive design. Using your phone's built-in sensors or the acclaimed UNI-T UT383 BT sensor via Bluetooth, PPFD Meter provides precise and reliable light measurements. This accuracy is essential for understanding and optimizing the light your plants receive, ensuring their health and growth. PPFD Meter is more than a light measurement tool; it's a guide to understanding your plants' needs. It converts LUX readings into PPFD (Photosynthetic Photon Flux Density) and DLI (Daily Light Integral), providing critical insights for your lighting setup. Customize up to five different settings profiles for various environments or growth stages, making your plant care as unique as your garden. Advanced Light Mapping and Analysis Step into a new era of light management with PPFD Meter's advanced light mapping capabilities. Our exclusive PAR and DLI Maps feature offers a vivid, detailed representation of light distribution across your grow area, enabling precise adjustments for optimal plant growth. But that's just the beginning: In-Depth Light Analysis: Measure light uniformity to ensure even plant growth, and evaluate your setup's PPF (Photosynthetic Photon Flux) to understand the total light output. Efficiency and Consumption Insights: Assess the efficiency of your lighting system in converting energy into usable light. Track the daily total energy consumption to manage your energy usage and environmental impact effectively. Comprehensive DLI Tracking: Monitor the Daily Light Integral, a key factor in regulating plant health and growth cycles, ensuring your plants receive the right amount of light each day. These advanced features make PPFD Meter not just an app, but a vital partner in your indoor gardening journey. It’s a leap forward from typical grow light meter apps, offering a depth of analysis and customization that truly enhances your plant care experience. Download PPFD Meter today and embark on a journey of precision and expertise in plant care. Your plants will thrive like never before! Privacy Policy: https://www.ppfd.app/pp Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.67307,
+      "userRatingCount": 104,
+      "currentVersionReleaseDate": "2026-04-06T22:36:55Z",
+      "releaseDate": "2024-04-04T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/ppfd-meter-grow-light-meter/id6479329051?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "18.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 6760642113,
+      "trackName": "PlantLight - Light for Plants",
+      "bundleId": "com.sunji.PlantLightMeter",
+      "sellerName": "极 孙",
+      "description": "Measure ambient light and identify if your plant is getting enough. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-04-20T02:05:56Z",
+      "releaseDate": "2026-04-03T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Utilities"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/plantlight-light-for-plants/id6760642113?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 6761759935,
+      "trackName": "Light Meter: Lux & Plants",
+      "bundleId": "com.nextline.luxLightMeter",
+      "sellerName": "NEXTLINE YAZILIM LIMITED SIRKETI",
+      "description": "Light Meter turns your iPhone into an ambient light meter that explains what the reading means. Point your phone, get a lux value, and instantly see a plain-English interpretation: \"Bright indirect light — good for most indoor plants\" or \"Too dim for comfortable desk work.\" Unlike other light meter apps that show a raw number and leave you guessing, Light Meter tells you whether the light is actually adequate for what you need. MEASURE WITH MEANING • Instant lux and foot-candle readings from your front camera • Contextual labels for plants, desks, rooms, and photography • Two modes: Quick Check (instant) or White Paper (improved accuracy) • No extra hardware or diffuser needed for Quick Check mode COMPARE SPOTS SIDE BY SIDE • Measure Spot A, then Spot B — see the ratio instantly • \"Spot B is 2.8× brighter\" — answers the real question • Perfect for finding the best window, desk, or plant corner SAVE & SHARE RESULTS • Save readings with timestamps to track changes over time • Generate shareable result cards for plant groups and social media • Review measurement history and comparison results anytime BUILT FOR REAL PEOPLE, NOT LAB TECHNICIANS Light Meter is designed for plant owners checking if a shelf gets enough light, remote workers evaluating desk brightness, photographers scouting locations, and anyone who wants a quick answer about lighting — not a wall of technical data. HOW IT WORKS 1. Open the app and point the front camera at any spot 2. Get a live lux reading with contextual interpretation 3. Compare two locations side by side 4. Save and share your results TWO MEASUREMENT MODES Quick Check: Instant readings with no setup — great for fast comparisons. White Paper: Place a white sheet over the camera for improved accuracy through better light diffusion. PREMIUM Premium unlocks unlimited measuring, saved history, and shareable reading cards. Available packages: • Weekly • Yearly • Lifetime Note: Light Meter provides approximate readings for practical everyday use. It is not a certified measurement instrument and should not be used for regulatory compliance or safety-critical applications. Privacy: Your camera sensor reads light levels only — no photos are taken or stored. All measurements stay on your device. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 5.0,
+      "userRatingCount": 2,
+      "currentVersionReleaseDate": "2026-04-17T06:22:02Z",
+      "releaseDate": "2026-04-16T07:00:00Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/light-meter-lux-plants/id6761759935?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1292598866,
+      "trackName": "Lux Light Meter Pro",
+      "bundleId": "com.lspapps.Light-Meter-Free",
+      "sellerName": "Marina Polyanskaya",
+      "description": "Light Meter is a 2-in-1 light intensity (lux) and exposure meter with customizable settings. Whether you want to capture the perfect photo or optimize lighting in any space, Light Meter provides professional-quality readings right on your phone. Forget about expensive professional equipment that you have to carry around. With Light Meter, you can get light intensity data with just one click to choose the best settings for manual or film photography, adjust home, work, or greenhouse lighting, and prevent eye strain from poor lighting. Features: - intuitive and customizable controls - for front and back cam - collects light intensity data in real time - instant lux and foot candle measurements - real-time color temperature measurements - real-time histogram plotting - customizable settings for shutter speed, ISO, aperture - preview and adjust diaphragm settings before shooting Have any questions or suggestions? Write to us: sparkappsfeedback@gmail.com Terms of Use - https://www.iubenda.com/terms-and-conditions/82717056 Privacy Policy - https://www.iubenda.com/privacy-policy/82717056",
+      "averageUserRating": 3.94475,
+      "userRatingCount": 5104,
+      "currentVersionReleaseDate": "2025-10-10T06:37:18Z",
+      "releaseDate": "2017-10-06T01:44:23Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/lux-light-meter-pro/id1292598866?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1297903210,
+      "trackName": "Photo Light & Exposure Meter",
+      "bundleId": "com.softlab.exponometerfree",
+      "sellerName": "Pavel Bukhonov",
+      "description": "A light meter that is always with you! It will help you understand how to take pictures correctly and allow you to experiment with the settings in real time. Nothing extra. Large and comfortable controls. And everything is in full view. Capabilities: - Selection of optimal shooting values ​​in real time - Ability to change and fix individual values ​​such as shutter speed, aperture, ISO, while the rest (not fixed) will also be selected in real time. - Ability to take a preliminary picture and play with its settings. Let's say to see how everything would be if the diaphragm changed. - Ability to save a snapshot with all parameters including geolocation. - Measurement of color temperature in real time - Plotting histograms in real time - An indispensable tool for the photographer. For all questions, write to pbukhon@gmail.com or write to us directly from the application! Privacy Policy - https://www.iubenda.com/privacy-policy/69911161 Terms Of Use - https://www.iubenda.com/terms-and-conditions/69911161",
+      "averageUserRating": 4.49768,
+      "userRatingCount": 3229,
+      "currentVersionReleaseDate": "2026-05-06T18:36:46Z",
+      "releaseDate": "2017-11-17T06:27:35Z",
+      "genres": [
+        "Utilities",
+        "Photo & Video"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6008"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/photo-light-exposure-meter/id1297903210?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1628111038,
+      "trackName": "Plant Light Meter: Lux & PPFD",
+      "bundleId": "katdev.com.lightmeter",
+      "sellerName": "Kurtulus Ahmet TEMEL",
+      "description": "Is your plant getting enough light? Find out in seconds. Light meter for plants — measures lux and foot candle intensity using your iPhone camera. Plus professional PPFD and PAR readings for grow lights, and Daily Light Integral (DLI) tracking. Designed specifically for indoor plant parents and serious growers. —————————————————————— WHY YOUR PLANTS NEED A LIGHT METER After overwatering, insufficient light is the #1 killer of indoor plants. Most plant owners guess — but different species need dramatically different light levels. A Snake Plant thrives in 500 lux. A Fiddle Leaf Fig needs 10,000+. Stop guessing. Start measuring. —————————————————————— WHAT MAKES THIS APP DIFFERENT Unlike generic lux meter apps built for electricians, Light Meter for Plant is designed for plant care: PROFESSIONAL PPFD & PAR (Premium) Switch the unit to PPFD for grow-light-grade readings in μmol/m²/s. Pick your light source (Sunlight, Cool LED, Warm LED, HPS, Fluorescent) for accurate conversions. PAR estimates included. DAILY LIGHT INTEGRAL (DLI) In continuous mode, the app tracks the total photosynthetic light your plant receives over 24 hours — the metric serious growers care about most. Save daily snapshots and review your DLI history. PLANT NAME TAGGING Tag each measurement with a plant name — pick from our 50+ plant database or add your own. Filter saved measurements by plant. See 7-day average lux per plant. PLANT RECOMMENDATIONS After every measurement, see which plants thrive in your current light conditions. 50+ plants with specific lux ranges. TWO MEASUREMENT MODES - Manual: Tap to take a single reading - Continuous: Real-time live monitoring with MIN, MAX, and AVG values THREE UNITS Switch between Lux, Foot Candle, and PPFD instantly. No conversion calculators needed. FRONT & REAR CAMERA Use your front camera for quick checks, or rear camera for precise readings in hard-to-reach spots. SAVE & COMPARE Save measurements with notes and plant tags. Track how light changes by window, season, or time of day. Export your data as CSV. LIGHT CATEGORIES Visual indicators show exactly where your reading falls: - Dark (0–500 lux) — Low light, far from windows - Shade (500–1,000 lux) — North-facing windows - Part Sun (1,000–4,000 lux) — East or west windows - Full Sun (4,000–5,000 lux) — South-facing windows - Direct Sun (5,000+ lux) — Direct sunlight exposure —————————————————————— PERFECT FOR - Indoor plant parents checking window light levels - Grow light users measuring PPFD output - Cannabis & vegetable growers tracking DLI - Office workers optimizing desk plant placement - Plant shop owners measuring display areas - Hydroponics enthusiasts —————————————————————— SIMPLE PRICING Free: 10 measurements per day, plus a free taste of PPFD. Premium: PPFD/PAR mode, DLI tracking, unlimited measurements and saves. —————————————————————— Disclaimer: Light Meter for Plant uses your device camera sensor and provides estimated lux/PPFD values. For professional research-grade measurements, please use a dedicated quantum meter. Privacy Policy: https://kurtulusahmet.com/lightmeter/privacy-policy.html Terms of Use: https://kurtulusahmet.com/lightmeter/term-of-use.html",
+      "averageUserRating": 1.72727,
+      "userRatingCount": 11,
+      "currentVersionReleaseDate": "2026-06-25T15:39:57Z",
+      "releaseDate": "2022-06-10T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/plant-light-meter-lux-ppfd/id1628111038?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 6751297015,
+      "trackName": "Grow Calc: Plant Light Meter",
+      "bundleId": "grow.calc",
+      "sellerName": "Sergey Vishnyov",
+      "description": "Grow Calc – Smart Grower’s Calculator Grow Calc is an all-in-one toolkit for growers, combining precise calculators and reference tools to optimize every aspect of plant cultivation. From light and canopy planning to climate, irrigation, nutrition, and water chemistry, Grow Calc provides instant insights based on proven horticultural formulas. Whether you are a hobby gardener, hydroponic enthusiast, or commercial grower, Grow Calc helps you plan, measure, and fine-tune your setup for healthier plants and higher yields. KEY FEATURES: Lighting Calculators • Convert PPFD ↔ DLI and plan photoperiods. • Estimate PPFD from lux using light source spectrum. • Calculate required PPFD to reach a target DLI. • Analyze fixture efficiency (µmol/J) and coverage per area. • Predict PPFD at different heights with distance adjustments. • Determine dimming percentage for your target intensity. • Evaluate uniformity ratios (min/avg, min/max) across your canopy. Canopy and Yield Planning • Plan planting density with row and spacing calculations. • Account for aisle losses to estimate effective growing area. • Calculate crown coverage, overlap percentage, and photons per plant. • Estimate DLI per plant and yield per square meter. • Forecast crop cycles per year and annual production. Climate Management • Calculate VPD (leaf and air) from temperature and humidity. • Get dew point, absolute humidity, and target RH for optimal VPD. • Estimate CO₂ injection rates and cylinder duration. • Plan dehumidification needs based on canopy area. Irrigation Tools • Perform dilution calculations (C1·V1 = C2·V2). • Calculate runoff percentage and cycle time per emitter. • Mix two water sources by EC to reach a target conductivity. • Plan daily irrigation schedule and net uptake. • Calculate system capacity and maximum plants supported by your pump. Nutrition Management • Convert EC to PPM with selectable TDS scales. • Calculate salt dosing based on target nutrient concentration. • Estimate acid requirements for pH adjustment. • Convert between mg/L and mmol/L. • Plan stock solutions and working concentrations. • Adjust and monitor N:P:K balance. Water Chemistry • Mix RO and tap water to reach target EC and alkalinity. • Calculate required dilution volumes for different water sources. • Convert alkalinity between mg/L CaCO₃ and dKH. Crop Presets • Access predefined target ranges for leafy greens, fruiting crops, cut flowers, potted plants, and ornamentals. • See recommended DLI, VPD, and CO₂ levels for each crop type. • Quick-check your own PPFD, hours, temperature, and humidity against preset ranges. Grow Calc brings together the essential calculations and reference values that growers use every day. Simple to use, accurate, and comprehensive — your reliable companion for modern cultivation. Privacy Policy: https://sergeyvishnyov.github.io/GrowCalc-site/ Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2025-08-28T10:47:21Z",
+      "releaseDate": "2025-08-21T07:00:00Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/grow-calc-plant-light-meter/id6751297015?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1636117065,
+      "trackName": "Light Meter: Lux-525 Pro",
+      "bundleId": "com.agi4dev.LightMeter",
+      "sellerName": "Andrey Ivankin",
+      "description": "Lux-525 Pro – universal, highly-precise, and easy to use light meter. - Requires no additional equipment, everything you need is already in your phone - Calibrated with professional light meter - Smart algorithm provides unsurpassed accuracy in all conditions - Real-time measurements of illuminance, color temperature, PPFD/PAR, DLI and luminous flux - Large collection of light sources necessary for accurate calculation of PPFD/PAR and DLI - Built-in calculator for convenient and precise calculation of various illumination parameters (PPFD, DLI, Lux, Fc, Lumens) - Share your measurements via a text message or email or save them to your phone Lux-525 Pro is the best-in-class digital light meter on the phone. It is intended for personal use and may not fully replace industrial-grade light meters. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://n17dev.web.app/light-meter/policy.html",
+      "averageUserRating": 4.46957,
+      "userRatingCount": 115,
+      "currentVersionReleaseDate": "2026-04-15T09:00:55Z",
+      "releaseDate": "2023-02-28T08:00:00Z",
+      "genres": [
+        "Utilities",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/light-meter-lux-525-pro/id1636117065?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.5",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 6447008772,
+      "trackName": "Lux Light Meter Pro for Photo",
+      "bundleId": "com.mindateq.lightmeter",
+      "sellerName": "AppLiks Sp. z O.O.",
+      "description": "Light Meter is the ultimate tool for precise, effortless, and versatile light measurement. This application stands as the epitome of accuracy, user-friendliness, and adaptability, making it an essential companion for photographers, plant enthusiasts, and anyone seeking optimal light adjustments in various spaces. Key Features: • Real-time Color Temperature Measurement: Witness the world in stunning color accuracy as Light Meter provides real-time color temperature readings. Perfect for photographers seeking to capture the precise mood and ambience of any scene or setting. • Lux and Foot Candles Light Measurements: Light Meter offers dual units - lux and foot candles - to ensure you have precise measurements regardless of your location or industry. • Average and Max Values: Stay informed about the fluctuations in light intensity with Light Meter's average and maximum value readings. This feature enables you to understand the full range of lighting conditions and make necessary adjustments accordingly. • Real-Time Shooting Value Recommendations: For photographers seeking that picture-perfect shot, Light Meter offers real-time shooting value recommendations. This feature suggests the ideal shutter speed, aperture, and ISO settings based on the prevailing lighting conditions. • Ability to change and fix individual values ​​(shutter speed, aperture, ISO): Photographers, in particular, will delight in the ability to fine-tune individual values such as shutter speed, aperture, and ISO directly within the application. Seamlessly adjust settings to attain the ideal balance of light for every shot. Beyond photography, Light Meter proves to be an invaluable asset in various other domains. Keep your plants thriving by ensuring they receive the optimum amount of light. Enhance your workspace environment by tailoring the illumination to your specific needs. You can purchase an auto-renewable subscription to get full access. Your subscription will be charged to your iTunes account at confirmation of purchase. The subscription automatically renews for the same price and the duration period depends on the selected plan (weekly, monthly, yearly) unless canceled at least 24 hours before the end of the current period. You can turn off the auto-renewal feature at any time by changing your account settings. Please choose from our standard subscription options below: 1-week subscription from $2.99; 1-month subscription from $5.99; 12-month subscription from $14.99. Prices may change depending on your country. Privacy Policy: https://appliks.com/privacy-policy ​​Terms of Use: https://appliks.com/terms-of-use",
+      "averageUserRating": 4.75113,
+      "userRatingCount": 442,
+      "currentVersionReleaseDate": "2026-06-25T08:33:56Z",
+      "releaseDate": "2023-09-07T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Photo & Video"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6008"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/lux-light-meter-pro-for-photo/id6447008772?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.6",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1638732220,
+      "trackName": "Lux Light Meter for Mobile",
+      "bundleId": "com.webrain.LightMeter",
+      "sellerName": "Webrain OU",
+      "description": "Light Meter - is the most accurate, easy-to-use and versatile light meter available. It is perfect for measuring and adjusting light levels in your environment. It is indispensable tool for the photographer, great for measuring light in your plants, workspace and other spaces. Features: - Measurement of color temperature in real time - Light measurements in lux and foot candles - The daily light integral (DLI) calculating - Average and Max values - Selection of optimal shooting values ​​in real time - Ability to change and fix individual values ​​(shutter speed, aperture, ISO) Please note, that the Light Meter app is not a replacement for a professional lux meter and should be used for personal needs only. If you have any questions or suggestions, please, contact us: info@webrain.ltd Privacy policy: https://webrain.ltd/lm/privacy-policy-light-meter-app.html Terms of service: https://webrain.ltd/lm/light-meter-terms-conditions.html",
+      "averageUserRating": 4.48018,
+      "userRatingCount": 227,
+      "currentVersionReleaseDate": "2025-02-15T15:44:00Z",
+      "releaseDate": "2022-11-10T08:00:00Z",
+      "genres": [
+        "Utilities",
+        "Photo & Video"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6008"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/lux-light-meter-for-mobile/id1638732220?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1527399597,
+      "trackName": "PlantIn: Plant Identifier・Care",
+      "bundleId": "xyz.plantin.app",
+      "sellerName": "Vortemol Limited",
+      "description": "PlantIn is always there for you! With our care plans, you will learn how to identify a plant, how often to water your trees, or why the leaf on your flower turned brown. We have a wide variety of features that every green thumb would fall in love with: ► Watering Calculator This feature will help to figure out the right amount of water your green pet needs. You just need to answer several questions regarding your plant’s conditions, and voila! ► Light Meter Here is another helpful tool that calculates the correct lighting level for your greens! Just click the Light Meter button and point the camera at the plant. Our AR-based technology will automatically scan the nearest environment, measure the amount of light, and tell if you need to move the plant to a brighter or shadier spot. ► Care Plans Plantkeeping will become even more effortless with our Personalized Care Plans. Request a plan for almost any species, from common houseplants to exotic cultivars. Your Snake plant care needs some improvements, or maybe you just got your first air plant and are not sure what to do with it? Get thorough watering, fertilization, lighting, and even pruning instructions easily and make ‘em grow! ► Care Notifications Our users say that our plant care app helps with organizing daily routines! Keep calm – we will send your reminders to make sure that all your green pets are following their watering and fertilization schedules. Moreover, there are special weather notifications so that you will be warned in case of storms, freezing temperatures, and other unfavorable conditions that may harm your outdoor oasis. ► Ask the Botanist Use this feature to get a consultation with our experienced gardening experts. Ask any questions regarding houseplant care and get custom recommendations, step-by-step guides, useful hints, and detailed instructions for your particular case. Last but not least, we are happy to present our latest update: ► Mushroom Identification Our fresh mushroom identifier will become a fav feature for every single shroom hunter! While designed to identify fungi online in several taps, we have implemented a technology for offline id: no more hesitation while outdoors in lush woods. Identify edible mushrooms for delicious dinners, learn new fungi species, and use our feature to detect poisonous specimens. PlantIn was created to provide loving care for each of your green pets, so let’s make this world greener and educate ourselves on botany together! Stay plantuned for more lifesaving info from our plant care app. Privacy Policy: https://legal.myplantin.com/vortemol/privacy_policy.html Terms of Use: https://legal.myplantin.com/vortemol/terms_and_conditions.html",
+      "averageUserRating": 4.5636,
+      "userRatingCount": 226693,
+      "currentVersionReleaseDate": "2026-07-21T07:07:47Z",
+      "releaseDate": "2020-08-14T07:00:00Z",
+      "genres": [
+        "Education",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/plantin-plant-identifier-care/id1527399597?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.4",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 6476405389,
+      "trackName": "Luminosys - Light Meter",
+      "bundleId": "com.oli.Luminosys",
+      "sellerName": "Melissa Zwick",
+      "description": "Luminosys allows you to accurately measure the ambient light level in Lux or Foot Candles (FC). To do this, Luminosys uses your phone's camera in conjunction with a piece of paper to accurately measure the light level. It is very easy to use and is a great app for those looking for accurate light measurements for photography, comparing light sources, or indoor gardening.",
+      "averageUserRating": 4.5,
+      "userRatingCount": 8,
+      "currentVersionReleaseDate": "2025-08-06T11:35:15Z",
+      "releaseDate": "2024-01-20T08:00:00Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/luminosys-light-meter/id6476405389?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1603599822,
+      "trackName": "Plant Identifier, Care: Planty",
+      "bundleId": "co.theplanty.plant.identification.care",
+      "sellerName": "LUNAPARK MEDYA INTERNET TEKNOLOJILERI SANAYI VE TICARET ANONIM SIRKETI",
+      "description": "Do your plants die despite your best efforts? Want to be a better plant parent? Save your plants with Planty! Watch them grow healthy and strong. Download Planty now and Try it for Free! Have trouble taking care of your plants? Say goodbye to your plant care problems! Here's Planty! Planty is a plant care guide & companion app that helps you identify plants around you, find the info, and set up care reminders for any plant. Try it now for free! Planty was developed by consulting expert botanists and hundreds of plant parents from around the world. Everything your plant needs, we've put it in Planty. Impressive Technological Features of Planty: ◉ SMART PLANT IDENTIFICATION SYSTEM The advanced artificial intelligence system allows you to identify more than thousands of Plants, Trees, and Leaves with high accuracy in a single snap! ◉ ADVANCED DISEASE & PEST DIAGNOSIS SYSTEM With the advanced artificial intelligence system, you can efficiently and accurately diagnose the diseases in your plant and create appropriate care solutions. ◉ CUSTOMIZABLE WATERING REMINDERS Planty will inform you about your plant's water needs and will help you to set up a watering reminder easily. ◉ THE MOST UPDATED PLANT INFORMATION Plant information in your pocket! Never guess your plant's needs. Just look it up on Planty! ◉ VIRTUAL GARDEN & WISHLIST Tracking your plant's progress has never been easier - just create your virtual garden on Planty! Want to capture every lovely plant you see? Our wishlist feature has got you covered. ◉ GLOBAL PLANT REVIEWS BY OTHER PLANT PARENTS Wondering whether a plant is a high maintenance or easy to care for? Find out what plant parents around you have to say! ◉ TOXICITY INFORMATION Find out about the toxicity of plants around you and keep your furry buddies safe! ◉ DISEASE DIAGNOSIS & TROUBLESHOOTING Save your dying plant with the Disease Diagnose feature. We'll tell you about your plant's problem as well as the cure too! (coming soon!) ◉ INTELLIGENT LIGHT SCAN FEATURE According to NASA's research, the most critical need of your plant is LIGHT! Thanks to Planty's Intelligent Light Scan feature, you can find the best location for your plant. Use our app to measure the light falling on your plant and choose an area where it can thrive! ---Try Planty for FREE and never kill another plant! ---- If you want to enjoy unlimited access to these features, you can purchase a premium package. Premium packages: 1. Weekly Package - 3 days trial - 6.99$ for a week 2. Monthly Package - No trial - 9.99$ for a month 3. Annual Package - No trial - 39.99$ for a year https://theplanty.co/terms-of-service.html https://theplanty.co/privacy-policy.html",
+      "averageUserRating": 4.69822,
+      "userRatingCount": 37783,
+      "currentVersionReleaseDate": "2026-07-17T07:04:59Z",
+      "releaseDate": "2022-02-11T08:00:00Z",
+      "genres": [
+        "Education",
+        "Utilities"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/plant-identifier-care-planty/id1603599822?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 1487453649,
+      "trackName": "Blossom - Plant Care Guide",
+      "bundleId": "com.apalonapps.plants",
+      "sellerName": "Mosaic S.r.l.",
+      "description": "Want to become a better plant parent? Meet Blossom – the app that guides you through plant parenthood. With Blossom, you can confidently grow and care for your plants with the support and inspiration you need. FEATURES PLANT CARE INFO Get your plant care questions answered! Learn more about your plants and find detailed plant care information on watering, propagating, pruning, fertilizing, and more. CARE REMINDERS Forget to water your plants on time? Not anymore! Get notified when it’s time to water, fertilize or repot your plant. ACCURATE PLANT IDENTIFICATION Identify more than 30,000 plants, flowers, succulents, and trees by taking a snap or uploading a photo from your gallery! Upload several images for better, more accurate identification. PLANT DISEASE ID Snap a photo to determine a diagnosis and Blossom will tell you how to care for it. You’ll be given detailed info on the disease, what caused it, how to treat it, and how to prevent it. WATER CALCULATOR Get customized watering recommendations, based on your plant type and the size of a pot. SHOP PLANTS AND CARE TOOLS Find our recommendations for new plant care tools your plant baby may need. Add them to your Amazon cart with one click. GUIDES FOR GROWING EDIBLE PLANTS Grow organic edible plants with Blossom! Plan your seeding season with a personalized planting calendar, and get additional care reminders for your edible plants. CUSTOM TREATMENT PLANS Sick of plant care struggles? Consult our AI Botanist to identify your plant's problems and get detailed treatment tips to help solve them. WEATHER ALERTS Receive alerts about upcoming weather changes and learn how to care for your plants in specific weather conditions. GREEN BLOG Dive into the world of plants and discover tons of plant care insights, tips, videos, and articles! NOTES Journal the life of your plants – monitor their growth and development, celebrate the first blooms, describe your plant care routine, or attach photos to see how your plant has changed. ADVANCED SEARCH Looking for a new plant to grow? Find a perfect green friend based on your criteria: light requirements, care difficulty level, plant type, pet safety, and more. PERSONAL PLANT COLLECTIONS Keep track of your green friends in one place! Group plants by room types and add the plants you are planning to grow to your personal “Wishlist.” Premium features: Unlimited plant identification Unlimited disease identification Unlimited water calculations Unlimited reminders Consultations with AI botanist * Subscription payments will be charged to your App Store account at confirmation of your purchase. Subscriptions will automatically renew and you will be charged unless auto-renew is turned off or unless you cancel at least 24 hours prior to the end of the current subscription or trial period. Any unused portion of a free trial period will be forfeited when you purchase a premium subscription during the free trial period. The cost of renewal depends on the Subscription Plan you choose. * Subscriptions and auto-renewal may be managed by going to Account Settings after purchase or by contacting Customer Support. For complete access to all Blossom features, you will need to allow access to the following: *Camera – to identify plants; *Gallery – to upload images for plant recognition; *Notifications – to get plant care reminders; *Location – to receive weather alerts. Privacy Policy: https://support.bendingspoons.com/privacy.html?app=1487453649 Terms of Service: https://support.bendingspoons.com/tos.html?app=1487453649 Contact us: support@blossomplant.com",
+      "averageUserRating": 4.6131,
+      "userRatingCount": 68712,
+      "currentVersionReleaseDate": "2026-03-19T07:58:39Z",
+      "releaseDate": "2020-02-27T08:00:00Z",
+      "genres": [
+        "Education",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/blossom-plant-care-guide/id1487453649?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.4",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 6772273072,
+      "trackName": "Light Meter: Plant Lux & PPFD",
+      "bundleId": "com.levi.plantlight",
+      "sellerName": "Phuc Pham",
+      "description": "Stop guessing where your plants will thrive. Point your camera at any spot to instantly read the brightness in real lux and foot-candles, then see exactly which houseplants belong there. KEY FEATURES • Instant readings — measure any windowsill, shelf or corner in lux and foot-candles • Match 12 popular houseplants against your exact light, from low-light pothos to sun-loving succulents • Save spots room by room and compare which window is brightest • Track how a spot brightens and fades across the day • Clear light categories: Low, Medium, Bright Indirect and Direct Sun • Works fully offline — no account, no ads, your data stays on your device HOW IT WORKS 1. Point your camera at the spot where a plant will live 2. Read the brightness instantly in lux and foot-candles 3. See matching plants and save the spot to a room FULL ACCESS Unlimited saved spots, room-by-room comparison and every plant match are unlocked with full access, available weekly, yearly or as a one-time lifetime purchase. Give every plant the light it deserves — download today. — LEGAL — Terms of Use: https://web-levi.web.app/terms Privacy Policy: https://web-levi.web.app/privacy-policy Support: tphuc.work@gmail.com",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-07-20T23:07:24Z",
+      "releaseDate": "2026-06-04T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/light-meter-plant-lux-ppfd/id6772273072?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "plant light meter"
+    },
+    {
+      "trackId": 6783321327,
+      "trackName": "LUX Meter - Light Meter",
+      "bundleId": "com.yannickstudio.LuxMeter",
+      "sellerName": "Yannick Binay",
+      "description": "LUX Meter is a private light meter for quick, practical illuminance checks with your iPhone camera. Measure ambient light in lux or foot-candles, compare rooms and work areas, check desk lighting, find brighter spots for plants, and see whether a space is too dim, comfortable, or bright enough for detailed tasks. Pick a target for your task — reading, office, kitchen, plants and more — and get instant \"too dim / good / too bright\" feedback as you move the phone. Simple and trustworthy: no account, no ads, no tracking, no photo storage. Features: - Lux and foot-candle readings - Lighting target presets with live in-range feedback - Live brightness scale with plain-language guidance - Hold mode to freeze a measurement - Session min, average and max - Calibration against one trusted lux value - Practical guide with common light levels - Paper-diffuser guidance for incident light - Private on-device camera metering Important: LUX Meter estimates illuminance from camera exposure. Great for quick checks, comparisons, and plant or room-light decisions. For regulated, safety-critical, or professional compliance measurements, use a certified lux meter.",
+      "averageUserRating": 5.0,
+      "userRatingCount": 1,
+      "currentVersionReleaseDate": "2026-07-12T19:03:24Z",
+      "releaseDate": "2026-06-27T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Photo & Video"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6008"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/lux-meter-light-meter/id6783321327?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "lux meter plants"
+    },
+    {
+      "trackId": 6759604310,
+      "trackName": "Light Meter・Lux Meter",
+      "bundleId": "io.zeroplay.luxmeter",
+      "sellerName": "ZeroPlay Ltd.",
+      "description": "Nail the exposure on every photo and every frame — no more guessing. Meter the real light of the scene and get the shutter speed, aperture or ISO you need in an instant, with EV at ISO 100 always in view. EXPOSURE FOR PHOTO AND CINE ▸ Aperture priority: set aperture and ISO, read the exact shutter speed ▸ Shutter priority: set the speed, get the f-stop that balances it ▸ Cine: enter shutter angle and frame rate, get the aperture ▸ Manual: a ±3-stop scale shows how far your setting sits from a clean exposure AMBIENT LIGHT AND STANDARDS ▸ Instant lux and foot-candle readings on a Dark-to-Bright gauge ▸ 15 built-in standards — office 300–500 lux, classroom 300–500, library 500+, hospital ward 100–200 — for work, school, healthcare, home and retail LIGHT FOR YOUR PLANTS ▸ Daily Light Integral (DLI, mol/m²/day) and PPFD from your light source and daily light hours ▸ 16 plants checked — Monstera 5–8, Snake Plant 3–6, Fiddle Leaf Fig 6–12, Tomato 20–30 mol/day LIGHT, MINUTE BY MINUTE ▸ Live trend chart from 1 second to 5 minutes with min, average and max, plus saved sessions to revisit Every reading comes from your device's ambient light sensor: a dependable guide for setting up a shot, lighting a room or placing your plants, not a certified laboratory instrument. Terms of Use: https://zeroplay.io/docs/legal/terms-of-service Privacy Policy: https://zeroplay.io/docs/legal/privacy-policy",
+      "averageUserRating": 5.0,
+      "userRatingCount": 2,
+      "currentVersionReleaseDate": "2026-07-13T06:42:58Z",
+      "releaseDate": "2026-03-21T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Photo & Video"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6008"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/light-meter-lux-meter/id6759604310?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "lux meter plants"
+    },
+    {
+      "trackId": 6686406948,
+      "trackName": "LUX Meter - Photo Light Meter",
+      "bundleId": "com.chov.007",
+      "sellerName": "sabiha naznin",
+      "description": "Our Light meter app is a powerful application to measure light intensity with precision. With our Light meter app you can analyse the light for photo shoots, designing interior, setting up a film set, care for your plants and many more. You can increase or decrease the amount of light depending on your adjustments though this light intensity measurement. Our features - - Real-time color temperature measurement - Light measurement in LUX - Real time Heat measurement with kelvin - Instructions with average & Maximum value readings - real time exposure measurement for photoshoot ot filming [Instruction for auto renewal subscription] Subscription Period: 1 week Subscription Price: $1.99/week Subscription Period: Lifetime Subscription Price: $14.99 Payment: Payment will be debited from the user's iTunes account and payment will be made after the user confirms the purchase. This price may vary from different apple regions. Your feedback matters. We continuously listen to you to improve our app. Please mail us at pinnacleapp2023@gmail.com about your suggestions, issues & feature requests. - Privacy Policy: https://sites.google.com/view/lux-meter-terms - Terms Of Use: https://sites.google.com/view/lux-meter-terms",
+      "averageUserRating": 5.0,
+      "userRatingCount": 1,
+      "currentVersionReleaseDate": "2025-03-27T20:45:55Z",
+      "releaseDate": "2024-09-16T07:00:00Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/lux-meter-photo-light-meter/id6686406948?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "lux meter plants"
+    },
+    {
+      "trackId": 6768301504,
+      "trackName": "LuxMeter - Light & EV Meter",
+      "bundleId": "com.pnkl.luxmeter",
+      "sellerName": "Linh Phan Nhat Khanh",
+      "description": "LuxMeter turns your iPhone camera into a precise light meter, giving you instant illuminance readings in lux, foot-candles, or exposure value (EV). Whether you are checking lighting conditions for work, photography, or plant care, LuxMeter delivers real-time measurements derived directly from your camera's exposure metadata using the industry-standard APEX formula. The live gauge updates continuously as you move the camera, and the automatic brightness category — from Moonlight to Direct Sun — tells you at a glance what kind of environment you are in. Hold any reading to freeze the display and share it, or save a session to keep a timestamped log of your measurements. Key features: - Real-time lux readings powered by camera exposure metadata - Displays lux, foot-candles (fc), and exposure value (EV) - Animated gauge with live min, avg, and max statistics - Hold mode to freeze and share a reading - Session history with bar chart and inline notes - EV calibration offset to match a reference meter - Built-in lux reference table covering natural light, office, home, photography, and plant growth - Clean, distraction-free design with dark mode support",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-06-11T08:30:21Z",
+      "releaseDate": "2026-06-11T07:00:00Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/luxmeter-light-ev-meter/id6768301504?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "lux meter plants"
+    },
+    {
+      "trackId": 730969737,
+      "trackName": "Lumu Light Meter",
+      "bundleId": "com.lumulabs.lumu",
+      "sellerName": "Lumu d.o.o.",
+      "description": "The light metering tool for every great image maker. Use the standalone app as a reflective light meter or use it in combination with Lumu Power hardware for professional Flash and Color Temperature measurements. Lumu Power is an easy-to-use digital incident color and light meter that works seamlessly with the free Lumu app to deliver Color Temperature, Illuminance, Spot, Ambient, and Flash Exposure metering functionality on your iPhone. A new expression of what a light meter can be, Lumu meets the needs of enthusiasts, professionals, and students who find existing light metering solutions too bulky, expensive, and complicated. “The Lumu Power is without any doubt the most full featured light meter I have ever owned. It’s tiny, it weighs hardly anything, it manages to offer a feature set that expands way beyond what most will ever need from such a device.” - www.35mmc.com Key features: - SPOT METERING: Use your phone’s camera as a reflective light meter. With Lumu Power: - PHOTO SINGLE mode: Giving you exact parameters: exposure time, f-number, ISO, EV, lux. - PHOTO MULTI mode: Calculating average value or contrast between multiple measurements. - PHOTO PINHOLE mode: Measuring exposure time for custom pinhole camera settings. - CINE/VIDEO mode: Set FPS, F-number, exposure time and ISO. Get the values for the ambiental light. - FLASH EXPOSURE: See the graph of flash duration, measure its intensity. - COLOR TEMPERATURE: Read light Color temperature in Kelvin and Green/Magenta shift. - CHROMATICITY: See light colour in CIE1931 diagram and get X,Y,Z coordinates. - ILLUMINANCE mode: showing incident light level in lux / foot-candle values. - NOTES: Store all your measurements together with geo-location, custom notes and your photo in one place. + ND FILTERS, EXPOSURE COMPENSATION and more… Visit http://lu.mu/ to learn more.",
+      "averageUserRating": 3.43137,
+      "userRatingCount": 102,
+      "currentVersionReleaseDate": "2022-03-17T18:41:37Z",
+      "releaseDate": "2013-11-13T08:00:00Z",
+      "genres": [
+        "Photo & Video",
+        "Utilities"
+      ],
+      "primaryGenreName": "Photo & Video",
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/lumu-light-meter/id730969737?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.0",
+      "matched_seed": "lux meter plants"
+    },
+    {
+      "trackId": 6746211051,
+      "trackName": "Luxmeter - Lux Light Meter",
+      "bundleId": "com.luxmeter",
+      "sellerName": "STOMBERG s.r.o",
+      "description": "LuxMeter is a 2-in-1 light intensity (lux) and exposure meter with customizable settings. Whether you want to capture the perfect photo or optimize lighting in any space, LuxMeter provides good-quality readings right on your phone. Key Features: - Real-time color temperature readings - Light intensity measurements in lux and foot-candles - Tracking of average and maximum light levels - Real-time suggestions for optimal exposure settings - Manual adjustment and locking of shutter speed, aperture, and ISO - Intuitive and customizable controls - For front and back cam - Customizable settings for shutter speed, ISO, aperture - Preview and adjust diaphragm settings before shooting Please note, that the LuxMeter app is not a replacement for a professional lux meter and should be used for personal needs only. Terms of Use - https://luxmeter-landing.vercel.app/privacy Privacy Policy - https://luxmeter-landing.vercel.app/terms",
+      "averageUserRating": 4.40291,
+      "userRatingCount": 206,
+      "currentVersionReleaseDate": "2025-09-24T21:00:20Z",
+      "releaseDate": "2025-06-15T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/luxmeter-lux-light-meter/id6746211051?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.6",
+      "matched_seed": "lux meter plants"
+    },
+    {
+      "trackId": 6759972986,
+      "trackName": "Light Meter - Lux & Lumen",
+      "bundleId": "com.lean.luxmeter",
+      "sellerName": "LEAN ASIA CO., LTD",
+      "description": "Pocket Lux Light Meter turns your iPhone into a professional light meter. Measure illuminance in lux or foot-candles instantly using your device camera — perfect for photographers, plant lovers, workplace safety, and anyone who needs accurate light readings on the go. Whether you are checking if your office meets lighting standards, finding the perfect exposure for a photo, or making sure your plants get enough sunlight, Pocket Lux Light Meter gives you the answer in seconds. — KEY FEATURES — • Real-Time Lux Measurement: Point your camera and get instant lux readings with a live gauge, color-coded zones, and min/max/average statistics. • Photography Mode: Calculate exposure values (EV), see the exposure triangle, and nail the perfect shot every time. • Plant Light Mode: Check if your plants are getting the right amount of light. See recommendations for common houseplants. • Pro Standards: Verify lighting levels against workplace standards for offices, classrooms, hospitals, studios, warehouses, and retail spaces. • Measurement History: Save readings with date, time, and location. Search, filter, compare, and export your data as CSV or PDF. • Spectrum Analysis: Understand your light quality with color temperature (Kelvin) and Color Rendering Index (CRI) analysis. • Multiple Units: Switch between lux, foot-candles, and other illuminance units with one tap. • Grid Uniformity Check: Measure light uniformity across a surface — ideal for workspace and studio setups. — WHY POCKET LUX LIGHT METER? — Professional light meters cost hundreds of dollars. Pocket Lux Light Meter gives you accurate readings right from your pocket. The intuitive interface makes it easy for anyone to measure, understand, and optimize lighting conditions — no expertise required. Save every measurement, track trends over time, and export reports for compliance or documentation. Whether you are a professional or just curious about the light around you, this app has a mode for every need. — LEGAL — Terms of Use: https://leanstudio.asia/terms-of-use Privacy Policy: https://leanstudio.asia/privacy-policy — SUPPORT — Questions or feedback? Contact us at: support@leanstudio.asia Download Pocket Lux Light Meter today and see the light around you like never before.",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-06-03T09:21:16Z",
+      "releaseDate": "2026-04-23T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/light-meter-lux-lumen/id6759972986?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "lux meter plants"
+    }
+  ],
+  "errors": [],
+  "fetched_at": "2026-07-28T15:53:12+08:00",
+  "cache_hit": false,
+  "cache_path": "/Users/zhoujinyu/.claude/app-factory/itunes_cache/0f6d0e87a0d780bcbb0cb85e.json"
+}

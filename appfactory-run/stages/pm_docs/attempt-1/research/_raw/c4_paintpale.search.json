@@ -1,0 +1,808 @@
+{
+  "schema_version": "appfactory.itunes_search_raw.v1",
+  "status": "ok",
+  "country": "us",
+  "seeds": [
+    "paint color palette app",
+    "color capture palette",
+    "wall color matcher",
+    "color harmony palette",
+    "camera color capture, palette building, harmony/contrast checking, palette card export"
+  ],
+  "limit_per_seed": 25,
+  "cap": 30,
+  "per_seed": [
+    {
+      "term": "paint color palette app",
+      "result_count": 24,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "color capture palette",
+      "result_count": 23,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "wall color matcher",
+      "result_count": 24,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "color harmony palette",
+      "result_count": 24,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "camera color capture, palette building, harmony/contrast checking, palette card export",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    }
+  ],
+  "results": [
+    {
+      "trackId": 6466933712,
+      "trackName": "Sherwin-Williams Color Expert™",
+      "bundleId": "com.sherwin.diy",
+      "sellerName": "The Sherwin-Williams Company",
+      "description": "Find the perfect palette with the Sherwin-Williams Color Expert™ app. Take the guesswork out of choosing the right paint color for your next project. Color Expert is your tool for finding the perfect color and transforming your space with confidence. Dive into a world of endless possibilities and visualize color like never before. *Sample ordering is currently only available in the U.S. and Canada (excluding Quebec). Key Features Designed for You: COLOR VISUALIZER Our color visualizer lets you explore and visualize colors in your space instantly. Snap a photo of your space and see our colors on your walls with any Sherwin-Williams® color. See how a new shade will look in and around your home before you lift a brush, this intuitive color visualizer helps you gain color confidence. PERSONAL COLOR RECOMMENDATION TOOL Overwhelmed by the endless color possibilities or unsure where to begin? Let our intelligent color recommendation tool simplify the process. Simply snap a picture of your space, and our app will analyze it to provide complementary colors that enhance your home's aesthetic. SAVE & PLAN Found your perfect shade? Save your favorite colors for future projects with ease. Experience your chosen color in your space before you commit by ordering samples directly through the app. Your color journey from inspiration to application is made simple. EXPLORE & DISCOVER Browse our extensive collection of Sherwin-Williams® colors by family, collection, or trend. Find inspiration and discover new favorites with ease. ORDER COLOR CHIPS & PEEL & STICKS* Love a color you see? Order physical color chips and peel & sticks directly from the app, delivered right to your home. This is your chance to experience how a color can look in your home's unique lighting conditions before you commit. Whether you're planning a full home renovation, a quick room refresh, or an interior design update, Color Expert provides the inspiration you need. We help your ideal paint color come to life, and make your color journey exciting. Be your own color expert and download the app today to start your home transformation and gain color confidence. *Sample ordering is currently only available in the U.S. and Canada (excluding Quebec).",
+      "averageUserRating": 4.56356,
+      "userRatingCount": 7025,
+      "currentVersionReleaseDate": "2026-06-25T15:37:12Z",
+      "releaseDate": "2024-04-30T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Photo & Video"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6008"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/sherwin-williams-color-expert/id6466933712?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "18.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1502792725,
+      "trackName": "Paint Chips Color Palette Tool",
+      "bundleId": "Max-Gillespie.ColorPicker",
+      "sellerName": "SWEETWATER LABS LLC",
+      "description": "Paint chips is an app that enables creators, designers, and artists to quickly track and change running lists of color palettes across multiple projects. Create any number of color palettes, and quickly add and delete new colors to those palettes using an intuitive slider-based UI for arriving at the perfect color. When you're happy with a particular color or set of colors, you can quickly get it wherever you need it to be by looking at its hex code, which is always displayed on a color tile. We are a small development team, and are anxious to make our products as good as they can be! If you are experiencing any issues, have suggestions for a direction to take the product in, or want to talk for some other reason, don't hesitate to reach out to me at max@maxgillespie.com!",
+      "averageUserRating": 4.55556,
+      "userRatingCount": 9,
+      "currentVersionReleaseDate": "2021-07-23T13:14:59Z",
+      "releaseDate": "2020-03-27T07:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Productivity"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/paint-chips-color-palette-tool/id1502792725?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.4",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1492035864,
+      "trackName": "Mix & Paint",
+      "bundleId": "com.mix.color.paint.game",
+      "sellerName": "Geisha Tokyo Inc.",
+      "description": "It's painting time! Use your fingers and the palette to mix the colors, then paint a picture based on the sample. The more you match the colors and shape, the more points you'll get. Can you get 3 stars in every stage?",
+      "averageUserRating": 4.58406,
+      "userRatingCount": 85942,
+      "currentVersionReleaseDate": "2026-06-05T20:08:49Z",
+      "releaseDate": "2019-12-18T08:00:00Z",
+      "genres": [
+        "Games",
+        "Casual",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7003",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/mix-paint/id1492035864?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 6738211457,
+      "trackName": "Color Identifier: Paint Match",
+      "bundleId": "com.patzerllc.DiscoverAColor",
+      "sellerName": "Mobile Card Games & Travel Apps LLC",
+      "description": "Identify colors instantly and match paint colors with this powerful color detection app. Color Identifier Paint Match is the ultimate tool to find color names, identify exact paint color matches, and capture hex codes. Explore professional paint colors from Sherwin-Williams, Benjamin Moore, Behr, Farrow & Ball, Dulux, Valspar, RAL, and Dunn Edwards—plus many more. MAIN FEATURES: - Use your camera to identify colors in real-time and see color harmony with the built-in color wheel. - Import photos to extract color palettes and discover complementary color combinations. - Find exact paint color matches for your design or home project. - Get precise RGB, CMYK, and HEX color codes for digital work and print. - Search thousands of named colors, including color names and hex codes. - Create and organize your own color palettes and collections. - Use advanced color match tools to identify color families like bright, muted, pastel, vibrant, and monochromatic. - Capture colors anywhere: Snap photos or use existing images to grab inspiring color schemes. EXTENSIVE COLOR LIBRARY - Search colors by name, hex, or RGB—perfect for finding the exact shade you’re after. - Filter colors by hue, saturation, and brightness to get the perfect color match for your needs. - Find similar colors and complementary color harmony options. - Pro Feature: Filter and sort colors by categories like vibrant, pastel, or muted. PROFESSIONAL PAINT COLORS Pro Feature: Access paint colors from leading manufacturers: - Sherwin-Williams, Benjamin Moore, Behr, Farrow & Ball, Dulux, Valspar, PPG, Dunn Edwards, KILZ, Vista, Color House - Industry Standards: RAL, Pantone - Commercial & Design: Avery, DIC, Dutch, HKS, KOBRA, Neenah, TOYO, TRUMATCH - Home & Retail: IKEA DETAILED COLOR INFORMATION - View RGB, CMYK, and HSB values to work seamlessly across design platforms. - Copy hex codes and get color information instantly for your projects. - Access paint codes and manufacturer info directly in the app. - Share color details and color palettes with your team or clients. ORGANIZE YOUR COLOR DISCOVERIES - Save your favorite colors and color palettes for quick access. - Build a personalized library of color ideas and matches. - Keep track of your color finder results and captured schemes. - Pro Feature: Create unlimited color palettes and organize them effortlessly. PRO FEATURES Unlock even more power with premium features: - Professional Paint Colors: 20+ major paint manufacturers. - Color Harmony: Generate perfect color palettes and schemes. - Accessibility Tools: Check color contrast ratios for WCAG compliance. - Advanced Search: Search by hex, favorites, and color families. - Unlimited Favorites: Save as many favorites as you like. - Advanced Sorting: Sort by name, hue, saturation, brightness. - Discovery Modes: Explore bright, muted, pastel, vibrant, and monochromatic styles. - Unlimited Palettes: Create and save unlimited color palettes. Whether you’re: - A designer looking for the perfect color palette or color picker tool, - An artist inspired by the world around you, - A developer needing precise color codes, - A homeowner planning your dream interior, - Or just curious to find color names and see what color is this, Color Identifier Paint Match is your companion for exploring, understanding, and working with color in a fun and intuitive way. Download Color Identifier Paint Match now and grab the colors in your world! Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ All paint brand names, color names, and trademarks are the property of their respective owners. This app is not affiliated with or endorsed by Sherwin-Williams, Benjamin Moore, Behr, Valspar, or any other paint manufacturer. Color values shown are approximations derived from digital sources.",
+      "averageUserRating": 4.17763,
+      "userRatingCount": 152,
+      "currentVersionReleaseDate": "2026-07-23T17:47:58Z",
+      "releaseDate": "2024-11-18T08:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Utilities"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-identifier-paint-match/id6738211457?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1154169098,
+      "trackName": "Tap & Color - Coloring book",
+      "bundleId": "com.appyfurious.ColorBook",
+      "sellerName": "Appyfurious LLC",
+      "description": "With Tap & Color you can easily create amazing artworks with our custom palettes! Tap & Color is a high quality coloring book for adults which comes with lots of handcrafted art illustrations. It's perfect for relaxing and stress relief. Get creative with Tap & Color: - Enjoy custom tailored galleries of unique images: choose from a variety of Mandalas, Animals, Flowers, Birds, Food, People, Sea World, Cities and other galleries. - Use palettes created by famous artists when they worked on their pieces of art: enjoy colors of Cezanne, Da Vinci, Klimt, Matisse, Van Gogh along with a perfect selection of color shades. - There's always something new to enjoy: we constantly add new images to the gallery. - Share and apply cool effects: let your friends be amazed by your artworks! Premium access: With Tap & Color Premium you get unlimited access to the entire gallery of images, custom palettes, and no ads. Get the most of Tap & Color. The app contains the following subscription options: - Weekly for $4.99 with a 3-day free trial period - Free trial subscription is automatically renewed unless cancelled 24 hours before the renewal - Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication - Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase Privacy Policy: http://appyfurious.com/privacy.html Terms of Service: http://appyfurious.com/terms.html",
+      "averageUserRating": 4.56651,
+      "userRatingCount": 2180,
+      "currentVersionReleaseDate": "2019-02-10T23:23:30Z",
+      "releaseDate": "2016-12-17T08:20:11Z",
+      "genres": [
+        "Lifestyle",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/tap-color-coloring-book/id1154169098?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "10.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1586980403,
+      "trackName": "Coloring Match",
+      "bundleId": "com.JacobVanHaag.ColorMatch",
+      "sellerName": "SUPERSONIC STUDIOS LTD",
+      "description": "Mix colors, match the target, and paint 3D objects in Color Match! Test your eye for color as you blend paints on paper and try to recreate the exact shade of each object. When your mix looks right, paint the 3D model and see how close you got. Explore colorful rooms and collections: • Garden fruits and vegetables • Kitchen treats and desserts • Garage cars and tools • Sports items and balls • Animals, aquarium objects, furniture, electronics, cosmetics, and more What you can do: • Mix colors and discover new shades • Paint 3D objects with your custom color • Compare your result with the target object • Sell painted objects at auction • Display your creations in themed rooms • Unlock new brushes and challenges • Hunt for items in special collection events • Keep playing through hundreds of creative levels Color Match is easy to play and satisfying to master. Every object is a small color puzzle: look carefully, blend the right paint, apply it, and improve your match. Ready to find the perfect shade? Start mixing, painting, and matching colors today!",
+      "averageUserRating": 4.52664,
+      "userRatingCount": 499899,
+      "currentVersionReleaseDate": "2026-07-20T01:02:46Z",
+      "releaseDate": "2021-10-05T07:00:00Z",
+      "genres": [
+        "Games",
+        "Family",
+        "Graphics & Design",
+        "Simulation"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7009",
+        "6027",
+        "7015"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/coloring-match/id1586980403?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1490161691,
+      "trackName": "Color Portfolio",
+      "bundleId": "com.benjaminmoore.colorportfolio",
+      "sellerName": "Benjamin Moore & Co",
+      "description": "Harness the power of Benjamin Moore color, wherever you are—for free. Save colors, share images and more! Find the right paint colors (and have fun doing it) with these features: • VIRTUAL FAN DECK - Easily scroll through Benjamin Moore’s collection of trusted colors including Color Preview®, Benjamin Moore Classics®, Affinity®, Historical Collection, Off-Whites and the Designer Classics. • PHOTO VISUALIZER - Take a photo of a room and “try on” colors by tapping a surface for instant masking, or use photos from our inspiration gallery. • VIDEO VISUALIZER - Step into augmented reality and apply Benjamin Moore paint color to surfaces in real-time. • PRECISION COLOR MATCHING - With purchase of the Benjamin Moore ColorReader or ColorReader Pro device by Datacolor, you can match any color IRL to colors in our library. To order a device, visit datacolor.com/bmorders.",
+      "averageUserRating": 4.51272,
+      "userRatingCount": 11515,
+      "currentVersionReleaseDate": "2026-06-17T03:04:40Z",
+      "releaseDate": "2020-01-21T08:00:00Z",
+      "genres": [
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-portfolio/id1490161691?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.5.2",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1641085395,
+      "trackName": "Color Identifier: Color Picker",
+      "bundleId": "com.cytrynapps.colorPicker",
+      "sellerName": "Irina Metelkina",
+      "description": "Color Identifier app helps you to detect the color of any pixel on the photo or image. Just upload the image into the app, zoom it and scroll to the color you are interested in. The app shows colors in RGB, CMYK and HEX and also the names of colors. You can save the colors into the app and find them on the History page. About Subscription The app contains monthly subscription at price $4.99/month. Yearly subscription at price $19.99. • Payment will be charged to iTunes Account at confirmation of purchase • Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period • The account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal • Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable • Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase Terms of Use: https://sites.google.com/view/iriskinx/terms-of-use Privacy Policy: https://sites.google.com/view/iriskinx/privacy-policy",
+      "averageUserRating": 4.57503,
+      "userRatingCount": 1906,
+      "currentVersionReleaseDate": "2026-05-10T18:47:42Z",
+      "releaseDate": "2022-08-31T07:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Utilities"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-identifier-color-picker/id1641085395?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 6756244458,
+      "trackName": "Color Identifier & Paint Match",
+      "bundleId": "com.colorpicker.identifier",
+      "sellerName": "Holy Traction OU",
+      "description": "Color Identifier – Instantly Identify Colors & Create Custom Palettes Discover the power of color with Color Identifier, the ultimate app for color detection and palette creation. Built for designers, artists, decorators, and color enthusiasts, this app makes identifying and organizing colors fast, simple, and precise. Key Features: Real-Time Color Detection: Point your camera at any object or surface to instantly identify its exact color. Photo Color Picker: Extract colors from uploaded images or snapshots from your gallery. Detailed Color Information: Get accurate HEX, RGB, CMYK, and HSL values along with color names. Color Converter: Seamlessly switch between HEX, RGB, and CMYK formats for your projects. Palette Creator: Build and save custom color palettes for design, art, or inspiration. Paint Color Matching: Find the closest paint shades to any color you detect. Color History: Keep track of all your scanned colors for easy reference. Accurate & Easy to Use: Simple, intuitive interface for fast color detection anywhere. Why Choose Color Identifier? Match wall, paint, or fabric colors before buying Detect colors for graphic design, fashion, and home decor Perfect for home renovation and interior design projects Create and organize your favorite color palettes for future use With Color Identifier, every shade and tone is at your fingertips. Detect, convert, and save colors effortlessly — wherever inspiration strikes. Subscription Information: The app offers optional premium features through subscription. Payment will be charged to your AppStore Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Subscriptions may be managed and auto-renewal turned off in your Account Settings after purchase. Privacy Policy: https://apps.4catslab.com/privacy Terms of Use: https://apps.4catslab.com/terms",
+      "averageUserRating": 4.63889,
+      "userRatingCount": 36,
+      "currentVersionReleaseDate": "2026-01-20T06:03:20Z",
+      "releaseDate": "2025-12-27T08:00:00Z",
+      "genres": [
+        "Utilities",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-identifier-paint-match/id6756244458?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1492393963,
+      "trackName": "Glidden",
+      "bundleId": "com.ppg.PPG-PPGAC-MobileApp-Glidden",
+      "sellerName": "The Pittsburgh Paints Co.",
+      "description": "MATCH PAINT COLORS & FIND YOUR PERFECT PAINT COLOR Choosing a paint color has never been easier! Find your perfect paint color in minutes & get FREE paint color swatches delivered to your home with the new Glidden app – an easy to use paint color tool to browse or search through Glidden’s extensive paint color library, preview each paint color on different room or exterior options, match any paint color from your own photos, take our color quiz to get a paint color palette curated just for you, or scroll through our paint color recommendations and get inspired by our popular colors. Once you’ve selected your colors you can order free paint swatches to be sent straight to your home! Use this find a paint color app designed to simplify your paint color selection and get your interior room project painted: GET FREE COLOR SWATCHES Share your favorite paint colors with friends, easily plan out multiple painting projects in one app, and order a swatch of our colors to try in your room. Glidden will mail you a free 8x8 color swatch to view in your own space and lighting. PAINT COLOR PALETTES Browse and search thousands of paint colors using this paint color app. Easily sort through color options by viewing similar colors, different shades for each color and color palettes. View your colors in multiple rooms and house exterior options to help give you confidence in your color selection. PAINT COLOR QUIZ Not sure where to start? Find a Palette Perfect for you with Glidden’s 5-minute guided paint color quiz. This paint color quiz in the app is designed to help you quickly sort through all of the color options to identify your perfect color palette. PAINT COLOR TOOLS View trending paint color palettes and color collections based on real painting projects and ideas for real people. Scroll through our curated color palettes for every interior design need. You got this. MATCH PAINT COLOR Already have an idea of what you’re looking for? Matching a paint color has never been easier. Use our Match a Paint Color option and match the paint color uploaded from your own photos or on the web to find the closest Glidden paint color option. We love hearing your ideas and feedback. Leave a review to let us know how we can support you.",
+      "averageUserRating": 4.6236,
+      "userRatingCount": 534,
+      "currentVersionReleaseDate": "2026-01-07T15:32:32Z",
+      "releaseDate": "2020-02-26T08:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Productivity"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/glidden/id1492393963?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.2",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1518806009,
+      "trackName": "I Can Paint",
+      "bundleId": "com.dawnofplay.icanpaint.test1",
+      "sellerName": "Cocoplay Limited",
+      "description": "I can paint, you can paint, everybody can paint with the I can paint app. To opt out of CrazyLabs sales of personal information as a California resident, please visit the settings page within this app. For more information visit our privacy policy: https://crazylabs.com/app",
+      "averageUserRating": 4.56932,
+      "userRatingCount": 112512,
+      "currentVersionReleaseDate": "2025-06-04T23:21:46Z",
+      "releaseDate": "2020-06-27T07:00:00Z",
+      "genres": [
+        "Games",
+        "Casual",
+        "Simulation",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7003",
+        "7015",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/i-can-paint/id1518806009?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1217566816,
+      "trackName": "Datacolor ColorReader",
+      "bundleId": "com.datacolor.colorreader",
+      "sellerName": "Datacolor Inc.",
+      "description": "Matching paint color by eye is subjective. Job quality is not. That’s why you need the Datacolor ColorReader. It matches paint color with more than 90% accuracy. All at the push of a button. All in the brand of your choice. The ColorReader analyzes the color of a wall or object and matches it in less than a second to the closest paint color. For those who need to know paint color to do their jobs. No more matching by eye and searching through fan decks or color cards. Paint confidently. Design confidently. DIY confidently. Be confident with color. Highest Accuracy Across Popular Paint Brands • Industry leading matching with more than 90% success rate • Matches color to any uploaded fan deck • Easy to use • One-click analysis • Ultra-portable • Bluetooth®-connected • OLED display for standalone device use (ColorReader Pro only) Expanded capabilities through the mobile app: • Build, save, and share color palettes • Color measurement history • Color scheme recommendations for harmonious color flow • Get paint brand color name and number • Get color values for measurements and color matches including RGB, Hex, CIELab, and more! • QC functionality (ColorReader and ColorReader Pro only) Backed by the Leading Precision Color Company For more than 45 years, Datacolor’s passion for precision color has helped us meet the exacting needs of more than a million customers whose entire job depends on the accuracy of their colors. What People Are Saying about ColorReader? “This device is incredibly easy to use - and it’s dependable.” John Metz - Haddon Painting “I love it. It cut one hour of time off my desk.” Debbie Deutsh – Interiors by Cornerstone “In this industry, time is money. If I can’t get the exact color they want, I’m losing time and material costs. “ Jon Ipock – ProTastic Painting “I have not stopped using it in matching colors to fabric and wall covering. It has saved me so much time in trying to match with paint chips.” Vincent Wolf – Vincent Wolf Associates, Inc. “There are many contenders in this field, but this in my opinion is the only one that provides the best balance between accuracy, ease-of-use and price. Whatever color you read with your ColorReader will be matched against those fan decks and the best matching returned. This is a much better alternative to purchasing multiple paint samples and trying them out, and is in my opinion the best bang for the buck.” Amazon Customer “Bought this (the lower cost one) because it seemed there had to be a better way than trying to match paint swatches to what is on the walls now. Setup was straight forward, and the app is fairly easy to use to take readings. The device accurately identified a swatch that I had, and it was straight forward to take multiple readings of the long ago painted walls in our old house.“ Amazon Customer Terms & Conditions: https://www.datacolor.com/legal/us/terms-conditions/ Privacy Policy: http://www.datacolor.com/legal-documents/colorreader/privacy-policy/",
+      "averageUserRating": 4.69364,
+      "userRatingCount": 692,
+      "currentVersionReleaseDate": "2025-05-05T16:31:14Z",
+      "releaseDate": "2017-03-28T16:35:52Z",
+      "genres": [
+        "Productivity",
+        "Business"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6000"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/datacolor-colorreader/id1217566816?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 6654889869,
+      "trackName": "Paint AI - Color Visualizer",
+      "bundleId": "ai.reimage.paint",
+      "sellerName": "REIMAGE AI INC.",
+      "description": "Transform Your Space with Paint AI Discover the easiest and most innovative way to choose the perfect paint colors for your home with Paint AI, the cutting-edge app that brings your interior and exterior design dreams to life. Whether you’re planning to refresh a single room or give your entire house a new look, Paint AI’s powerful AI technology lets you see exactly how your chosen colors will look before you lift a brush. Finding the perfect paint color and visualizing it in your space can be stressful, but Paint AI simplifies this process with real paint colors from the biggest paint brands, complete with color names and codes. Our app lets you see precisely how different colors will look in your home, making it easy to select and purchase the exact shade you want. Key Features: - AI-Powered Color Visualization: Leverage AI to simulate how any color will look in your space. Whether you’re changing the color of your living room walls, updating your kitchen cabinets, or refreshing your home’s exterior, Paint AI gives you an accurate preview of your choices in seconds - Access to Real Paint Colors: Choose from a vast library of real colors from the biggest paint companies, complete with names and codes. Paint AI ensures that the colors you see on your screen are exactly what you’ll find in the store, making it easy to bring your vision to life - Easy-to-Use Interface: Our intuitive interface makes it simple for anyone to use Paint AI, regardless of tech experience. Just snap a photo of your room or house, and apply colors with a single tap. The smart paint bucket ensures clean and precise application, even in tricky areas like corners and edges - Explore Similar Colors: Not only can you pick your perfect shade, but Paint AI also suggests similar colors from various brands, allowing you to explore different tones and find the best match for your space - Realistic Color Representation: Paint AI’s advanced color technology ensures that the colors you see on your screen are true to life. Experience the most accurate representation of how your chosen hues will look under different lighting conditions, so you can confidently make your decision - Interior & Exterior Visualization: Whether you’re working on your home’s interior or planning an exterior makeover, Paint AI has you covered. Apply colors to walls, ceilings, doors, and trim, or see how they’ll look on your home’s façade, roof, or shutters. It’s never been easier to achieve a cohesive design throughout your entire property - Instant Color Matching: Found a color you love but don’t know its name? With Paint AI’s color picker, you can match any hue from a photo or real-world object. Simply take a picture, and our AI will identify the exact shade, allowing you to apply it to your space with confidence - Multiple Color Palettes: Explore a vast library of colors, from classic neutrals to bold and trendy hues. Create custom palettes, mix and match shades, and see how different combinations work together in your space. Whether you’re looking for a modern, minimalist look or a vibrant, eclectic style, Paint AI offers endless possibilities - Save Time and Money: With Paint AI, you can avoid the cost and effort of purchasing and testing multiple paint samples. Our realistic visualizations ensure that you’ll love your choice before you even begin, saving you time, money, and stress Whether you’re a homeowner looking to update your space, a DIY enthusiast tackling a new project, or a professional designer needing a reliable tool for client presentations, Paint AI is your go-to app for all things paint. From small touch-ups to complete home transformations, Paint AI provides a seamless, enjoyable experience. Ready to see your space in a whole new light? Download Paint AI today and take the first step towards creating the home of your dreams Privacy Policy: https://remodelai.app/privacy-policy Terms & Conditions: https://remodelai.app/terms-conditions [:mav: 1.4.0]",
+      "averageUserRating": 4.29547,
+      "userRatingCount": 1435,
+      "currentVersionReleaseDate": "2026-07-24T18:37:48Z",
+      "releaseDate": "2024-09-24T07:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Photo & Video"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6008"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/paint-ai-color-visualizer/id6654889869?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 6766199051,
+      "trackName": "Paint Match: Color Identifier",
+      "bundleId": "app.easytouse.color-match",
+      "sellerName": "Easy To Use Apps SRL",
+      "description": "Find the exact paint color of anything around you. Point your camera at a wall, furniture, fabric, or paint chip and Color Match instantly identifies the closest shades from real paint brands — no color sensor or extra hardware required. POINT, MATCH, DONE • Live camera matching — sample any surface in real time • Match from photos — pull colors straight from your camera roll • Instant results — closest paint matches ranked by accuracy KNOW EVERY COLOR • HEX and RGB values for every shade • Search by color name or code • Color harmonies — complementary, analogous, triadic, and more ORGANIZE YOUR IDEAS • Save colors to My Favorites in the free app • Create custom palettes with an optional Premium subscription • Compare close matches side by side • Keep every project's colors in one place OPTIONAL PREMIUM SUBSCRIPTION A Premium subscription is required to create custom palettes, export and share paint data, unlock additional harmony tools, and save beyond the free My Favorites limit. MATCH ACROSS TOP BRANDS Color Match compares against thousands of colors from leading paint makers — including Sherwin-Williams, Benjamin Moore, Behr, Farrow & Ball, Valspar, Dulux, and PPG — so you can match once and buy anywhere. PERFECT FOR • Repainting a room or matching an existing wall • Interior design and decor projects • Artists, DIYers, and home renovators • Capturing color inspiration on the go Works offline with an on-device color catalog for fast, private matching. Turn any color you see into a paint you can buy — download Color Match today. Terms of Use: https://easytouseapps.com/tos.html Privacy Policy: https://easytouseapps.com/pp.html",
+      "averageUserRating": 3.0,
+      "userRatingCount": 8,
+      "currentVersionReleaseDate": "2026-07-20T13:35:33Z",
+      "releaseDate": "2026-06-03T07:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Utilities"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/paint-match-color-identifier/id6766199051?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 290752347,
+      "trackName": "Colors! Lite",
+      "bundleId": "com.collectingsmiles.colorslite",
+      "sellerName": "Collecting Smiles AB",
+      "description": "Colors! Lite provides a fun and simple painting experience and invites the user to browse and participate in an online gallery consisting of countless beautiful paintings. If you like Colors! Lite, you should check out the full version of Colors! which allows you use unlimited save-slots, upload your works to the Colors! Gallery and export your paintings in a higher resolution. Go to http://colorslive.com/downloads_iphone to learn more. SIMPLE BUT POWERFUL Designed to have a quick and non-intrusive workflow, Colors! provides the tools you need, without any of the distractions. INTEGRATED GALLERY Half of the fun of painting is to show others the result. Visit the Colors! Gallery to see all the amazing works other are doing in Colors!. PLAYBACK ANY PAINTING Colors! always records the full painting process. View your own playback, and branch it off at any point to take it in a different direction. Or view the playback of any painting in the gallery to learn from other artists. HIGH RESOLUTION Taking full advantage of the Retina screens, you can paint in 2048x1536 resolution!",
+      "averageUserRating": 4.64706,
+      "userRatingCount": 17,
+      "currentVersionReleaseDate": "2019-02-12T08:00:00Z",
+      "releaseDate": "2019-02-12T08:00:00Z",
+      "genres": [
+        "Entertainment",
+        "Utilities"
+      ],
+      "primaryGenreName": "Entertainment",
+      "genreIds": [
+        "6016",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/colors-lite/id290752347?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "8.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 6755313672,
+      "trackName": "Color Study: Simplify Painting",
+      "bundleId": "com.colorpicker.pro",
+      "sellerName": "BrushLabs LLC",
+      "description": "Color Study is a tool for artists to simplify images, study color and value, and accurately match colors through paint mixing. Load any photo and reduce it to clear shapes and essential color information. Color Study generates a clear color map of your reference and provides guidance for mixing paints to match the colors you see, giving you a practical guide you can use at the easel or in study. Focus on the fundamentals that matter in drawing and painting. Made for artists Core tools: • Accurate color picker with magnification and pixel averaging options • Place and customize color markers directly on your reference • Inspect value, saturation, and color codes (RGB, HSV, HSL, CMYK, LAB) • Automatically extract key colors and accents in an image, and mark their locations • Compare colors to assess value, relative temperature, saturation, and perceptual difference • Customizable grid overlay for precise alignment Advanced tools: • Interactive value maps, shape simplification, temperature maps and notan controls • Paint-mixing guidance designed for opaque paints, with real-time feedback from photographed mixes • Export analysis views and color maps as images for reference or study • Advanced grid controls for precision alignment and subdivision • Generate simplified line drawings and contour maps to clarify structure, edges, and major shapes • Organize your work into projects with images, paint palettes, and artwork details • iCloud sync keeps your projects and palettes in sync across all your apple devices Advanced tools available with subscription. Train your artistic eye Color Study is not a design tool or palette generator. It is a learning tool for painters, illustrators, and art students who want to analyze what they see and make better decisions in their artwork. Study master paintings, analyze your own photos, and deepen your understanding of value structure, color harmony, and visual design. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.85859,
+      "userRatingCount": 297,
+      "currentVersionReleaseDate": "2026-07-09T22:46:07Z",
+      "releaseDate": "2025-12-22T08:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Utilities"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-study-simplify-painting/id6755313672?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.6",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 545366469,
+      "trackName": "Paint Tester",
+      "bundleId": "com.Luminant.PaintTesterAd",
+      "sellerName": "Luminant Software, Inc",
+      "description": "See how new colors look on your walls before you paint! Finding the right color for a room can be a challenge, but Paint Tester shows you the results without all the pain of painting and repainting! Easily try out colors from the palette or take a photo of a color you'd like to try, and apply it to pictures of your own home! Know what you're getting in to before the first drop of paint touches the walls. Paint Tester's variety of tools and smart paint bucket make it easy to change the wall color in a picture in a matter of seconds! Start by taking a picture of the room you'd like to paint, then use the paint bucket to apply colors to the walls. In a well lit photo, the smart paint bucket will color the wall without bleeding on to neighboring walls or the ceiling. This gives you the control to get a clean picture of how the color would look, and you can even use multiple colors at the same time to try an accent wall! If you didn't like how the first color looks, use the color picker to choose another, and just tap with the paint bucket to replace it! For great results try taping a color sample to the wall and take a photo of it. Use the color picker to select the sample, then use the paint bucket to start applying the color right next to the sample. Because the sample and the wall will be lit the same, this can take a lot of the guesswork out of how the color will look in the lighting of the room.",
+      "averageUserRating": 4.2,
+      "userRatingCount": 1290,
+      "currentVersionReleaseDate": "2021-08-28T07:32:46Z",
+      "releaseDate": "2012-08-07T06:52:57Z",
+      "genres": [
+        "Utilities",
+        "Photo & Video"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6008"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/paint-tester/id545366469?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1561048181,
+      "trackName": "Color Identifier",
+      "bundleId": "com.yolleg.LiveColorPicker",
+      "sellerName": "Yolleg Ltd",
+      "description": "Discover the ultimate tool for color enthusiasts, designers, photographers, and artists with Color Identifier – the premier iOS color picker and identifier! Color Identifier transforms your iOS device into a powerful color detection instrument that captures live hues with your camera, extracts color details from still images, and even identifies paint colors for your projects. With a simple tap, instantly access detailed color information including HEX codes, RGB values, HSL, HSB, and color names. Key Features: • Live Camera Color Picker – Point your device’s camera at any object or scene and instantly capture precise color details. • Image & Paint Color Identification – Upload or select images to quickly pick and identify colors, including specialized recognition for paint colors—perfect for interior design and more. • Multiple Color Formats – Receive comprehensive color data in HEX, RGB, RAL, HSL, HSB, and descriptive names. • Palette Creation – Easily build and save custom color palettes for design projects, websites, or creative inspiration. • User-Friendly Interface – Enjoy a clean, intuitive design suitable for both professionals and beginners. • Versatile & Essential – Ideal for graphic designers, UI/UX developers, digital artists, and anyone needing an accurate color reference. Optimized for iOS and meticulously engineered for fast, reliable color extraction, Color Identifier is your go-to app for bridging the gap between inspiration and creation. Enhance your design workflow, streamline your creative process, and never settle for mediocre colors again. Download Color Identifier today and unlock the full potential of your color vision on iOS. Explore, create, and share your perfect palette with the ultimate color identification tool! Note: this app requires a subscription to use, you can subscribe quickly and easily in the app (and cancel any time if you wish)! ----------------- Terms of Use https://www.yolleg.com/terms/livepicker Privacy Policy https://www.yolleg.com/privacy/livepicker",
+      "averageUserRating": 4.13333,
+      "userRatingCount": 180,
+      "currentVersionReleaseDate": "2026-07-22T13:15:04Z",
+      "releaseDate": "2021-04-02T07:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-identifier/id1561048181?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "26",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1585970304,
+      "trackName": "Colorswipes®",
+      "bundleId": "com.artlife.color.number.coloring.book",
+      "sellerName": "Jump Plaid GmbH",
+      "description": "We are happy to introduce a breaking any frames and rules coloring game. At this time, you get a unique chance to turn your fingers into paintbrushes. From now on, art comes closer and closer to you. You can feel it with the tips of your fingers. Our team has made deep research on the field of coloring apps and we developed our brand new coloring game! This time, tap and paint by number turn to the swipe and paint by number. This is a revolution in the world of coloring games. Have you ever been to any picture gallery? If the answer is no, start your own one! It is high time for you to prepare your paint and start playing the game that follows the idea of a paint by number game. Our new approach: swipe and color are as easy as swiping your news on social network apps. And it is as authentic as a real paintbrush. Your drawings will definitely excite your audience. We give you a chance to become a real artist or show off your skills as a mature one. No more tap, just swipe it! Place your finger-brush on a color you want and swipe it on the pale area. Add more colors and enjoy the process! Coloring games are becoming more and more enjoyable and healthy! A great variety of wonderful colors will make your every picture be a masterpiece! Write your coloring book by playing this magnificent coloring game! Release yourself! Swipe and color your drawing! Feel free while using our coloring game. Be unique! Share! Exhibit your picture gallery! Colorswipes Premium - With Colorswipes Premium you can subscribe for removing ads and watermarks, unlimited hints as well as four VIP pictures every day. - Yearly Colorswipes Membership automatically renews for $69.99/year, after the 3-day free trial. - These purchases are auto-renewable subscriptions. Payment will be charged to your Apple ID account at the confirmation of purchase. - The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. - You can manage your subscriptions and turn off auto-renewal by going to your Account Settings in the iTunes store after purchase. Terms of Service: https://playflux.co/terms-of-service/ Privacy Policy: https://playflux.co/privacy-policy/",
+      "averageUserRating": 4.74123,
+      "userRatingCount": 31673,
+      "currentVersionReleaseDate": "2025-10-21T12:43:10Z",
+      "releaseDate": "2021-09-18T07:00:00Z",
+      "genres": [
+        "Games",
+        "Board"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7004"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/colorswipes/id1585970304?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.5",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1583486842,
+      "trackName": "Paint my Room: Wall Visualizer",
+      "bundleId": "com.bonc.paintmyroom",
+      "sellerName": "Try the Colors s. r. o.",
+      "description": "Getting started on your paint project has never been easier! Introducing Paint my Room - paint visualizer an app that allows you to find the perfect color for your interior or exterior paint project. #1 Paint visualizer Visualize and Explore Our color visualizer app allows you to see any paint color on your walls or facade instantly. Use your smartphone camera to try colors directly on your wall and see real-time results. Whether you want to change the color of your living room or revamp your home's exterior, our app provides a dynamic visualization experience. Explore ideas and find your perfect wall paint from an extensive palette of paint colors from brands like Sherwin-Williams, Akzo Nobel (Dulux, Sikkens, Sadolin, Levis), Nippon Paint, Asian Paints, Kansai Paint, Benjamin Moore, Behr, Jotun, Valspar, Glidden, Crown Paints, Nerolac, Suvinil, Prestige Paints, Jazeera Paints. Match and Design Match the color of your interior effortlessly with our advanced paint match technology. Just snap a photo of your space or any inspiring item, and our app will suggest the closest paint match. Dive into interior design with tools that help you visualize the color of your wall, changing colors until you find the ideal palette. Try Paint Testers Before making a final decision, try paint testers on your wall or facade of the house to see how different colors behave under various lighting conditions. Locate the closest paint store, like Home Depot, Leroy Merlin or Lowe's, and pick up your chosen paint testers. BROWSE COLORS - Try all colors Browse colors right from your phone. Once you've found a color, see how it looks in a living room, bedroom, kitchen, bathroom or exterior space. change color as many times as you want. Our color visualizer app allows you to see any paint color on your walls or facade instantly. Paint Your Room: An AI-driven paint visualizer with an easy-to-use interface lets you paint your room with any color. Visualize the transformation of your walls in a few taps, experimenting with diverse options from our extensive color portfolio. Download our app today and start using the 'Paint my Room - Try All Colors' feature. Experience the most innovative way to revamp your space, whether you're painting an interior room or your home's exterior. Explore, visualize, and execute your painting projects with an app designed to make every step as straightforward and enjoyable as possible. Experience the new standard in home painting—download now and transform your home with just a few taps! Start using our Paint my room - try all colors app! Fantastic and easy to use! Happy painting! Disclaimer All product names, logos, brands, trademarks, and registered trademarks, which are not owned by us, are the property of their respective owners. All company, product, and service names used in this app are for identification purposes only. Use of these names, trademarks, and brands does not imply endorsement. Pain my room - Try wall color app is owned by us. We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with any other apps or companies. By using this app, you agree to Apple's standard End User License Agreement (EULA), available here: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.58495,
+      "userRatingCount": 665,
+      "currentVersionReleaseDate": "2026-07-14T05:25:31Z",
+      "releaseDate": "2021-10-06T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/paint-my-room-wall-visualizer/id1583486842?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.3",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1342063329,
+      "trackName": "Pocket Palette",
+      "bundleId": "com.penpyre.pocketpalette",
+      "sellerName": "Penpyre, LLC",
+      "description": "Pocket Palette is a color palette and color scheme tool that stays out of your way. No subscriptions, no clutter; just a fast, focused environment for building and managing color. Build Palettes Your Way Start from scratch or explore a curated sample palette for inspiration. Add and remove colors freely, then fine-tune each one until the scheme is exactly right. Organize everything into Collections to keep projects clean and separate. A Color Editor Built for Precision Work in the color space that fits your process — Hex, RGB, HSB, or the new HSB color wheel for intuitive hue control. Every color is fully editable, with undo support to keep experimentation risk-free. Capture Color From Anywhere Use the eyedropper to pull color directly from any photo. Open an image from your library or point your camera at the real world — Pocket Palette captures the exact value and drops it into your palette. Preview and Export View your palette in a clean, distraction-free preview. Copy Hex, RGB, HSB, or CMYK values individually, or share your color scheme as an image for use in Figma, Procreate, or wherever your work lives. Syncs Across Your Devices CloudKit sync automatically keeps your palettes and collections up to date across all your iOS devices. Free. No ads. Always improving. Questions or feedback? patrick@penpyre.com",
+      "averageUserRating": 4.39773,
+      "userRatingCount": 176,
+      "currentVersionReleaseDate": "2026-05-05T19:16:45Z",
+      "releaseDate": "2018-02-22T17:33:35Z",
+      "genres": [
+        "Graphics & Design",
+        "Utilities"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/pocket-palette/id1342063329?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 413897608,
+      "trackName": "Pastel",
+      "bundleId": "com.highcaffeinecontent.pastel",
+      "sellerName": "Steven Troughton-Smith",
+      "description": "Capture and collect color palettes with Pastel! Pastel is an app for amateur developers & artists (like us!) that lets you build up a library of color palettes to use in your projects. With drag & drop on iPad, drag colors out into other apps that support dropped colors, like Pages and Keynote, or many third-party apps from your favorite developers, so you can use your Pastel library as your master color collection across apps. Seamlessly sync your library across devices with iCloud. Analyze photos from the photo library or from Files to determine their dominant colors — choosing specific colors manually if you wish — and save their color palettes to Pastel. Includes a variety of color pickers, like wheel, RGB sliders, and crayons, or pick named colors from your color library that you curate yourself. On iPad, drag and drop from the sidebar to any palette. Copy a variety of developer-focused code representations, like RGB, hex, Objective-C, Swift and SwiftUI. Paste hex codes into the sliders color picker. Copy a pixel bitmap representation of a palette to paste into your favorite pixel editor, share a screen-sized version to set as your wallpaper or Apple Watch face, or export a palette to Procreate®. Create beautiful, colorful wallpapers in various different 2D & 3D styles using Pastel's wallpaper creator. In the free version, try out the built-in library, and add your own palettes up to a limit of 8 items total. Upgrade to the unlimited version using in-app purchase. --- Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy policy: https://www.highcaffeinecontent.com/privacy",
+      "averageUserRating": 4.70605,
+      "userRatingCount": 1422,
+      "currentVersionReleaseDate": "2026-04-20T22:22:04Z",
+      "releaseDate": "2020-06-08T07:00:00Z",
+      "genres": [
+        "Developer Tools",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Developer Tools",
+      "genreIds": [
+        "6026",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/pastel/id413897608?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 956480678,
+      "trackName": "Coolors",
+      "bundleId": "co.fabrizio.coolors",
+      "sellerName": "Coolors srl",
+      "description": "Coolors is the most loved color palettes app and website that inspires 2M+ creatives every day! • Create your color schemes with the super-fast generator. • Organize them in handy projects and collections. • Export as image or PDF, or just copy and share the link • Pick colors from your best photos with ease • Choose by several layouts and create beautiful collages with photos and palettes • Explore thousands of ready-made palettes to inspire your work If you need support, please go to help.coolors.co If you'd like to send feedback, please write to info@coolors.co Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Policy: https://coolors.co/privacy-policy Follow our Instagram page for your daily colors inspiration: @coolors.co From a creative to all the others. Made with love by Fabrizio Bianchi - fabrizio.io",
+      "averageUserRating": 4.81846,
+      "userRatingCount": 10483,
+      "currentVersionReleaseDate": "2022-09-02T15:42:50Z",
+      "releaseDate": "2015-01-18T20:37:43Z",
+      "genres": [
+        "Graphics & Design",
+        "Productivity"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/coolors/id956480678?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "10.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1183817887,
+      "trackName": "Picsart Color: Draw & Paint",
+      "bundleId": "com.picsart.draw",
+      "sellerName": "PicsArt, Inc.",
+      "description": "Picsart Color is a drawing app where you can paint, color, and draw digital illustrations. Drawing and creating digital art has never been easier and more fun! Picsart Color offers a full drawing suite with tons of functionality whether you’re an amateur artist, a professional, or even if you’re looking for a drawing app for your kids. You can work with as many layers as you want, a color mixer for any color combination you can think of, fully customizable paint brushes, and an amazing texture brush – those are just some of the creative features available to you in Picsart Color. Doodle on your photos, paint breathtaking fantasy worlds, do some picture coloring, you can even use it as your mobile digital sketchbook – Picsart Color has it all! The intuitive interface makes sure you spend more time drawing and coloring your awesome illustrations than searching for tools. From a sketch to fully polished illustrations, Picsart Color is the only digital drawing app you’ll ever need. FEATURES - Texture brush – draw not only with color but with texture! - Pressure sensitivity – make full use of your apple pencil for maximum effect. - Multiple layers – use different layers to draw and color without the other getting in the way. - Auto-recovery – you never have to worry about losing your progress. - Blending modes – use different blending modes to achieve some truly artistic results. - An entire library of customizable brushes. - Color wheel and mixer to match any colors you want. - Text tool that allows you to draw and erase using text. - Symmetry tool for easy mandala and portrait drawing. - Outlines that create pre-set inspiration for your next masterpiece. - Pattern and color fill. ...And much more is available for free and with no pesky ads! GO GOLD - Color Gold gives you access to a huge number of templates you can edit and color! Remember that you can use paid templates only while you are subscribed. Payment will be charged to your iTunes Account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase. No refunds will be provided for any unused portion of the term. Any unused portion of a free trial period will be forfeited when you purchase a subscription. Privacy Policy: https://picsart.com/privacy-policy?hl=en Terms of Use: https://picsart.com/terms-and-conditions?hl=en Download Picsart Color today and completely transform the way you draw on your tablet or phone.",
+      "averageUserRating": 4.52379,
+      "userRatingCount": 22322,
+      "currentVersionReleaseDate": "2023-12-15T06:12:37Z",
+      "releaseDate": "2016-12-22T13:30:29Z",
+      "genres": [
+        "Graphics & Design",
+        "Photo & Video"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6008"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/picsart-color-draw-paint/id1183817887?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "paint color palette app"
+    },
+    {
+      "trackId": 1604440897,
+      "trackName": "Color Picker：Palette Generator",
+      "bundleId": "com.appsvek.colorPicker.rgbColorDetector",
+      "sellerName": "Yevhenii Kuzmenko",
+      "description": "Color Picker & Palette Generator is a helpful all-in-one color tool for a creative person that works with color palettes on a daily basis. Get the app because this Color Picker will help you in all possible easy ways to create a harmonious color palette for your art projects or detect & collect beautiful colors around you. – Create a color palette from an image or photo – grab auto-generated color swatches extracted from the uploaded image or manually pick colors from an image with the Color Picker tool (Eyedropper). – Create palettes from the colors you collect around you! Capture and detect colors simply by pointing the camera at the object. The app identifies the color name and hex color code of the selected area on the screen. – Color Palette Generator. The application algorithm creates harmonious color palettes and you can adjust color values to your liking. Or you can generate with our app a harmonious color palette with any custom color you input to Magic Generator. – Color Harmonies. For each color you collect, the app creates color combinations that go well with a base color (based on color theory and color wheel harmonies). Grab a pre-defined color palette and adjust color values to your liking. Are you colorblind, unable to distinguish certain color hues, or simply want to know What color is it? It is a simple-to-use app for identifying colors around you – just point at anything the Live Camera Color Picker and it will tell you the color. Easily save, share, duplicate, remove and edit already saved palettes. The app supports the most common color models as RGB, HEX, LAB, HSV, HSL, CMYK and color formats – .PNG, .SVG, .ACO, .ASE, .GPL. Whether you’re creating visual graphics, painting digitally, designing logos or interfaces, trying to match the brand color theme – being able to select the right color or palette quickly is important. Color Picker & Palette Generator helps you create harmonious color schemes with ease. Generate palettes, find a hex code of needed hue, edit colors to your liking, and find everyday inspiration with one app.",
+      "averageUserRating": 4.73377,
+      "userRatingCount": 154,
+      "currentVersionReleaseDate": "2026-04-23T06:43:27Z",
+      "releaseDate": "2022-01-28T08:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Utilities"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-picker-palette-generator/id1604440897?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "color capture palette"
+    },
+    {
+      "trackId": 1598308010,
+      "trackName": "Color Wheel Palette: ColorGear",
+      "bundleId": "design.vek.colorGearX",
+      "sellerName": "Yevhenii Kuzmenko",
+      "description": "Color Gear is a handy tool that helps to create harmonious color swatches. To find the right color combination, designers and artists use color theory and the basis of it: color wheels and harmonies. Or maybe you have just started to learn the basics of color science and you need a simple app to study the color harmony in practice. Use color wheel that suits your needs Our app supports two color models — Full Color Wheel (RGB model) and Basic Itten's Color Wheel. Color scheme by Itten is typically used by artists, and RGB is designed for online use. For both of them you can apply one of the 10 color combinations \\ harmonies. Ability to extract colors from your image Select the desired picture from your phone and application's algorithms will extract colors. Then you can choose favorite colors and save the palette. Get matching colors to your custom color Just type in your color code and discover color harmonies with this particular color. Use color editing tool It is very important to balance the quantitative ratio of color in order to make your palette look harmonious in practice. The application has a convenient function to quickly swap colors in the images. There are 3 pictures and gradient in the palette editing carousel. You can see how the selected colors look in different ratios. Easy to manage and share Also you will be able to save, export and remove palettes. To share the desired palette just choose mode — text HEX codes or image. You can always copy a particular color code under color swatch to the clipboard. Developing Color Gear we tried to make it professional and easy to use. Two color circles, 10 color harmonies, ability to input a color code manually, and convenient palette editing tool that are always at hand in one application.",
+      "averageUserRating": 4.68023,
+      "userRatingCount": 172,
+      "currentVersionReleaseDate": "2025-01-09T15:48:01Z",
+      "releaseDate": "2021-12-10T08:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Utilities"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-wheel-palette-colorgear/id1598308010?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "color capture palette"
+    },
+    {
+      "trackId": 6451405169,
+      "trackName": "CaptureColor",
+      "bundleId": "com.yugai.CaptureColor",
+      "sellerName": "改 喻",
+      "description": "It can obtain colors through the mobile phone camera. Colors captured by the collected camera.",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-06-12T17:54:54Z",
+      "releaseDate": "2023-07-20T07:00:00Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/capturecolor/id6451405169?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "color capture palette"
+    },
+    {
+      "trackId": 1040200189,
+      "trackName": "Adobe Capture: Illustrator, Ps",
+      "bundleId": "com.adobe.capture.ios",
+      "sellerName": "Adobe Inc.",
+      "description": "\"Adobe Capture transforms your images into beautiful color palettes, vectors, fonts, patterns and more. Imagine looking through your camera to see patterns, vectors, and even fonts. Now imagine turning those visions into design materials to immediately use in apps like Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, and Adobe Fresco. The power to transform the world around you into creative assets to build your projects is in the palm of your hands. The creation of graphic design elements is now just a camera click away. Remove Background from Images Take your photo inspiration and transform the background to use in your design projects. Create high-quality graphics to use in your projects. Vectorize on the Go Create vectors instantly with Shapes. Turn images into smooth, detailed, scalable vectors with 1-32 colors, for use in logos, illustration, animation, and more. Point and shoot at your drawing or upload a photo and watch it magically transform into clean, crisp lines. Voice or Audio to text Record your voice to see it transform in text. Replace and add text in your speech directly by editing the transcript. This new audio recording feature is easy to use and will enhance your audio creations. Import audio files to different Adobe apps or download them to your device as WAV files. Identify Typography Find your perfect font using Adobe Capture. Take a photo of the type you like (in a magazine, on a label, a sign, anywhere!) and watch a list of similar Adobe Fonts magically appear. Create Color Themes and Gradients Looking for customized color palettes? Find an inspiring gradient? Find color by number or hex? Aim your camera at the scene that has the colors you want and capture them to use in your artwork. Build Beautiful Digital Brushes Can’t find the right brush to paint? Take a photo or use an image to create digital brushes that match your creative vision. Use your brushes in Photoshop, Illustrator, or Fresco for rich painterly effects. Craft Intricate Patterns Capture inspiring images and generate patterns with ease. Create beautiful, colorful patterns that fit with your creative projects by using your vector shapes with our precision pattern builder. Generate 3D Textures Generate realistic PBR materials for use in 3D design straight from the camera. Modify your materials for even more texture or blend the edges for seamless repeat tiling on your 3D objects. Capture Light and Color Collect light and hue to turn into beautiful color grading profiles for your images and videos with Looks. Record the magic of sunset and transfer that feel to use in your photos and video projects. Seamlessly Sync Creative Elements All of your assets save to Adobe Creative Cloud Libraries. Instantly access your digital elements from your Creative Cloud account in all compatible applications. Compatible Adobe Apps and Programs for Creative Assets Photoshop, Photoshop for iPad, Adobe Fresco, Premiere Pro, Illustrator, Illustrator for iPad, InDesign, Dimension, After Effects, Dreamweaver, Animate, Substance 3D Apps, and Adobe Express. 2GB FILE STORAGE The free, basic Creative Cloud membership includes 2GB of complimentary storage for file syncing and sharing. MORE STORAGE (Optional in-app purchase) You can purchase an additional 20GB for $1.99 (US dollars) of Creative Cloud file storage per month. You must be 13 or older and agree to Adobe’s terms and privacy policy, viewable at: http://www.adobe.com/privacy/policy-linkfree.html http://www.adobe.com/special/misc/terms.html\"",
+      "averageUserRating": 4.82885,
+      "userRatingCount": 24265,
+      "currentVersionReleaseDate": "2023-11-28T06:21:34Z",
+      "releaseDate": "2015-10-05T07:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Photo & Video"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6008"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/adobe-capture-illustrator-ps/id1040200189?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "color capture palette"
+    },
+    {
+      "trackId": 1439521846,
+      "trackName": "Color Collect - Palette Studio",
+      "bundleId": "com.wizeyes.colorcapture",
+      "sellerName": "WXColor Tech Co., Ltd.",
+      "description": "Inspiration comes from our daily life. When you record your life with photos, how about capture it with color as well? Collect your favorite colors today! Color Collect is a color picker for the real world. When you pick colors on your photo, manually adjust the circles for your ideal shades. As long as you can see the colors, the app captures them for you. Hard to decide your colors on a picture? A random selection feature will explore the possibilities for you. Advanced random color features will present all possible options for you with ease. Color palettes in the app are a suitable reference for: ■ PowerPoint design ■ Social media post and ads artwork ■ User interface and web design ■ Book cover design ■ Home decor ■ Matching clothes Color Collect Basic helps you on the following: ■ iPad drawing companion + Supported the Slide Over and Split View for your iPad drawing experience with Procreate, ArtStudio Pro. ■ Color exploration + Random colors from a set of libraries like Pantone, classic Chinese and Japanese colors, and more + Capture color palette through your camera at a real-time + Support four color harmony recommendations + Recommending palettes for you every day ■ Sharing the color happiness + Multiple sharing layout to memorize the color moment + Single color wallpaper export with color names, hex codes, and more ■ Palette management + Search palettes based on colors and palette titles + Edit an existing palette to further customize it for you + Write a note To make it even better, Color Collect Pro allows you: + All photo color palette features + All libraries of beautiful color palettes with over 800 palettes + All palette displays + All palette sharing options + Unlimited random color inspiration + iCloud backup for iPhone and iPad + Palette color and name search + Business license for palettes in Pro Color Collect is a freemium app with an annual subscription, monthly subscription, and lifetime one-time purchase available. Your subscription renews automatically. Cancellations must be made at least 24 hours before the next renewal date; the current period can't be refunded. To cancel the subscription, visit your App Store Account > Subscriptions. Privacy: https://colorcollect.cc/privacy-policy Terms: https://colorcollect.cc/terms-of-services If you have any feedback or want to say \"Hi,\" reach me at support@wizeyes.com. I hope you enjoy the app!",
+      "averageUserRating": 4.78023,
+      "userRatingCount": 860,
+      "currentVersionReleaseDate": "2026-05-13T01:37:18Z",
+      "releaseDate": "2018-11-07T08:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Utilities"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-collect-palette-studio/id1439521846?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.6",
+      "matched_seed": "color capture palette"
+    },
+    {
+      "trackId": 519551982,
+      "trackName": "Color Viewfinder - palette",
+      "bundleId": "dfectuoso.apps.ColorViewfinder",
+      "sellerName": "ANDRES FELIPE SARRAZOLA VELEZ",
+      "description": "Turn any photo into a beautiful color palette in seconds. Just open Color Viewfinder, pick a photo and let the app extract all the colors for your next design. Perfect for designers, photographers, interior decorators and anyone who loves color. • Pick colors from any photo or camera snapshot • See every color in HEX, RGB, HSL and HSB • Try different palette layouts to explore combinations • Copy color codes with one tap and reuse them in your favorite design tools • Export palettes as Adobe ASE, JSON, CSS or CSV files • Save your favorite palettes for later inspiration • Share your color palettes with clients, friends or social media Use it as a photo color picker, a fast color palette generator, or a simple way to capture real world colours for your web, UI, logo or interior design projects. Download now, free to use. “I ask all my clients to install this app.” - Interior design specialist “The easiest way to capture and share colors from photos.” - Pixel expert Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 3.81667,
+      "userRatingCount": 60,
+      "currentVersionReleaseDate": "2025-11-19T02:55:41Z",
+      "releaseDate": "2012-04-23T19:40:15Z",
+      "genres": [
+        "Photo & Video",
+        "Utilities"
+      ],
+      "primaryGenreName": "Photo & Video",
+      "genreIds": [
+        "6008",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-viewfinder-palette/id519551982?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.6",
+      "matched_seed": "color capture palette"
+    }
+  ],
+  "errors": [],
+  "fetched_at": "2026-07-28T15:53:12+08:00",
+  "cache_hit": false,
+  "cache_path": "/Users/zhoujinyu/.claude/app-factory/itunes_cache/0f0c1a01d8d47d4747aad77d.json"
+}

@@ -1,0 +1,92 @@
+{
+  "candidate_id": "c3_cubecoach",
+  "verdict": "proceed_narrow_wedge",
+  "axes": {
+    "collision": {
+      "level": "med",
+      "notes": "active L2=23 L3=0 L1=5; zombies=1",
+      "nearest_clones": [
+        {
+          "name": "Cube Solver 3D",
+          "trackId": 1673039373,
+          "layer": "L2",
+          "url": "https://apps.apple.com/us/app/cube-solver-3d/id1673039373?uo=4",
+          "ratingCount": 241450
+        },
+        {
+          "name": "21Moves | Cube Puzzle Solver",
+          "trackId": 1533263247,
+          "layer": "L2",
+          "url": "https://apps.apple.com/us/app/21moves-cube-puzzle-solver/id1533263247?uo=4",
+          "ratingCount": 59105
+        },
+        {
+          "name": "Cube Solver - Solve any Cube",
+          "trackId": 1604603007,
+          "layer": "L2",
+          "url": "https://apps.apple.com/us/app/cube-solver-solve-any-cube/id1604603007?uo=4",
+          "ratingCount": 52090
+        },
+        {
+          "name": "Rubix Cube Solver",
+          "trackId": 784085951,
+          "layer": "L2",
+          "url": "https://apps.apple.com/us/app/rubix-cube-solver/id784085951?uo=4",
+          "ratingCount": 50865
+        },
+        {
+          "name": "RGB Cube Solver &Timer",
+          "trackId": 6499205938,
+          "layer": "L2",
+          "url": "https://apps.apple.com/us/app/rgb-cube-solver-timer/id6499205938?uo=4",
+          "ratingCount": 26597
+        }
+      ]
+    },
+    "heat": {
+      "band": "yellow",
+      "head_structure": "fragmented",
+      "moat_types": [
+        "network"
+      ],
+      "zombie_ratio": 0.0333,
+      "top1_rating_count": 278417,
+      "active_recent_count": 20,
+      "notes": "pool=28 top1=278417 top3_sum=578972"
+    },
+    "survivability": {
+      "band": "med",
+      "needs_network_for_aha": false,
+      "underserved_moment": "solvers exist but abandonware UI; trainer + scan in one local app with real drill loop is thin",
+      "wedge_vs_top_n": [
+        {
+          "name": "Cube Solver 3D",
+          "trackId": 1673039373,
+          "url": "https://apps.apple.com/us/app/cube-solver-3d/id1673039373?uo=4",
+          "note": "wedge moment not evident in listing"
+        },
+        {
+          "name": "21Moves | Cube Puzzle Solver",
+          "trackId": 1533263247,
+          "url": "https://apps.apple.com/us/app/21moves-cube-puzzle-solver/id1533263247?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        },
+        {
+          "name": "Cube Solver - Solve any Cube",
+          "trackId": 1604603007,
+          "url": "https://apps.apple.com/us/app/cube-solver-solve-any-cube/id1604603007?uo=4",
+          "note": "wedge moment not evident in listing"
+        }
+      ],
+      "notes": "factory v0 is local zero-account; network moats are hostile"
+    },
+    "verdict": "proceed_narrow_wedge",
+    "required_actions": [
+      "Document wedge_vs_top_n with real trackId/url in research and product.md stance",
+      "Office Hours must challenge whether the wedge is real vs Top-N"
+    ],
+    "blockers": []
+  },
+  "evidence_count": 30,
+  "markdown_path": "runs/kf-20260728T074631Z-2d34d004/stages/pm_docs/attempt-1/research/appstore-scan/c3_cubecoach.md"
+}

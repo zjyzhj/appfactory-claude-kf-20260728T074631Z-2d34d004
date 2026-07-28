@@ -1,0 +1,806 @@
+{
+  "schema_version": "appfactory.itunes_search_raw.v1",
+  "status": "ok",
+  "country": "us",
+  "seeds": [
+    "quilt design app",
+    "quilt block designer",
+    "quilt pattern maker",
+    "quilt calculator layout",
+    "block grid editor, quilt layout composer, fabric palette, yardage calculator, pattern export"
+  ],
+  "limit_per_seed": 25,
+  "cap": 30,
+  "per_seed": [
+    {
+      "term": "quilt design app",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "quilt block designer",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "quilt pattern maker",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "quilt calculator layout",
+      "result_count": 23,
+      "http_status": 200,
+      "error": null
+    },
+    {
+      "term": "block grid editor, quilt layout composer, fabric palette, yardage calculator, pattern export",
+      "result_count": 25,
+      "http_status": 200,
+      "error": null
+    }
+  ],
+  "results": [
+    {
+      "trackId": 513781546,
+      "trackName": "Missouri Star Quilt Company",
+      "bundleId": "com.mobileigniter.iphone.moquiltco",
+      "sellerName": "Missouri Star Quilt Company",
+      "description": "Missouri Star Quilt Co - Your Quilting Companion Welcome to the Missouri Star Quilt Co app, your ultimate companion for all things quilting! Whether you're an experienced quilter or just starting on your quilting journey, our app is designed to make your quilting projects easier, more enjoyable, and incredibly creative. Key Features: 1. Video Tutorials and Classes: Learn from the best with our video tutorials and quilting classes. Improve your skills, discover new techniques, and unlock your quilting potential. 2. Browse Thousands of Fabrics: Explore our extensive collection of high-quality fabrics, from classic prints to modern designs. Find the perfect fabric for your next quilting project with ease. 3. Quilt Patterns Galore: Discover a treasure trove of quilt patterns suitable for quilters of all skill levels. From traditional blocks to contemporary designs, our app offers step-by-step instructions and video tutorials to help you create stunning quilts. 4. Precut Fabrics and Kits: Browse and purchase precut fabric bundles and quilt kits curated by our experts. Take the guesswork out of fabric selection and start quilting right away. 5. Exclusive Deals and Discounts: Stay updated with our latest promotions, exclusive discounts, and special offers. Save money while stocking up on your quilting essentials. 6. Personalized Wishlist: Create a wishlist of your favorite fabrics and products, making it easy to keep track of your quilting aspirations. 7. Easy Ordering and Fast Shipping: Shop with confidence through our secure and user-friendly ordering process. Experience fast shipping and reliable customer service. 8. Stay Inspired: Get your daily dose of quilting inspiration with our featured quilts, customer projects, and staff picks. Join the Missouri Star Quilt Co community and transform your quilting dreams into beautiful, tangible creations. Download our app today and embark on a quilting adventure like never before! Your quilting journey begins here.",
+      "averageUserRating": 4.88909,
+      "userRatingCount": 33936,
+      "currentVersionReleaseDate": "2026-07-16T17:08:16Z",
+      "releaseDate": "2012-05-19T00:09:50Z",
+      "genres": [
+        "Education",
+        "Reference"
+      ],
+      "primaryGenreName": "Education",
+      "genreIds": [
+        "6017",
+        "6006"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/missouri-star-quilt-company/id513781546?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 6755831082,
+      "trackName": "Quiltler 3 – Quilt Design",
+      "bundleId": "com.cgl.quiltler3",
+      "sellerName": "Creative Greenlight LLC",
+      "description": "Quiltler 3 – Quilt Design App, Fabric Stash & Quilting Calculator *** This application offers a 7 day free trial with full access. All app functionality requires a subscription or trial. To extend your trial reach out to me at chris@quiltler.com Transform your quilting ideas into reality with Quiltler 3, a complete quilting app and quilting calculator for every skill level. Design a quilt, preview layouts with real fabrics, manage your fabric stash (fabric library), create custom cuts, and use an intelligent fabric calculator to estimate quilt yardage and cost before you ever pick up a rotary cutter. DESIGN BEAUTIFUL QUILTS • Block-based quilt design editor (unlimited designs in Premium) • Create custom quilt blocks with precise measurements (inches) • Visualize quilts with real fabric patterns • Track dimensions for accurate cutting • Mark projects complete as you finish them INTELLIGENT FABRIC CALCULATOR (QUILTING CALCULATOR) Stop guessing and start sewing with confidence. Quiltler 3 calculates fabric requirements from your actual quilt design: • Precise yardage for each fabric • Backing, binding, borders, sashing, batting, and more • Adjust seam allowance, fabric width, and waste factor • Optional shrinkage + safety margin • Clear materials list (shopping list) and cost estimates using your fabric prices FABRIC STASH + FABRIC LIBRARY Build and organize your fabric stash with photos, notes, colors, and yardage. Search and filter instantly, preview stash fabrics in your quilt designs, and import community fabrics. CREATE CUSTOM CUTS Use the Cut Creator to design intricate quilt blocks and pieces: • Squares, rectangles, triangles, circles, and freeform shapes • Apply fabrics to individual pieces • Export and share custom cuts with the community DISCOVER & SHARE Browse community-shared fabrics and cuts, import designs to jumpstart projects, and share your creations to inspire others (Premium). BRANDS & SHOPPING WORKFLOW Quiltler 3 pairs well with popular fabric shopping sources, including Missouri Star / Missouri Star Quilt Company and Robert Kaufman fabrics, by helping you plan layouts, track yardage, and calculate totals from your design. POWERFUL FEATURES • Pull-to-refresh syncing • Cloud backup with Firebase • Clean, intuitive interface designed for quilters • Real-time preview • Swipe actions for quick edits Quiltler 3 is a quilt planner and quilt layout tool—ideal for patchwork, quilting patterns, and quilt blocks. Use it as a quilt yardage calculator, backing calculator, binding calculator, border & sashing calculator, and fabric requirements estimator for jelly rolls, charm packs, layer cakes, fat quarters, and yardage. Track fabric inventory with a fabric organizer / stash tracker, preview fabrics, and plan quilting projects for brands like Missouri Star Quilt Company (Missouri Star, MSQC) and Robert Kaufman (Robert Kafuman). Great for beginner quilting, modern quilts, and classic blocks (log cabin, HST, flying geese). Quilt pattern maker. Quilt math. PREMIUM SUBSCRIPTION Unlock the full power of Quiltler 3: • Unlimited quilts • Unlimited fabrics (fabric stash) • Unlimited custom cuts • Import community fabrics and cuts • Share your designs with the quilting community • Priority support SUBSCRIPTION DETAILS Payment will be charged to your iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage your subscriptions and turn off auto-renewal in your Account Settings after purchase. Any unused portion of a free trial period will be forfeited when you purchase a subscription. ToS: https://quiltler.com/terms Privacy Policy: https://quiltler.com/privacy Standard Apple Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.32432,
+      "userRatingCount": 37,
+      "currentVersionReleaseDate": "2026-06-23T16:14:03Z",
+      "releaseDate": "2025-12-18T08:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Utilities"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quiltler-3-quilt-design/id6755831082?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "18.5",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 6448708909,
+      "trackName": "Quilt Pattern Creator",
+      "bundleId": "com.crochetdesigns.quiltblockcreator",
+      "sellerName": "Sand Castle Designs, Inc",
+      "description": "Create quilts using over 200 quilt blocks to select from. You can change the colors in the blocks to get the look you want. Now you can create your own blocks to use in your quilts. Comes with 3 free quilt patterns. Download is free. To activate creation is $2.99 Once activated, get started by doing the following: To Create a Quilt 1. Select \"Create a Quilt\" button. 2. Enter the type of quilt (square or on point), and the quilt width and quilt height in blocks. 3. Select the Block Icon (forth icon in the tool bar) 4. A huge selection of quilt blocks will appear. 5. Select the quilt blocks you want to place on your quilt. 6. Select the Color Icon (first icon in the tool bar) 7. A huge selection of colors will appear 8. Select a color and select the Fill-All bucket icon with a double plus sign (11th icon in the tool bar) 9. Select on the quilt, all the blocks of the same kind will change color to the color you selected. Buttons from left to right in the button bar: Color button - use to select any color Save button - use to save your quilt pattern Sashing button - use it to add sashing around each quilt block (vertical, horizontal or both) Quilt blocks button - use it to select different quilt blocks to your quilt My Quilt Blocks button - displays all the blocks you have created Cut button - select a block on your quilt and the cut icon to remove it Copy button - select a block on your quilt and the copy icon to copy it and place it in another location on your quilt Rotate button - select a quilt block and rotate icon to rotate that block Resize quilt button - select to change the number of block rows and columns for your quilt Dropper button - select a color from your quilt to use Paint bucket button - use this when you want to change the color of one fabric in a single block Paint bucket + button - use this when you want to change the fabric color in a single block Paint bucket ++ button - use this when you want to change the fabric color in all blocks Undo button - undo last things you did Redo button - redo the things you undid Zoom in button - zoom in on your quilt pattern Zoom out button - zoom out on your quilt pattern Print button Share button - share a picture of your pattern using email, text etc. Help button - help on how to use features of the app To Create a Block 1. Select \"Create a Block\" button. 2. Select the size of the block you want to create (5-16 inches) 3. Now add shapes to your block. Shapes come in three sizes (3 sides, 4 sides and 5 sides) 4. Select the triangle to add a triangle shape to your block. 5. To change the shape just drag any of the green corner circles to where you want. 6. You can also flip, rotate and resize the shape using button in the button bar. 7. You can drag the shape to any location. Shapes snap into place. 8. Select the Color button (first button in the button bar to change the colors of your shapes) Buttons from left to right in the button bar: Color button - use to select a color for your fabric shapes in your block Save button - use to save your block Triangle shape button - add triangle fabric shapes to your block Square shape button - add 4 sided shapes to your block Pentagon shape button - add 5 sided shapes to your block Resize shape larger button - select a shape and the resize larger button to make the shape a size larger Resize shape smaller button - select a shape and the resize smaller button to make a shape a size smaller Flip shape horizontal button - select a shape and the Flip horizontal button to flip the shape horizontally Flip shape vertical button - select a shape and the Flip horizontal button to flip the shape vertically Rotate shape button - select a shape and the Rotate button to rotate a shape Dropper button - select a color from your block to use Paint bucket button - use this when you want to change the color of fabrics in your block Cut button - use to remove a shape from your block Copy button - use to copy Print button",
+      "averageUserRating": 1.66667,
+      "userRatingCount": 3,
+      "currentVersionReleaseDate": "2025-09-19T10:36:59Z",
+      "releaseDate": "2023-05-03T07:00:00Z",
+      "genres": [
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quilt-pattern-creator/id6448708909?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "11.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 6740589876,
+      "trackName": "QuiltPop",
+      "bundleId": "com.pixamark.quiltpop",
+      "sellerName": "Pixamark, LLC",
+      "description": "QuiltPop helps you create one of a kind projects using the technique of foundation paper piecing, and allows you to print each block from your home printer. Foundation paper block designs are ready for you to create your own layouts, or premade projects that you can scroll through and make. QuiltPop allows you to change the size of each block, rotate them, flip them, color them, and then print them - all with numbered instructions in which order you should sew your fabric to the paper. Foundation paper piecing helps to create crisp and accurate lines when sewing, no matter how small you make the block size. You can print individual blocks or the entire block set of your quilt design. Perfect projects for this technique include: - Quilt tops - Wall hangings - Table runners - Pillows - Mug rugs - Coasters - Pin cushions - Center pieces for bags Use up your fabric stash and learn a new sewing technique to add to your skill set. Whether you're a beginner or expert quilter, QuiltPop can be easily used by everyone.",
+      "averageUserRating": 4.6129,
+      "userRatingCount": 31,
+      "currentVersionReleaseDate": "2026-03-25T16:37:41Z",
+      "releaseDate": "2025-03-04T08:00:00Z",
+      "genres": [
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quiltpop/id6740589876?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "18.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 1495594391,
+      "trackName": "Quiltler 2 - Quilt App",
+      "bundleId": "com.cgl.quilter2.lite",
+      "sellerName": "Creative Greenlight LLC",
+      "description": "Introducing the latest addition to the quilt design world, Q2. Quiltler 2 encapsulates all the joy of the original Quilting app while offering an immensely more potent toolset. While the first Quilting app aimed to help you quickly create simple box quilts, Quiltler 2 propels you towards crafting almost any quilt design you can envision, thanks to its sophisticated features. Here's a quick rundown: Overlap fabrics Rotate fabrics Alter colors of default fabrics Upload your personal fabric patterns Perform calculations to estimate yardage requirements for a specific design Quiltler 2 aims to be a haven for quilt design, a playground for your creativity. You're not limited to creating one design per playground. Instead, you can develop multiple designs within a single playground and contrast them to pinpoint your favorites. Quiltler 2 is still evolving, with steady enhancements underway to incorporate new features. However, it already offers an excellent platform for creativity to flourish, unhindered by spatial constraints. Happy quilting!",
+      "averageUserRating": 3.71642,
+      "userRatingCount": 201,
+      "currentVersionReleaseDate": "2026-01-05T23:52:16Z",
+      "releaseDate": "2020-01-21T08:00:00Z",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quiltler-2-quilt-app/id1495594391?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.1",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 6499062474,
+      "trackName": "Quilt Geek Quilting Calculator",
+      "bundleId": "com.designedtoquilt.quilt-geek",
+      "sellerName": "ULA KOVACIC KOKALJ",
+      "description": "Start designing your perfect quilt today with Quilt Geek—the ultimate quilting calculator! Whether you're a beginner or an expert, Quilt Geek ensures your handmade quilts are created with precision. Effortlessly plan quilt patterns, calculate fabric yardage, and perfect your quilts from borders and sashing to backing and binding. Download now and make quilt design easier than ever! ** DESIGN YOUR QUILT WITH EASE ** Planning a quilt design is now simple! Use our powerful quilt pattern creator to calculate quilt size, block layouts, borders, and sashing with ease. – Borders Calculator. – Sashing Calculator – Blocks to Quilt Size Calculator – T-Shirt Quilt Calculator – Precuts to Size Gauge Calculator – Setting Triangles Calculator ** EFFORTLESSLY FINISH YOUR QUILTS ** No more guesswork—get precise measurements for quilt backing, batting, and binding with our quilting tools. Just enter your quilt dimensions, and Quilt Geek does the math! – Binding Calculator – Backing & Batting Calculator – Fabric-Saving Backing Calculator – Bias Binding Calculator – Diagonal Pieced Backing Calculator ** PLAN QUILT BLOCKS ** Create quilt blocks in any size. Calculate the starting pieces needed for different construction methods. – Half-Square Triangle Block Calculator – Quarter-Square Triangle Block Calculator – Flying Geese block Calculator ** CALCULATE FABRIC REQUIREMENTS IN SECONDS ** Make the most of your fabric! Save time and money by getting accurate fabric requirements for any quilting project. – Fabric-Saving Calculator – Pieces from Fabric Calculator – Strips from Fabric Calculator – Yardage Conversion Calculator – Quilt Kitting Calculator ** QUILTING CHARTS & GUIDES ** Access an extensive library of essential quilting charts right on your phone! ** SAVE & FAVORITE YOUR CALCULATIONS ** – Save quilt calculations for future reference. – Favorite your most-used quilting tools for quick access. ** METRIC & IMPERIAL UNITS ** Easily switch between metric (meters) and imperial (yards/inches) units to suit your quilting needs. ** SUBSCRIPTIONS & PREMIUM ACCESS ** Quilt Geek offers a free version with access to essential quilting calculators (binding, backing, and batting). Upgrade to Premium for full access to all calculators, saving, and favorites. Choose from: - 1-month subscription - 3-month subscription - 12-month subscription ** START DESIGNING YOUR NEXT QUILT NOW! ** With Quilt Geek, planning and making quilts has never been easier. From quilt design to fabric calculations, this powerful quilting app helps you create stunning quilts with precision. Download Quilt Geek today and take your quilting to the next level! Learn more: quiltgeek.com. ** GET INSPIRED ** Browse our quilting tutorials, tips, tricks, and modern quilting patterns. Designed to Quilt blog: designedtoquilt.com Read more in Privacy Policy: https://designedtoquilt.com/privacy-policy/ and Terms & Conditions: https://designedtoquilt.com/terms-conditions/",
+      "averageUserRating": 4.61904,
+      "userRatingCount": 105,
+      "currentVersionReleaseDate": "2026-06-17T22:59:12Z",
+      "releaseDate": "2024-06-07T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quilt-geek-quilting-calculator/id6499062474?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 390366459,
+      "trackName": "QuiltingCalc",
+      "bundleId": "com.handmadeinteractivellc.quiltingcalc",
+      "sellerName": "Handmade Interactive LLC",
+      "description": "Robert Kaufman Fabrics and Quilter's Paradise have joined forces to bring you a collection of eight essential quilting calculators. With these calculators you'll be able to quickly convert between yards and inches, meters and centimeters; learn how much fabric you need for backing, batting and borders; and determine how many rectangular pieces can be cut from a larger piece. There are even calculators for square-in-a-square, set-in and corner triangles. Here's a brief description of each calculator: Fabric Measurement Converter: Converts between inches and yards in decimal form, and yards in fractional form. (With metric equivalents.) Backing and Batting Calculator: Determines how much material from a bolt of fabric is needed to make the backing for a quilt. Piece Count Calculator: Shows the number of fixed-sized pieces of fabric that can be cut from a larger piece. Pieces to Area Calculator: Indicates how much fabric is needed in order to cut a given number of fixed-sized pieces. Binding Calculator: Tells you the amount of fabric required to bind your quilt, based on the quilt’s dimensions and the binding strip width. Border Calculator: Shows the amount of fabric required to create borders, based on a quilt’s dimensions and the width of the borders. Square-in-a-Square Calculator: Works out the key dimensions of a square-in-a-square block. Set-in and Corner Triangle Calculator: Determines the size of the square piece you’ll need to cut in order to create both unfinished set-in triangles and unfinished corner triangles.",
+      "averageUserRating": 4.25175,
+      "userRatingCount": 143,
+      "currentVersionReleaseDate": "2025-09-15T20:05:19Z",
+      "releaseDate": "2010-09-10T17:49:13Z",
+      "genres": [
+        "Utilities",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quiltingcalc/id390366459?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "11.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 6760917903,
+      "trackName": "Quilt Organizer",
+      "bundleId": "com.dksters.quiltorganizer",
+      "sellerName": "Martin Diaz",
+      "description": "Quilt Organizer helps you plan quilt layouts and estimate fabric needs before you start cutting. Use common quilt size presets, choose a quilt pattern, set your finished block size, and calculate the yardage needed for your project. The app also visualizes the block layout so you can preview how your quilt will come together. Features: • Choose from common quilt size presets • Generate quilt layouts using multiple pattern styles • Estimate fabric yardage based on finished block size and fabric width • View block counts and actual quilt dimensions after full-block rounding • See cut size vs finished size with standard 1/4\" seam allowance guidance • Review per-fabric yardage breakdowns for your layout Quilt Organizer is designed as a simple planning tool for quilters who want a clearer starting point before cutting fabric.",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-03-25T22:03:58Z",
+      "releaseDate": "2026-03-25T07:00:00Z",
+      "genres": [
+        "Utilities"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quilt-organizer/id6760917903?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 1662729378,
+      "trackName": "GeoGrid - Better Pattern maker",
+      "bundleId": "com.aisoft.pattern",
+      "sellerName": "RO IT CONSULTING LLC",
+      "description": "Here you can see the worldwide-unique pattern tool, GeoGrid. Your life is surrounded by different colorful patterns and thanks to those patterns you yourself are unique and special. Those patterns can be seen everywhere; iPhone cases, bookbindings, wallpapers, tiles, etc. Then how can you make your own patterns special & distinctive? GeoGrid Pattern Maker-all in one- will make your dream into reality. GeoGrid uses simple stickers and various types of layouts, but provides perfect and surprisingly high-resolution and user-friendly designing tools. [Features] - 500+ Geometric Patterns - Pattern Coloring - Layout maker - Pattern designer Payment will be charged to your iTunes account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to our subscription. privacy policy: https://pattern-maker-app.netlify.app/privacy terms of use: https://pattern-maker-app.netlify.app/terms",
+      "averageUserRating": 3.86667,
+      "userRatingCount": 15,
+      "currentVersionReleaseDate": "2026-06-15T17:19:33Z",
+      "releaseDate": "2023-01-06T08:00:00Z",
+      "genres": [
+        "Photo & Video",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Photo & Video",
+      "genreIds": [
+        "6008",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/geogrid-better-pattern-maker/id1662729378?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "11.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 1139385294,
+      "trackName": "QuiltPaper",
+      "bundleId": "com.nnnsoftware.QuiltPaper",
+      "sellerName": "NNN Software LLC",
+      "description": "QuiltPaper makes graph paper for quilters. Quilt Paper has tools to help draft basic and specialty quilt layouts. Use it for English Paper Piecing to print accurate paper pieces, or export as an SVG to a cutting machine. To draft quilt layouts, start with the basic grid. Tap to add borders, sashing, cornerstones, etc. Even better, place an inspiration image under a grid to use as a guide as you create a layout. Use the Paint tool to play with color and create your design on your device. Three papers are included with purchase: Standard grid, Diagonal for on-point quilts, and Dots for free-form quilt planning. InApp purchases add 24 hard-to-find specialty papers. Buy any five papers (or purchase the ’All Papers Forever’ BUNDLE) to unlock all papers forever. Credit is given for every purchase so that on purchase of any fifth paper the bundle is instantly added: Hexagon Lone Star - 8 point star Triangle Diamond Log Cabin HST & HRT template 6 point star Tumbler Polygon (especially helpful to make shapes for EPP) Honeycomb (Lucy Boston) Jewel Kite Brick Square Circle Arc Pinwheel Jewel Ring Concentric Hexagon Pineapple Apple Core Coffin Pentagon House Tools for better EPP Templates! Many of the InApp purchase specialty papers are ideal for creating EPP templates because QuiltPaper creates shapes at their exact size. Special feature adds a center hole to each piece for inserting a blunt stick for easier paper removal. Once a template is ready, print and cut by hand or save as a PDF or SVG and export to a cutting machine. Includes a Paint Tool! The Paint Tool colors with solids and textures. Special feature adds an inspiration image under a grid before bringing a graph paper into Paint. There is a set of built-in color palettes, however, you can add colors to create unlimited custom pallets from images, live camera, color wheel, RGB or HSB codes. Unique HST & HRT paper This InApp purchase creates templates at any size — Half Square Triangle Template at any size, set seam allowance. Half Rectangle Triangle Template at any size, set seam allowance. Paper template includes markings to aid trimming corners for accurate matching during assembly (no ‘dog ears’). PURCHASE INCLUDES 3 PAPERS: Grid Classic grid graph paper taken up a notch! Dot Choice of 5 dot styles and 2 dot patterns for free-form quilt planning. Diagonal On-point design graph paper. — FEATURES OF ALL PAPERS — √ Buy once — purchase works on all devices — iPhone, iPad, iPod. √ Metric (cm or mm) and Inch settings for grid and page size. √ Paint quilt layout with color and pattern. Add unlimited custom color palettes. √ Place an inspiration image under any grid. √ Up to four line colors on a grid. √ Tile multiple grids on a page for planning block designs, assembly, etc. √ Title grid with choice of font, size, bold or italic, and color. √ Print on standard sized page (such as 8.5x11 or A4) portrait or landscape, or set to a custom size. √ Avoid the headache of scaling a design by setting the page to the quilt actual size by using setting for ‘Custom’ page size. √ Library of Quick Pick templates offer inspiration and a short cut to creating layouts. √ Print, share, or upload grids as a PDF, PNG or SVG √ Share painted grids as a PNG or PDF √ Work up close using pinch-n-zoom gesture. NOTE — If you are looking for a quilt block library, you will not find it here. QuiltPaper app is for quilters who use a grid to plan and design a quilt. It is worth mentioning, however, that three in-app purchase papers — Pinwheel, Arc and Log Cabin — that use a Pattern Planner tool that offers a minimum level of block planning. Don’t see the paper or feature you need? Send an email and we’ll see what we can do!",
+      "averageUserRating": 3.21429,
+      "userRatingCount": 28,
+      "currentVersionReleaseDate": "2024-06-20T21:28:39Z",
+      "releaseDate": "2016-12-22T17:23:36Z",
+      "genres": [
+        "Lifestyle",
+        "Productivity"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quiltpaper/id1139385294?uo=4",
+      "price": 0.99,
+      "currency": "USD",
+      "minimumOsVersion": "12.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 6760553382,
+      "trackName": "Swatchit — Quilt Color Design",
+      "bundleId": "app.swatchit.mobile",
+      "sellerName": "Stephen Southern",
+      "description": "Swatchit puts a quilt design studio in your pocket. Browse patterns, photograph quilts at shows and shopsSwatchit puts a quilt design studio in your pocket. Browse patterns, photograph quilts at shows and shops, tap to fill colors, estimate yardage, and preview your quilt in your actual room — all from your iPhone. SEE YOUR QUILT BEFORE YOU CUT Stop guessing how fabric colors will look together. Tap any region of a quilt pattern and fill it with your chosen color. Experiment freely with full undo history. PHOTOGRAPH PATTERNS ANYWHERE See a beautiful quilt at a show or shop? Snap a photo with your camera, and it becomes an editable pattern in seconds. AI cleanup sharpens your photo automatically. SMART FLOOD FILL Tolerance-aware fill that respects block geometry. Adjust sensitivity for tight or loose fills. Pick colors with the eyedropper or replace all instances of a color at once. YARDAGE ESTIMATOR Know exactly how much fabric to buy. Choose your quilt size (Baby through King), and Swatchit calculates per-color yardage in quilter-friendly fractions with Kona Cotton fabric name matching. SEE IT IN YOUR HOME Choose from 6 AI lifestyle scenes — living room, bedroom, wall art, picnic blanket, gift wrap, or quilt ladder — and see a photorealistic preview of your quilt in that setting. SHARE WITH YOUR GUILD Generate a share link anyone can open. Show your quilt guild, get feedback, and inspire other quilters. Save unlimited colorways to your collection. SYNCS WITH SWATCHIT WEB Same account, same quilts. Sign in with Apple or email and your colorways sync between your phone and swatchit.app. Free to start. No design skills needed. Made by quilters, for quilters.Swatchit puts a quilt design studio in your pocket. Browse patterns, photograph quilts at shows and shops, tap to fill colors, estimate yardage, and preview your quilt in your actual room — all from your iPhone.",
+      "averageUserRating": 0.0,
+      "userRatingCount": 0,
+      "currentVersionReleaseDate": "2026-04-08T17:16:27Z",
+      "releaseDate": "2026-04-06T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/swatchit-quilt-color-design/id6760553382?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 6444816769,
+      "trackName": "Quilty Solid",
+      "bundleId": "org.reactjs.native.example.quilttools",
+      "sellerName": "Steph Skardal",
+      "description": "A Quilty Solid provides a reference for quilting solids colors. It includes representations of solids from multiple manufacturers including Art Gallery, Kaufman Kona, Aurifil thread, and more. The tools include a color reference list with sortable swatches, color detail with harmony interactions, a Pantone color matcher that provides color matching against Pantone colors, a palette building and randomizer tool, and a swatch matcher against an uploaded photo. Help for each tool is provided on an additional screen. User settings can control which solids lines are included in the app.",
+      "averageUserRating": 4.4,
+      "userRatingCount": 25,
+      "currentVersionReleaseDate": "2026-02-24T20:33:55Z",
+      "releaseDate": "2022-12-02T08:00:00Z",
+      "genres": [
+        "Reference",
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Reference",
+      "genreIds": [
+        "6006",
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quilty-solid/id6444816769?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 911319058,
+      "trackName": "Love Patchwork & Quilting",
+      "bundleId": "com.im.lovepatchworkandquilting",
+      "sellerName": "Our Media Ltd",
+      "description": "In Love Patchwork & Quilting you’ll find gorgeous modern quilting projects for all abilities, from fabulous quilts and cushions to fun gifts and on-trend home-style. With a mix of large designs to get your teeth into, and smaller ones to whip up quickly, you'll always have a make on the go. Step-by-step instructions make each project easy to follow, while top tips and crafty ideas ensure you’re always discovering new skills and ways to use your fabric! Every month you’ll also find new techniques to try, fascinating features about the designers you love, contemporary inspiration to spark your creativity, the latest fabric collections you'll want for your stash, and news, reviews and advice to help you get the most from your hobby. Whatever your quilting ability, from beginner to beyond, we share your love for patchwork and quilting on every single page! Subscriptions and Single Issues Customers can buy single issues and subscriptions using In App Purchase Subscriptions are available on monthly or annual terms. • Your subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current subscription period • You will be charged for renewal within 24 hours prior to the end of the current period, for the same duration and at the current subscription rate for that product • You can manage your subscriptions and turn off auto-renewal by going to your Account Settings after purchase • No cancellation of the current subscription is allowed during active subscription period. This does not affect your statutory rights • Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription • The app may offer a free trial. At the end of the free trial period, the full price of the subscription will be charged thereafter. Cancellations must occur 24 hours before the end of the subscription period to avoid being charged. Visit http://support.apple.com/kb/ht4098 for more information. The subscription will include the current issue if you do not already own it and subsequently published future issues. Payment will be charged to your iTunes Account at confirmation of purchase. If you would like to get in touch with the team for more information or support please email appsfaq@buysubscriptions.com or alternatively you can visit our App support page https://immediate1.typeform.com/to/kc5nri Immediate Media Company Privacy Policy and Terms of Use: https://policies.immediate.co.uk/privacy/ http://www.immediate.co.uk/terms-and-conditions * please note: this digital edition does not include the covermount gifts or supplements you would find with printed copies*",
+      "averageUserRating": 4.62857,
+      "userRatingCount": 140,
+      "currentVersionReleaseDate": "2023-08-02T15:15:56Z",
+      "releaseDate": "2015-03-19T11:11:23Z",
+      "genres": [
+        "Lifestyle",
+        "Magazines & Newspapers"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6021"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/love-patchwork-quilting/id911319058?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "14.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 1527939571,
+      "trackName": "Morning Star Barn Quilts",
+      "bundleId": "com.msbq.designer",
+      "sellerName": "Charles Douglas Chervek",
+      "description": "Barn quilts are popping up everywhere. Not just for barns and farms, barn quilts are American art for indoors or out...a front porch, garden shed, fence or over a fireplace mantle. With our app, you can be on your way to designing your own custom piece of art. It's easy to create your own custom barn quilt today! First select a pattern from our library. Tap to fill quilt pieces with color. You can create your own custom colors and add text. Get creative! You can save and edit your designs. Want to bring your custom barn quilt to life? Just email us through the app and we'll give you a price quote to construct and paint your design. We would love to make your custom creation! For more information on our barn quilts including photo gallery, construction, and contact information, please visit our website at morningstarbarnquilts.com. You can find us also on Instagram and Pinterest.",
+      "averageUserRating": 2.66667,
+      "userRatingCount": 3,
+      "currentVersionReleaseDate": "2020-12-06T22:51:49Z",
+      "releaseDate": "2020-08-24T07:00:00Z",
+      "genres": [
+        "Graphics & Design"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/morning-star-barn-quilts/id1527939571?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "8.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 506299078,
+      "trackName": "Quilter's World",
+      "bundleId": "com.pixelmags.reader.managed.drg-texas-quilters-world",
+      "sellerName": "Annie's Publishing, LLC",
+      "description": "30-DAY RISK-FREE TRIAL - Download and read the current issue for FREE for 30 days. Cancel within 30 days at no charge or do nothing and we'll begin your subscription. Quilter’s World magazine brings you 15 to 20 original new quilt patterns that you can trust, every issue! You get the very best of traditional and contemporary quilting with complete, full-size quilt patterns, informative articles about quilts and quilt designers, helpful tips & techniques, detailed reviews, and everything else you need to enjoy quilting to the max. Warm up your home and wardrobe with wall quilts, lap quilts, quilted garments and accessories, and of course, full-size quilts guaranteed to bring you hours of pleasure and nods of appreciation for good taste and workmanship. ---------------------------------------------- This is a free app download. Within the app users can purchase the current issue and back issues. Subscriptions are also available within the application. A subscription will start from the latest regular issue at the time of purchase. -The subscription will renew automatically unless cancelled more than 24 hours before the end of the current period. You will be charged for renewal within 24 hours of the end of the current period, for the same duration and at the current subscription rate for the product. -You may turn off the auto-renewal of subscriptions through your Account Settings, however you are not able to cancel the current subscription during its active period. -Payment will be charged to your iTunes account at confirmation of purchase and any unused portion of a free trial period, if offered, will be forfeited when a subscription to that publication is purchased. -If a subscription offers a free trial, at the end of the trial period, you will be charged the full price of the subscription. You may cancel a subscription during its free trial period via the subscription settings on your iTunes account. This must be done 24 hours before the end of the subscription period to avoid being charged. Users can register for/ login to a pocketmags account in-app. This will protect their issues in the case of a lost device and allow browsing of purchases on multiple platforms. Existing pocketmags users can retrieve their purchases by logging into their account. We recommend loading the app for the first time in a wi-fi area so that all issue data is retrieved. If your app will not load past the splash page after a first install or an update, please delete and reinstall the app from the App Store Help and frequently asked questions can be accessed in-app and on pocketmags. If you have any problems at all please do not hesitate to contact us: help@pocketmags.com -------------------- You can find our privacy policy here: http://www.pocketmags.com/privacy.aspx You can find our terms and conditions here: http://www.pocketmags.com/terms.aspx",
+      "averageUserRating": 4.76923,
+      "userRatingCount": 65,
+      "currentVersionReleaseDate": "2025-08-18T22:12:23Z",
+      "releaseDate": "2012-04-16T16:58:04Z",
+      "genres": [
+        "Lifestyle",
+        "Magazines & Newspapers"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6021"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quilters-world/id506299078?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 1590796710,
+      "trackName": "Brother Artspira",
+      "bundleId": "com.brother.ph.mobile.craftsewing",
+      "sellerName": "Brother Industries, LTD.",
+      "description": "Artspira - Brother’s mobile embroidery, sewing, cutting and creative printing design app. Artspira is free to download and for use on mobile and tablet devices. ■ ARTSPIRA BASIC FEATURES • Design library - Thousands of embroidery, cutting, and printing designs. - 2,000+ Disney embroidery and cutting designs. - 300+ fonts, Monogram, Warp, and other text editing tools (Arc, Circle, Spiral). • Education - Basics and How-to videos to support your creative journey. - Educational videos and support information tailored to your sewing machine. • Weekly Inspo Original magazines with beginner, intermediate, trend, and holiday projects. • Gallery Join the Artspira community—build your own Gallery, post your projects, comment, and follow your favorite makers. • AR function See how designs will look on your projects before you stitch them out. • Storage Save up to 20 files in cloud storage. Import external files: embroidery (PES, PHC, PHX, DST), cutting (SVG, FCM), printing (JPEG, PNG). ■ FEATURES BY MACHINE TYPE • Embroidery - Edit Artspira library designs - Draw your own embroidery designs - Convert images to embroidery – subscription required - Cross stitch conversion – subscription required - Sublimation Embroidery – subscription required • Sewing - Access educational videos and support information tailored to your sewing machine by entering its serial number • Cutting - Edit Artspira library designs - Draw your own cutting designs - Line Art Tracing • Sublimation and Fabric Printing - Edit Artspira library designs - Sublimation blanks templates - Sublimation Embroidery – subscription required ■ SUBSCRIPTION Sign up for a free trial today! Upgrade to an Artspira+ subscription and benefit from: - 10,000+ designs – more added every month - Exclusive premium editing functions - Expand storage space – save up to 100 designs - 30% off every Disney design purchase Please note Artspira+ is only available in certain countries. Tap here to see available countries. https://support.brother.com/g/s/hf/mobileapp_info/artspira/plan/country/index.html ■ COMPATIBLE MODELS Artspira and Artspira+ are compatible with Brother wireless-enabled embroidery, ScanNCut SDX, fabric, and sublimation printing machines. You can link your sewing machine with Artspira by entering its serial number, but design transfer is not possible because of the lack of wireless connectivity. Please note: Fabric and sublimation printing machines are only available in certain regions. Please check your local Brother website for a list of compatible machines. ■ SUPPORTED OS Please refer to the information section. The supported OS may change periodically. If there are any updates to the supported OS, we will notify you at least three months in advance. Please refer to the following terms of service for this application: https://s.brother/snjeula Please refer to the following privacy policy for this application: https://s.brother/snjprivacypolicy If you have questions about this app, please send them to the email address listed in the app's App Store description. mobile-apps-ph@brother.co.jp",
+      "averageUserRating": 4.54878,
+      "userRatingCount": 5966,
+      "currentVersionReleaseDate": "2026-07-06T07:02:19Z",
+      "releaseDate": "2022-09-27T07:00:00Z",
+      "genres": [
+        "Graphics & Design",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Graphics & Design",
+      "genreIds": [
+        "6027",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/brother-artspira/id1590796710?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 475622761,
+      "trackName": "Quilt Wizard",
+      "bundleId": "com.patrickdiligent.quiltwizard",
+      "sellerName": "patrick diligent",
+      "description": "Which fabrics for this project ? Isn't it too bright ? Too dull ? I wish I could see it in the block ! Gain confidence in your quilt fabrics shopping with Quilt Wizard ! Take pictures of fabrics right on the spot, and immediately try them in your quilt project on screen. No need to carry snippets of fabrics with you when shopping, you can see straight away on your device how your choice of fabrics will perform on your quilt. Here is how it works : (1) Take pictures of your fabrics at home and keep them available into your photo library. From the application, select fabrics from the photo library or take a new picture with the camera. (2) Choose fabrics and blocks to compose your quilt on the screen. Create a block, fill it with selected fabrics. Create as many blocks as necessary. Rotate, flip, duplicate blocks, to suite your design. (3) Assemble the quilt with the blocks you have designed. (4) Take photos of fabrics at the shop or quilt show. Leave a note so you can remember where you have seen this fabrics. Incorporate it into your existing block design, and immediately see the result on screen. Not looking good ? Try another fabrics ! Designing a quilt will only take few minutes !! Features : - Build your fabrics stash from the Photo Library or built-in camera - Choose from a list of most popular quilting blocks (100+). - Sashing and border options. - Incorporate your already sawn blocks into your project - Block rotation, flipping and duplication. - Choose from two quilt layouts : straight, or on point blocks layout. - Zoom in and out your quilt and block design while editing. - Configurable quilt size. - Design multiple quilts at the same time. See the user guide at http://blog.wattlebird.com.au",
+      "averageUserRating": 2.96774,
+      "userRatingCount": 31,
+      "currentVersionReleaseDate": "2020-04-12T10:56:48Z",
+      "releaseDate": "2011-11-04T23:36:05Z",
+      "genres": [
+        "Lifestyle",
+        "Utilities"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quilt-wizard/id475622761?uo=4",
+      "price": 5.99,
+      "currency": "USD",
+      "minimumOsVersion": "12.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 1120958195,
+      "trackName": "Quiltler - Quilt Designer",
+      "bundleId": "com.chriswhite.quitler",
+      "sellerName": "Creative Greenlight LLC",
+      "description": "Quiltler is a fun and powerful quilt generation machine! Just load it up and within seconds you will be able to have great power at the tip of your hands. What Quiltler can currently do: -Generate quilts from patterns built into the application (more coming soon) -Let you take a picture or upload from your photo library to use as a pattern block -Let you manipulate your quilt patterns to up to 35 h x 35 w in pattern blocks -For default patterns you can change the color, rotate them and swap out the patterns. -For custom patterns you can rotate them and swap them around. -Calculate required amounts of fabric in yards and inches for every square you need to complete your quilt -Save and load your quilt configurations -Loads of default patterns to choose from! Get premium access and get access to unlimited creation and remove all ads! What we expect from you: Please send an e-mail to chris@creativegreenlight.com with suggestions on how Quiltler can be enhanced! You can also take a screenshot from anywhere in the app which will auto generate a support message with the screenshots. This could be used to request new features or report any bugs!",
+      "averageUserRating": 3.78995,
+      "userRatingCount": 219,
+      "currentVersionReleaseDate": "2019-12-14T22:07:11Z",
+      "releaseDate": "2016-06-06T19:53:55Z",
+      "genres": [
+        "Productivity",
+        "Utilities"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6002"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quiltler-quilt-designer/id1120958195?uo=4",
+      "price": 9.99,
+      "currency": "USD",
+      "minimumOsVersion": "10.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 6444586996,
+      "trackName": "My Quilts",
+      "bundleId": "com.kileysquiltroom.myquilts",
+      "sellerName": "Ferocity LLC",
+      "description": "Introducing My Quilts: Unleash Your Creative Quilting Potential! Capture, Share, and Organize Your Quilting Journey like Never Before! Seamlessly Record Your Quilting Projects: With My Quilts, you have the ultimate digital companion for documenting your quilting masterpieces. Effortlessly create a digital record of every stitch, fabric choice, and design inspiration. Keep track of project details, progress, and completion dates, all in one convenient app! Create Your Own Profile You can upload a profile picture, add a bio, and customize your privacy settings. Find and follow other quilters to customize your home feed making it easy to follow your friends. Share Your Beautiful Creations: Share your passion for quilting with the world! My Quilts empowers you to showcase your quilting projects with a vibrant and supportive community. Easily upload photos, descriptions, and even share your favorite techniques. Categorize and Sort with Ease: No more searching through stacks of physical albums or endless folders on your computer. My Quilts revolutionizes organization by allowing you to categorize and sort your projects effortlessly. Seamlessly browse through your entire quilting portfolio, filter by technique, fabric type, or even project size. Find that perfect inspiration or reference your favorite project whenever you desire. Join the My Quilts Community Today! Whether you're a seasoned quilting pro or just starting on your quilting journey, My Quilts is the ultimate companion you need. It's time to unleash your creativity, connect with like-minded quilters, and share your passion with the world. Download My Quilts now and embark on a digital quilting adventure like never before! Download now and start your My Quilts experience today! Terms of Use https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.6717,
+      "userRatingCount": 265,
+      "currentVersionReleaseDate": "2026-07-21T15:37:51Z",
+      "releaseDate": "2023-08-01T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Productivity"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/my-quilts/id6444586996?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.1",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 891316210,
+      "trackName": "Innova Designer",
+      "bundleId": "com.abminternational.InnovaDesigner",
+      "sellerName": "ABM International, Inc.",
+      "description": "Imagine being able to preview your choice of 1,000's of patterns directly on your quilt? With Innova Designer, you can! Select your quilt, and one or more patterns using a variety of Tags and see the patterns as they would appear on your quilt! Select quilt from your camera roll. Choose a color thread for your pattern, and select a Tag to choose from matching patterns. You can select a pattern to repeat up to 5 times across and 5 times down. NOTE: This app is for customers of ABM International / Innova Longarm and the AutoPilot software. Users must use the AutoPilot software on their quilting machine to upload custom patterns to the Innova Cloud. Then, use the app and download those patterns to an iPhone/iPad/iPod touch. This only needs to be done once, or when new patterns are added to AutoPilot.",
+      "averageUserRating": 3.0,
+      "userRatingCount": 2,
+      "currentVersionReleaseDate": "2017-11-16T12:10:07Z",
+      "releaseDate": "2015-02-20T19:13:47Z",
+      "genres": [
+        "Utilities",
+        "Business"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6000"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/innova-designer/id891316210?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "8.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 6776541705,
+      "trackName": "QuiltFit: Quilt Design Planner",
+      "bundleId": "com.daa.bao.QuiltFit",
+      "sellerName": "家宝 戴",
+      "description": "QuiltFit is a focused quilt planning workspace for quilters who want to move from idea to fabric without a spreadsheet. Start with a block pattern, choose fabrics, preview the full quilt, estimate yardage, build a shopping list, create a cutting plan and follow the sewing sequence from one app. It is made for patchwork beginners, weekend makers, guild quilters, sewing teachers and anyone who wants a clearer path from \"I love this pattern\" to \"I know what to buy, cut and sew.\" QuiltFit keeps the workflow practical: design first, then fabric requirements, then cutting, then piecing. Design your quilt visually Choose a classic block pattern such as Nine Patch, Log Cabin, Half-Square Triangle or Flying Geese. Set the quilt width and height in blocks, pick a finished block size and see the finished size update as you work. The preview shows how the block repeats across the whole project, so color balance and contrast are easier to judge before you cut real fabric. Add fabrics you own or plan to buy. Use built-in colors and textures, create custom fabrics, name them, and assign them to the block. Paint a single cell, fill a role, or use Magic Fill to quickly explore layouts and compare palettes before cutting. Fabric planning and shopping list Once fabrics are assigned, QuiltFit calculates yardage estimates for each fabric based on project size, block size, seam allowance and safety margin. The shopping list turns those estimates into a checklist with fabric names, colors, quantities and optional prices. Mark items as bought, share the list, or bring it to the fabric shop. Cutting made less confusing QuiltFit turns the design into a cut list with piece counts and cut sizes. Use the simple list for a fast checklist, or the visual cutting view to see work grouped by fabric. Export a printable PDF cut list with fabric requirements and piece sizes — a clean plan you can check, print and follow. Sewing guidance block by block After shopping and cutting, QuiltFit helps you move into sewing. Illustrated steps break the selected block into smaller actions: cut pieces, arrange units, sew seams, press, assemble rows and complete blocks. Track progress across the blocks in your quilt top so the project feels manageable instead of scattered across notes, photos and memory. Project library and settings Save multiple quilts in the project library, switch between them and keep each design's fabrics, size, progress and settings together. Adjust seam allowance, safety margin, block size, project status and language from the settings screen. QuiltFit is designed as a compact planning notebook for the quilting work that happens before and during sewing. Privacy built into the workflow QuiltFit is built around five practical promises: Offline: core planning tools are available without relying on a web account. No Login: open the app and design, calculate, cut and sew without creating an account. Privacy First: quilt names, fabric choices, notes and project details stay personal. On Device: planning, yardage, cut lists, PDFs, settings and progress are handled on your device. No Cloud Upload: QuiltFit does not upload your projects, fabric lists, shopping lists, cut plans or sewing progress to its own cloud. Subscription QuiltFit Pro unlocks Magic Fill, cutting layouts and PDF export. It is a monthly or yearly auto-renewing subscription with a 3-day free trial. Payment is charged to your Apple ID after the trial and at renewal, unless cancelled at least 24 hours before the period ends. Manage or cancel in App Store account settings. Support https://5gotogo.github.io/QuiltFit-privacy/apple-review-support.html Privacy Policy https://5gotogo.github.io/QuiltFit-privacy/privacy-policy.html",
+      "averageUserRating": 4.59999,
+      "userRatingCount": 5,
+      "currentVersionReleaseDate": "2026-06-25T00:15:14Z",
+      "releaseDate": "2026-06-12T07:00:00Z",
+      "genres": [
+        "Utilities",
+        "Productivity"
+      ],
+      "primaryGenreName": "Utilities",
+      "genreIds": [
+        "6002",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quiltfit-quilt-design-planner/id6776541705?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "17.6",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 1413710253,
+      "trackName": "Fashion Design Sketches: Style",
+      "bundleId": "com.pocketartstudio.fashiondesign",
+      "sellerName": "POKET ART STUDIO, OOO",
+      "description": "Fashion Design Sketches is a sketchpad for all fashion designers from professional artists to amateurs who want to bring their creative ideas into reality. Make unique, fresh and exceptional looks for women, men and kids. THE ONLY APP YOU NEED FOR FASHION DESIGN: > Explore modular patterns and rich fabric textures, selecting from options like wool, linen, lace, velvet, and snakeskin, complemented by prints in geometric, natural, abstract, and ethnic designs; > Express yourself with endless color possibilities and a versatile toolkit – featuring brushes, pencils, markers, and erasers; > Wide range of 2D and 3D templates; > Customize your designs with a diverse selection of clothing elements: bodices, sleeves, collars, necklines, skirts, and more; > Split View is here: fashion sketching & entertainment, side-by-side on iPad! > Easily share your fashion sketches to social media or connect with our community through in-app stories. USE AI TECHNOLOGY Create your own sketch, choose a style and color it using AI. You can repeat light, highlights, shadows, make the sketch more voluminous, and draw in different techniques. Sketch like a Pro, even if you are a beginner! Privacy Policy: https://pocketart.studio/privacy Terms Of Use: https://pocketart.studio/tos",
+      "averageUserRating": 4.22965,
+      "userRatingCount": 4694,
+      "currentVersionReleaseDate": "2026-07-16T11:29:05Z",
+      "releaseDate": "2018-08-06T03:14:47Z",
+      "genres": [
+        "Productivity",
+        "Lifestyle"
+      ],
+      "primaryGenreName": "Productivity",
+      "genreIds": [
+        "6007",
+        "6012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/fashion-design-sketches-style/id1413710253?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 1182763043,
+      "trackName": "Quiltspace",
+      "bundleId": "com.konnected",
+      "sellerName": "Konnect Industries, LLC",
+      "description": "“I just love this app” “Easy to use” \"So glad I found this community\" If you love quilting, this app is for you! Quiltspace is a free app that brings the world's most passionate quilters into one place. Attend quilt shows around the country, explore beautiful quilts, and share your experience with new friends and old. Welcome to your quilting community.",
+      "averageUserRating": 4.71681,
+      "userRatingCount": 226,
+      "currentVersionReleaseDate": "2025-09-25T12:19:12Z",
+      "releaseDate": "2017-01-13T19:50:21Z",
+      "genres": [
+        "Social Networking",
+        "Business"
+      ],
+      "primaryGenreName": "Social Networking",
+      "genreIds": [
+        "6005",
+        "6000"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quiltspace/id1182763043?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.3",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 1548312728,
+      "trackName": "CREATIVATE",
+      "bundleId": "com.mysewnet.embroidery",
+      "sellerName": "VSM Group AB",
+      "description": "The CREATIVATE™ App is your all-in-one resource for sewing, embroidery, quilting, and craft cutting. Seamlessly access a wealth of information and inspiration right at your fingertips, including: - Step-by-Step Guidance - Stitch Database - Troubleshooting Help Quilting Features: Includes a simple, easy-to-use digital tool that makes it easy to get it right the first time (even if it's your very first time!). From designing your quilt blocks, to cutting your fabric, to piecing, to sewing - CREATIVATE Quilting will be with you every step of the way. CREATIVATE Quilting lets you choose from a variety of pre-selected block designs, then gives you the creative freedom to change the fabrics, rotate or flip the shapes in your block, add borders and sashes, and preview what your finished masterpiece will look like! You'll get easy-to-follow cutting charts and instructions and can access resources that will guide you through the piecing, sandwiching and quilting steps. CREATIVATE Quilting now features an exclusive integration with the SINGER Momento Craft Cutting Machine, making it easier than ever to cut your quilting shapes faster and more precisely than hand cutting! Designing and making quilts has never been this fun and easy! Craft Cutting Features: Use the dedicated Crafting Space to create your own design, with access to hundreds of projects and crafting files. Then complete your projects on the SINGER® MOMENTO™ 24” Craft Cutting Machine - Design: Add text, shapes, images, designs and more directly to your canvas. - Customize: Use the intuitive, built-in tools to make the design your own. - Endless Possibilities: With support for fabric, vinyl, and many more crafting materials, there’s no end to the type of projects you can make. Sewing Features: Whether you're working on a new project or trying to master your machine, you will find comprehensive features to support you from setup to advanced sewing projects. - Personalized Learning: Learn how to set up and operate your machine with ease, with access to manuals, guides, and content created for your machine. - Sewing Assistant Wizard: Select a specific sewing activity and fabric type to receive step-by-step instructional content, making even complex projects manageable. - Learning Tutorials: Get the most out of your sewing machine while improving your skills with step-by-step stitch and technique tutorials. Embroidery Features: Use these features along with your mySewnet-connected embroidery machine and the CREATIVATE Embroidery Software - Design Editor for Tablet: We’ve taken core design and editing cools from the Desktop software and built them into the App for your iPad. - Design Placement: Take and send a photo of your hoop directly to your machine so you can easily place the embroidery design on the right fabric area. - PhotoStitch: Turn any photo into an embroidery design by simply taking a picture using the PhotoStitch Feature. Download now and make your everyday creativity even more fun and exciting! mySewnet and CREATIVATE-connected machines are premium craft cutting, sewing, quilting and embroidery machines sold under following brands: SINGER®, HUSQVARNA® VIKING®, and PFAFF®. Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+      "averageUserRating": 4.42105,
+      "userRatingCount": 380,
+      "currentVersionReleaseDate": "2026-03-16T13:45:13Z",
+      "releaseDate": "2021-09-30T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Productivity"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/creativate/id1548312728?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "16.0",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 1031736629,
+      "trackName": "BLOCK Magazine by MSQC",
+      "bundleId": "com.msqc.block",
+      "sellerName": "Missouri Star Quilt Company",
+      "description": "BLOCK magazine is truly a one-of-a-kind resource for quilters. Each issue is filled with beautiful color photos, inspiring stories, and ten gorgeous quilt patterns, with absolutely no ads. Ever since we released our first issue back in 2014, we’ve constantly been improving to bring you even more of what you love. Thank you for all your kind letters and emails telling us how BLOCK has inspired you to make new and amazing quilts. We think you’re incredible! You inspire us to make BLOCK even better. Get ready for a brand new digital experience with this BLOCK Magazine app! We had such a positive response to our Quilting Tutorials app that we knew we had to bring BLOCK to your screen next. That led us to create this BLOCK mobile app, just for you! Thank you for being a part of this mobile adventure with us. We will take it one step at a time together! – Jenny",
+      "averageUserRating": 4.60152,
+      "userRatingCount": 1443,
+      "currentVersionReleaseDate": "2021-08-27T11:58:02Z",
+      "releaseDate": "2015-11-03T20:42:06Z",
+      "genres": [
+        "Lifestyle",
+        "Reference"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6006"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/block-magazine-by-msqc/id1031736629?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.1",
+      "matched_seed": "quilt design app"
+    },
+    {
+      "trackId": 6480159281,
+      "trackName": "Color Block : Puzzle Games",
+      "bundleId": "com.perrygames.colorblock",
+      "sellerName": "XEMEX INDUSTRY AND TRADE CO., LIMITED",
+      "description": "Welcome to Color Block: Puzzle Games, where you can enjoy engaging gameplay that's perfect for relaxing anytime. Just drag blocks to clear lines and earn points—the more you plan, the higher your score! Experience the joy of color block puzzle and get lost in the color block jam excitement. Aim to become a block master in this cube block adventure. Get ready for block mania moments. How to Play Drag blocks onto the board. Try to fill rows or columns to clear them and score points. The smarter your moves, the more lines you clear at once, and the higher your score climbs. No timers rushing you, just pure color block puzzle fun. Keep going as long as you can. If you run out of space, the game is over. Main Features - Simple Controls: Non-stop block mania. Simple drag controls make this wood block puzzle smooth and friendly. - Relaxing Play: Just pure block master thinking in a relaxing cube block world. Enjoy this calming wood block puzzle. - Combo Rewards: Clear multiple lines for big scores and feel the thrill of block crazy chains. Build high scores in this wood block game. - Play Anytime: Get ready to block crazy moments. Enjoy block jam anywhere, anytime. Dive into these new block crazy levels—you'll be hooked. Download Color Block: Puzzle Games now and join the block mania fun. Become a block master in the world of color block jam and wood block game challenges.",
+      "averageUserRating": 4.93717,
+      "userRatingCount": 5094,
+      "currentVersionReleaseDate": "2025-10-29T09:41:57Z",
+      "releaseDate": "2024-03-31T07:00:00Z",
+      "genres": [
+        "Games",
+        "Casual",
+        "Puzzle"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7003",
+        "7012"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-block-puzzle-games/id6480159281?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "13.0",
+      "matched_seed": "quilt block designer"
+    },
+    {
+      "trackId": 1466197423,
+      "trackName": "Wood Block Puzzle Games",
+      "bundleId": "puzzle.blockpuzzle.cube.relax",
+      "sellerName": "OAKEVER GAMES PTE. LTD.",
+      "description": "Playing Wood Block Puzzle 10 minutes a day brings you incredible challenging and relaxing experiences. Escape into a world of satisfying block-blasting fun! Wood Block Puzzle Game is a classic and addictive wooden block puzzle game that challenges you to fit blocks of different shapes into an 8×8 grid. Strategize, clear rows and columns, and rack up high scores! Perfect for all ages and skill levels—easy to pick up, but hard to master! How to Play: 1. Drag and drop blocks into the board. 2. Fill the blocks in a row or column to clear blocks and score points. 3. The game will be over if there's no room for the given blocks. 4. Score bonuses by making consecutive eliminations (combos!). 5. Aim for the highest score and become the ultimate Block Puzzle Master! Features of Wood Block Puzzle: 1. Free to play – Enjoy endless block puzzle fun, anytime, anywhere! 2. Relaxing, WiFi-free gameplay – Play at your own pace, offline or online. 3. Wooden design – Smooth, natural visuals for a calming experience. 4. Fun for all ages – A great game for kids, adults, and seniors alike. 5. Track your scores – Improve your strategy with every game. 6. Exciting combo mode – Create chain reactions and experience the thrill of board-shaking combos! 7. Easy to learn, hard to master – Simple controls with deep strategic potential. 8. Satisfying blast effects – Crisp sound effects make every move more exciting. 9. No time limits – Pure puzzle-solving enjoyment without pressure. 10. Frequent updates – Fresh block shapes for new challenges every time you play! What You'll Experience: 1. A classic yet stimulating block puzzle game – Every move tests your logic, strategy, and placement skills! 2. Play with family – A perfect casual game to enjoy with your kids or parents. 3. Friendly competition – Challenge friends and family to see who can rack up the highest score! 4. Share the fun with friends—spend an enjoyable afternoon challenging each other in this exciting block blast adventure! 5. A truly addictive game – Easy, fun, and impossible to put down! Terms of Service: https://oakevergames.com/tos.html Privacy Policy: https://oakevergames.com/pp.html Download Wood Block Puzzle Game today! Challenge yourself, compete with friends, and enjoy the satisfying thrill of block-blasting puzzles!",
+      "averageUserRating": 4.72382,
+      "userRatingCount": 429686,
+      "currentVersionReleaseDate": "2026-03-04T10:38:42Z",
+      "releaseDate": "2019-06-20T23:52:34Z",
+      "genres": [
+        "Games",
+        "Board",
+        "Puzzle",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7004",
+        "7012",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/wood-block-puzzle-games/id1466197423?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "quilt block designer"
+    },
+    {
+      "trackId": 6755566364,
+      "trackName": "Quilt Duck",
+      "bundleId": "com.quiltduck.quilt-duck-app",
+      "sellerName": "Rodney Peterson",
+      "description": "“Honey, you’re a programmer — write me a mobile app that lets me photograph my fabric and arrange it in dozens of different quilt patterns. I want to see my next quilt with my fabric before I start cutting. Oh, and can it calculate the yardage and provide a cutting list?” “Sure, love, I think I can do that.” Enter Quilt Duck! Quilt Duck was built to answer a simple question: What will this quilt look like with my fabric? Quilt Duck offers a Free Version • Photograph real fabrics and apply them to classic quilt patterns — flying geese, friendship star, and others • Experiment with color, contrast, and layout • Find coordinating fabrics using your camera — at home or at the fabric store • Make confident decisions before cutting precious fabric • The free version allows you to create four fabric swatches and design quilts with twelve classic patterns The Full Version is unlocked from within the app √ Access to 50+ quilt patterns — starry bursts, whimsical waves, sturdy log cabins and bright bear claws √ Add unlimited fabric swatches √ Calculate fabric yardage and generate cutting dimensions automatically √ One-time purchase, no subscription! See your fabric in your quilt before you start cutting.",
+      "averageUserRating": 5.0,
+      "userRatingCount": 11,
+      "currentVersionReleaseDate": "2026-07-17T05:44:04Z",
+      "releaseDate": "2026-05-11T07:00:00Z",
+      "genres": [
+        "Lifestyle",
+        "Productivity"
+      ],
+      "primaryGenreName": "Lifestyle",
+      "genreIds": [
+        "6012",
+        "6007"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/quilt-duck/id6755566364?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "quilt block designer"
+    },
+    {
+      "trackId": 6478063606,
+      "trackName": "Color Block: Combo Blast",
+      "bundleId": "com.colorblock.blockpuzzle.colorblockgame",
+      "sellerName": "FLYYES TECHNOLOGY PTE. LTD.",
+      "description": "Color Block: The Ultimate Classic Block Puzzle Adventure Experience the Timeless Classic of Block Puzzle Games with a Classic Twist! Color Block is the ultimate fusion of strategic thinking and vibrant fun, bringing the classic block-dropping gameplay into a new dimension of block puzzles. This free block game is designed for puzzle enthusiasts seeking an adventure that challenges the brain and provides endless entertainment. Key Features of Color Block: - Classic Block-Dropping Gameplay: Enjoy the familiar joy of block-dropping action, reimagined for a new generation of puzzle games. - Puzzle Mastery: Test your wits and outsmart the game with strategic moves to clear lines and rack up points. - Block Games Redefined: The classic block blast experience gets a fresh update, perfect for both new and seasoned players. - Brain-Boosting Adventure: Engage in a mental workout that stimulates your cognitive skills and hones your problem-solving abilities. - Classic Challenge: Dive into the nostalgia of classic block puzzles with a modern twist that keeps you hooked. - Stunning Visuals: Immerse yourself in the vibrant colors and animations that bring each block to life. How to Play Color Block: - Drag and Drop: Touch and move the blocks to the 8x8 grid with intuitive mechanics. - Strategic Clearing: Aim to fill rows or columns to clear them and score points. - Combo Creation: Keep your combos alive by clearing lines within three moves, pushing your puzzle prowess to new heights. - Non-Rotatable Blocks: Add a layer of complexity and strategy to your gameplay, as blocks don't rotate, challenging you to think ahead. Tips for Becoming a Block Puzzle Master: - Anticipate and Plan: Visualize several moves ahead to set up the perfect combo chains. - Optimize Space: Use the grid efficiently to maximize block placement options and create more clearing opportunities. - Patience is Key: Take your time to strategize; quick moves can sometimes disrupt the potential for high-scoring combos. - Adapt and Overcome: As the game progresses, adapt your strategy to the evolving patterns and challenges. Embark on a brain-stimulating adventure that bridges the gap between classic and modern block games. Color Block offers a unique blend of classic block-dropping action and puzzle-solving fun, providing a classic challenge with a fresh twist. Privacy Policy: http://www.flyyestechnology.com/index.php/privacy-policy/ Terms Of Use:http://http://www.flyyestechnology.com/index.php/terms-of-use/",
+      "averageUserRating": 4.85376,
+      "userRatingCount": 83914,
+      "currentVersionReleaseDate": "2026-07-24T21:15:40Z",
+      "releaseDate": "2024-02-23T08:00:00Z",
+      "genres": [
+        "Games",
+        "Casual",
+        "Puzzle",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7003",
+        "7012",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/color-block-combo-blast/id6478063606?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "12.0",
+      "matched_seed": "quilt block designer"
+    },
+    {
+      "trackId": 6745537969,
+      "trackName": "Craft Explore: Block Builder",
+      "bundleId": "com.wilds.craft.mysticland.explore",
+      "sellerName": "Phuong Pham",
+      "description": "Welcome to Craft Explore: Block Builder, the ultimate craft block sandbox where your imagination builds the world. Enter a massive craft world filled with endless possibilities. Explore, mine, build, and survive in a stunning 3D block craft universe designed for players who love creative freedom. If you enjoy worldcraft, block world, and immersive 3D craft experiences, this is the perfect adventure for you. Build your own block craft world, shape landscapes, and create structures in a true crafting world environment. HOW TO PLAY? - Explore a massive block world filled with resources - Mine materials in your craft world - Use crafting tools to create structures in true 3d craft style - Start craft building houses, cities, and castles - Design your own craft block craft adventure EXPLORE MASSIVE CRAFT WORLD - Step into an open block world full of resources and hidden areas. - Discover new lands, gather materials, and expand your personal craft world master block 3D universe. - From peaceful creative mode to exciting survival gameplay, Craft Explore offers a complete craft exploration experience inside a vibrant worldcraft 3D sandbox. BUILD WITHOUT LIMITS - Unleash your creativity with powerful craft and building tools. - Design houses in classic craft building style - Construct cities in your own block craft world - Shape terrain in a dynamic 3D block craft map - Create unique structures in this advanced block 3D craft game Whether you enjoy building craft, mini world craft, or large-scale sandbox creation, this game gives you full freedom to design your dream world. TRUE CRAFT EXPERIENCE Craft Explore delivers smooth and optimized 3D craft gameplay for mobile devices. Enjoy features inspired by popular sandbox styles like: - Crazy block craft adventures - Creative bloxy craft building - Immersive box craft 3D game mechanics - Open-world craftblock exploration Every block you place transforms your personal craft world building craft masterpiece. GAME FEATURES - Huge open craft world map - Advanced craft and build system - Realistic block world environment - Creative & survival modes - Endless craft exploration - Smooth 3D block craft graphics Create, explore, and master your own craft block craft adventure anytime, anywhere. WHY CHOOSE CRAFT EXPLORE: BLOCK BUILDER? If you’re looking for a fun and immersive worldcraft sandbox, a creative block craft world, or a powerful 3D craft building experience, Craft Explore: Block Builder is your ultimate choice. Design your dream craft world, become a master of craft building, and enjoy one of the most exciting block world adventures available today. Start your craft explore journey today. Build your own craft world, explore a limitless block craft world, and enjoy the ultimate 3D block craft experience!",
+      "averageUserRating": 3.32,
+      "userRatingCount": 75,
+      "currentVersionReleaseDate": "2026-04-29T19:53:39Z",
+      "releaseDate": "2026-02-27T08:00:00Z",
+      "genres": [
+        "Games",
+        "Simulation",
+        "Entertainment"
+      ],
+      "primaryGenreName": "Games",
+      "genreIds": [
+        "6014",
+        "7015",
+        "6016"
+      ],
+      "trackViewUrl": "https://apps.apple.com/us/app/craft-explore-block-builder/id6745537969?uo=4",
+      "price": 0.0,
+      "currency": "USD",
+      "minimumOsVersion": "15.0",
+      "matched_seed": "quilt block designer"
+    }
+  ],
+  "errors": [],
+  "fetched_at": "2026-07-28T15:55:21+08:00",
+  "cache_hit": false,
+  "cache_path": "/Users/zhoujinyu/.claude/app-factory/itunes_cache/8ab8d91be6847e35315a82b9.json"
+}

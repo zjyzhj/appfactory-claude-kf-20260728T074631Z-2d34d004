@@ -1,0 +1,91 @@
+{
+  "candidate_id": "c7_cutmap",
+  "verdict": "reject_saturated_clone",
+  "axes": {
+    "collision": {
+      "level": "high",
+      "notes": "active L2=4 L3=7 L1=7; zombies=3",
+      "nearest_clones": [
+        {
+          "name": "CutFlow: Cut List Optimizer",
+          "trackId": 6761426703,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/cutflow-cut-list-optimizer/id6761426703?uo=4",
+          "ratingCount": 4
+        },
+        {
+          "name": "cut list calculator",
+          "trackId": 6762535173,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/cut-list-calculator/id6762535173?uo=4",
+          "ratingCount": 1
+        },
+        {
+          "name": "Kerf - Cut List Optimizer",
+          "trackId": 6761802671,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/kerf-cut-list-optimizer/id6761802671?uo=4",
+          "ratingCount": 1
+        },
+        {
+          "name": "Cutlist Optimizer - MDF Master",
+          "trackId": 6743643399,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/cutlist-optimizer-mdf-master/id6743643399?uo=4",
+          "ratingCount": 0
+        },
+        {
+          "name": "KerfMate: Cut List Optimizer",
+          "trackId": 6790028605,
+          "layer": "L3",
+          "url": "https://apps.apple.com/us/app/kerfmate-cut-list-optimizer/id6790028605?uo=4",
+          "ratingCount": 0
+        }
+      ]
+    },
+    "heat": {
+      "band": "red",
+      "head_structure": "concentrated",
+      "moat_types": [
+        "network"
+      ],
+      "zombie_ratio": 0.1,
+      "top1_rating_count": 155246,
+      "active_recent_count": 4,
+      "notes": "pool=18 top1=155246 top3_sum=156308"
+    },
+    "survivability": {
+      "band": "low",
+      "needs_network_for_aha": false,
+      "underserved_moment": "cut list optimizers are web forms or old desktop; a fast local mobile optimizer with project reuse is underserved",
+      "wedge_vs_top_n": [
+        {
+          "name": "CutFlow: Cut List Optimizer",
+          "trackId": 6761426703,
+          "url": "https://apps.apple.com/us/app/cutflow-cut-list-optimizer/id6761426703?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        },
+        {
+          "name": "cut list calculator",
+          "trackId": 6762535173,
+          "url": "https://apps.apple.com/us/app/cut-list-calculator/id6762535173?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        },
+        {
+          "name": "Kerf - Cut List Optimizer",
+          "trackId": 6761802671,
+          "url": "https://apps.apple.com/us/app/kerf-cut-list-optimizer/id6761802671?uo=4",
+          "note": "insufficient evidence of wedge gap"
+        }
+      ],
+      "notes": "factory v0 is local zero-account; network moats are hostile"
+    },
+    "verdict": "reject_saturated_clone",
+    "required_actions": [
+      "Drop this candidate; pick next shortlist item"
+    ],
+    "blockers": []
+  },
+  "evidence_count": 30,
+  "markdown_path": "runs/kf-20260728T074631Z-2d34d004/stages/pm_docs/attempt-1/research/appstore-scan/c7_cutmap.md"
+}
