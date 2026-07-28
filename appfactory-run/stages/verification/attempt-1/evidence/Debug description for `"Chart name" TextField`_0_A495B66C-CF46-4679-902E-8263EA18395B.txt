@@ -1,0 +1,4 @@
+Query chain:
+ →Find: Application 'com.threadgrid.atelier'
+  ↪︎Find: Descendants matching type TextField
+    ↪︎Find: Elements matching predicate '"Chart name" IN identifiers'

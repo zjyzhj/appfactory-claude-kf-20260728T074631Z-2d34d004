@@ -1,0 +1,99 @@
+{
+  "charts" : [
+    {
+      "cells" : "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "createdAt" : "2026-07-28T12:00:00Z",
+      "heightCells" : 9,
+      "id" : "1A2B3C4D-5E6F-4A5B-8C9D-0E1F2A3B4C5D",
+      "maxColors" : 4,
+      "palette" : [
+        {
+          "colorIndex" : 0,
+          "dmcCode" : "Blanc",
+          "stitchCount" : 108,
+          "symbol" : "·"
+        }
+      ],
+      "status" : "active",
+      "stitchedCellIndices" : [
+        45,
+        11,
+        25,
+        12,
+        38,
+        33,
+        4,
+        10,
+        7,
+        37,
+        46,
+        44,
+        8,
+        19,
+        21,
+        2,
+        9,
+        13,
+        26,
+        20,
+        28,
+        29,
+        32,
+        6,
+        5,
+        3,
+        24,
+        40,
+        0,
+        42,
+        30,
+        36,
+        41,
+        22,
+        43,
+        34,
+        31,
+        18,
+        14,
+        16,
+        15,
+        1,
+        23,
+        39,
+        17,
+        27,
+        35
+      ],
+      "title" : "Smoke Sampler",
+      "updatedAt" : "2026-07-28T12:00:00Z",
+      "widthCells" : 12
+    }
+  ],
+  "exportRecords" : [
+
+  ],
+  "hasGrantedInitialCredits" : true,
+  "ledger" : {
+    "balance" : 210,
+    "transactions" : [
+      {
+        "amount" : 100,
+        "createdAt" : "2026-07-28T12:00:00Z",
+        "id" : "2A2B3C4D-5E6F-4A5B-8C9D-0E1F2A3B4C5D",
+        "kind" : "grant",
+        "note" : "Welcome credits"
+      },
+      {
+        "amount" : 110,
+        "createdAt" : "2026-07-28T12:00:00Z",
+        "id" : "3A2B3C4D-5E6F-4A5B-8C9D-0E1F2A3B4C5D",
+        "kind" : "purchase",
+        "note" : "Credit pack",
+        "storekitTransactionId" : "smoke-funding-txn-001"
+      }
+    ]
+  },
+  "stash" : {
+
+  }
+}

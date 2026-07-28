@@ -1,0 +1,5 @@
+Query chain:
+ →Find: Application 'com.threadgrid.atelier'
+  ↪︎Find: Descendants matching type Button
+    ↪︎Find: Elements matching predicate 'label CONTAINS "Export"'
+      ↪︎Find: First Match

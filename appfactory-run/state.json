@@ -69,10 +69,14 @@
       "updated_at": "2026-07-28T07:46:31Z"
     },
     "patch": {
-      "attempts": 0,
+      "attempts": 1,
       "blockers": [],
-      "evidence_refs": {},
-      "status": "pending"
+      "evidence_refs": {
+        "result_ref": "runs/kf-20260728T074631Z-2d34d004/stages/patch/attempt-1/MAP.md",
+        "result_sha256": "df63c9d5dbf83b9af98bd0acf62c44cb631468c6821b443feafc24db91edd00b"
+      },
+      "status": "validated",
+      "updated_at": "2026-07-28T14:19:31Z"
     },
     "pm_docs": {
       "attempts": 1,
@@ -109,10 +113,11 @@
       "updated_at": "2026-07-28T11:17:57Z"
     },
     "verification": {
-      "attempts": 0,
+      "attempts": 1,
       "blockers": [],
       "evidence_refs": {},
-      "status": "pending"
+      "status": "active",
+      "updated_at": "2026-07-28T11:25:43Z"
     }
   },
   "objective": "由 PMAgent 基于真实市场证据自主选定有差异化机会的 iOS 本地零账号 App 产品方向",
@@ -122,7 +127,7 @@
   "run_status": "active",
   "schema_version": "claude-app-factory.run-state.v1",
   "self_evolution_cases": [],
-  "state_version": 11,
+  "state_version": 14,
   "visual_policy": {
     "allowed_primary_examples": [
       "coral",

@@ -1,0 +1,4 @@
+Query chain:
+ →Find: Application 'com.threadgrid.atelier'
+  ↪︎Find: Descendants matching type Button
+    ↪︎Find: Elements matching predicate '"Looks good, continue" IN identifiers'

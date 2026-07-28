@@ -1,0 +1,8 @@
+Test case 'AbsenceTests.testNoUserTrackingUsageDescription()' passed on 'Clone 1 of iPhone SE (2nd generation) - ThreadGrid (93383)' (0.000 seconds)
+Test case 'AbsenceTests.testPrivacyManifestDeclaresNoTracking()' passed on 'Clone 1 of iPhone SE (2nd generation) - ThreadGrid (93383)' (0.001 seconds)
+Test case 'AbsenceTests.testRequiredPermissionKeysPresentWithProductCopy()' passed on 'Clone 1 of iPhone SE (2nd generation) - ThreadGrid (93383)' (0.000 seconds)
+Test suite 'PersistenceAndRenderTests' started on 'Clone 1 of iPhone SE (2nd generation) - ThreadGrid (93383)'
+Test case 'PersistenceAndRenderTests.testLocalStoreRoundTrip()' passed on 'Clone 1 of iPhone SE (2nd generation) - ThreadGrid (93383)' (0.004 seconds)
+Test case 'PersistenceAndRenderTests.testRendererProducesNonEmptyImage()' passed on 'Clone 1 of iPhone SE (2nd generation) - ThreadGrid (93383)' (0.001 seconds)
+Test case 'PersistenceAndRenderTests.testResultCardAndPDFRender()' passed on 'Clone 1 of iPhone SE (2nd generation) - ThreadGrid (93383)' (0.052 seconds)
+Test case 'PersistenceAndRenderTests.testStitchProgressDerivation()' passed on 'Clone 1 of iPhone SE (2nd generation) - ThreadGrid (93383)' (0.000 seconds)

@@ -10,3 +10,6 @@
 {"event": "milestone_validated", "milestone": "rough_app", "ts": "2026-07-28T11:17:57Z"}
 {"attempt": 1, "event": "milestone_attempt", "milestone": "full_rewrite", "ts": "2026-07-28T11:18:13Z"}
 {"event": "milestone_validated", "milestone": "full_rewrite", "ts": "2026-07-28T11:25:28Z"}
+{"attempt": 1, "event": "milestone_attempt", "milestone": "verification", "ts": "2026-07-28T11:25:43Z"}
+{"attempt": 1, "event": "milestone_attempt", "milestone": "patch", "ts": "2026-07-28T12:48:58Z"}
+{"event": "milestone_validated", "milestone": "patch", "ts": "2026-07-28T14:19:31Z"}
