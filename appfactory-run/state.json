@@ -49,10 +49,14 @@
       "status": "pending"
     },
     "full_rewrite": {
-      "attempts": 0,
+      "attempts": 1,
       "blockers": [],
-      "evidence_refs": {},
-      "status": "pending"
+      "evidence_refs": {
+        "result_ref": "runs/kf-20260728T074631Z-2d34d004/stages/full_rewrite/attempt-1/MAP.md",
+        "result_sha256": "a8805b22ba69bd242665760c6e03174939e7db0a9319558642f278d3919c454f"
+      },
+      "status": "validated",
+      "updated_at": "2026-07-28T11:25:28Z"
     },
     "goal": {
       "attempts": 1,
@@ -118,7 +122,7 @@
   "run_status": "active",
   "schema_version": "claude-app-factory.run-state.v1",
   "self_evolution_cases": [],
-  "state_version": 9,
+  "state_version": 11,
   "visual_policy": {
     "allowed_primary_examples": [
       "coral",

@@ -8,3 +8,5 @@
 {"event": "milestone_validated", "milestone": "checklist", "ts": "2026-07-28T09:25:12Z"}
 {"attempt": 1, "event": "milestone_attempt", "milestone": "rough_app", "ts": "2026-07-28T09:25:23Z"}
 {"event": "milestone_validated", "milestone": "rough_app", "ts": "2026-07-28T11:17:57Z"}
+{"attempt": 1, "event": "milestone_attempt", "milestone": "full_rewrite", "ts": "2026-07-28T11:18:13Z"}
+{"event": "milestone_validated", "milestone": "full_rewrite", "ts": "2026-07-28T11:25:28Z"}
