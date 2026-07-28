@@ -13,3 +13,6 @@
 {"attempt": 1, "event": "milestone_attempt", "milestone": "verification", "ts": "2026-07-28T11:25:43Z"}
 {"attempt": 1, "event": "milestone_attempt", "milestone": "patch", "ts": "2026-07-28T12:48:58Z"}
 {"event": "milestone_validated", "milestone": "patch", "ts": "2026-07-28T14:19:31Z"}
+{"event": "milestone_retry_from", "milestone": "verification", "reason": "patch w1 ready(b-14320aed1ab3 merged: ExportRecord.storekitTransactionId + 回填 + 兼容解码 + 单测全绿,7fd1325 已 push),重验 consumable_iap + 导出 smoke + final pass", "reset": ["verification"], "ts": "2026-07-28T14:20:03Z"}
+{"attempt": 2, "event": "milestone_attempt", "milestone": "verification", "ts": "2026-07-28T14:20:12Z"}
+{"event": "milestone_validated", "milestone": "verification", "ts": "2026-07-28T14:31:12Z"}

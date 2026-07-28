@@ -1,0 +1,17 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "9D366A61-1AD6-4232-B749-808F902EFACA",
+        "deviceName" : "iPhone SE (2nd generation)",
+        "exportedFileName" : "6D65B07B-CF6A-470A-BFCC-8ABE8C4247FF.json",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "store-after-pdf-export_0_BACE37F1-17E5-4E4B-85AA-9868FEE20072.json",
+        "timestamp" : 1785248724.424
+      }
+    ],
+    "testIdentifier" : "ThreadGridUITests/testPDFExportRouteRecordsFundingTransaction()",
+    "testIdentifierURL" : "test://com.apple.xcode/ThreadGrid/ThreadGridUITests/ThreadGridUITests/testPDFExportRouteRecordsFundingTransaction"
+  }
+]

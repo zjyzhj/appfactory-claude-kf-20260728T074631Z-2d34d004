@@ -1,0 +1,3 @@
+102bb5130f6de9461529efc37ae4c8743f551615635b5636533456460ec97229  build-test.log
+df65713809e3c1a32b6b2625db4cba729a8bd8bfd6023d41c2749415ad8fd7f4  readback-store-after-pdf-export.json
+a729d7a9cb418bb1183f7865329921a3bd00cef1b234255fbaa23a92620bdc1d  TestResults.xcresult/Info.plist
